@@ -1,0 +1,134 @@
+baseURL = "http://example.com/"
+description = "This domain is established to be used for illustrative examples in documents. You may use this domain in examples without prior coordination or asking for permission."
+languageCode = "en-us"
+theme = "site-theme"
+title = "Example"
+[[menu.desktop]]
+identifier = "architectural-design"
+name = "Architectural Design"
+url = "/our-portfolio"
+weight = 1
+post = "<i class='fas fa-caret-down pl-1'></i>"
+[[menu.desktop]]
+identifier = "homes-available-now"
+name = "Homes – Available Now"
+url = "/current-homes"
+weight = 2
+[[menu.desktop]]
+identifier = "luxury-home-remodels"
+name = "Luxury Home Remodels"
+url = "/remodels"
+weight = 3
+[[menu.desktop]]
+identifier = "about-us"
+name = "About Us"
+url = "/about-us"
+weight = 4
+post = "<i class='fas fa-caret-down pl-1'></i>"
+[[menu.desktop]]
+identifier = "blog"
+name = "Blog"
+url = "/blog"
+weight = 5
+[[menu.desktop]]
+identifier = "contact"
+name = "Contact"
+url = "/contact-us"
+weight = 6
+[[menu.mobile]]
+identifier = "architectural-design"
+name = "Architectural Design"
+url = "#architectural-design-dropdown"
+weight = 1
+pre = "architecturaltoggle = !architecturaltoggle"
+[[menu.mobile]]
+identifier = "homes-available-now"
+name = "Homes – Available Now"
+url = "/current-homes"
+weight = 2
+[[menu.mobile]]
+identifier = "luxury-home-remodels"
+name = "Luxury Home Remodels"
+url = "/remodels"
+weight = 3
+[[menu.mobile]]
+identifier = "about-us"
+name = "About Us"
+url = "#about-us-dropdown"
+weight = 4
+pre = "abouttoggle = !abouttoggle"
+[[menu.mobile]]
+identifier = "blog"
+name = "Blog"
+url = "/blog"
+weight = 5
+[[menu.mobile]]
+identifier = "contact"
+name = "Contact"
+url = "/contact-us"
+weight = 6
+[[menu.architecturaldesign]]
+identifier = "modern-luxury"
+name = "Modern Luxury"
+url = "/collection/modern-luxury"
+weight = 1
+[[menu.architecturaldesign]]
+identifier = "upscale-blend"
+name = "Upscale Blend"
+url = "/collection/upscale-blend"
+weight = 2
+[[menu.architecturaldesign]]
+identifier = "urban-contemporary"
+name = "Urban Contemporary"
+url = "/collection/urban-contemporary"
+weight = 3
+[[menu.architecturaldesign]]
+identifier = "southern-elegance"
+name = "Southern Elegance"
+url = "/collection/southern-elegance"
+weight = 4
+[[menu.architecturaldesign]]
+identifier = "timeless-traditional"
+name = "Timeless Traditional"
+url = "/collection/timeless-traditional"
+weight = 5
+[[menu.architecturaldesign]]
+identifier = "outdoor-oasis"
+name = "Outdoor Oasis"
+url = "/collection/outdoor-oasis"
+weight = 6
+[[menu.aboutus]]
+identifier = "our-team"
+name = "Our Team"
+url = "/about-us/team"
+weight = 1
+[[menu.aboutus]]
+identifier = "our-process"
+name = "Our Process"
+url = "/about-us/design-build"
+weight = 2
+[[menu.aboutus]]
+identifier = "awards"
+name = "Recognitions & Awards"
+url = "/about-us/recognition"
+weight = 3
+[[menu.aboutus]]
+identifier = "testimonials"
+name = "Testimonials & Reviews"
+url = "/about-us/testimonials"
+weight = 4
+[params.Contact_Numbers]
+Fax = "555.555.5555"
+Phone = "555.555.5555"
+[params.Logos]
+logo = "https://res.cloudinary.com/animated-eagle/image/upload/v1552086461/OnPoint%20Custom%20Homes/logo.png"
+mobile_menu_logo = "https://res.cloudinary.com/animated-eagle/image/upload/v1552086461/OnPoint%20Custom%20Homes/logo.png"
+[params.address]
+city = "Statesboro"
+state = "GA"
+street = "P.O. Box 134"
+zip = 30459
+[params.email]
+email = "example@example.com"
+[params.tracking]
+google_analytics = ""

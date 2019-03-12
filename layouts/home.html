@@ -1,0 +1,58 @@
+{{ define "main" }}
+
+<style>
+#home-hero {
+  background-image: url("https://res.cloudinary.com/animated-eagle/image/upload/v1552418612/OnPoint%20Custom%20Homes/herobg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.home-hero-title {
+  text-shadow: 0 15px 10px rgba(0, 0, 0, 0.5)
+}
+.home-hero-subtitle {
+  text-shadow: 0 7px 10px rgba(0, 0, 0, 0.5)
+}
+.home-navi-box {
+  transition: .2s;
+}
+.home-navi-box:hover {
+  transition: .2s;
+}
+.home-navi-box:hover > h3 {
+  color: #fff !important;
+  border-color: #fff !important;
+}
+.home-navi-box:hover > p {
+  color: #fff !important;
+}
+
+</style>
+
+<section id="home-hero" class="bg-fixed flex flex-wrap items-center h-screen">
+  <div class="w-5/6 lg:w-1/2 mx-auto pt-20 lg:pt-32 text-center">
+    <h1 class="pb-3 font-roboto uppercase text-4xl lg:text-6xl text-white font-thin tracking-wide home-hero-title">Design • Build</h1>
+    <h2 class="font-muli text-white text-xl font-normal home-hero-subtitle">2017 Texas Custom Builder of the Year</h2>
+  </div>
+  <div class="flex flex-wrap w-5/6 lg:w-3/4 mx-auto pb-32">
+    <div class="w-full lg:w-1/5 bg-white hover:bg-color-656565 hover:cursor-pointer rounded-sm opacity-95 hover:opacity-100 mx-auto shadow-lg text-center py-8 px-5 mt-12 lg:mt-0 home-navi-box">
+      <h3 class="pb-3 font-muli text-color-4f5052 font-normal text-lg border-b-2 border-color-999999">Architectural Design</h3>
+      <p class="pt-3 font-muli text-color-999999 uppercase font-normal text-sm">Browse The Styles</p>
+    </div>
+    <div class="w-full lg:w-1/5 bg-white hover:bg-color-656565 hover:cursor-pointer rounded-sm opacity-95 hover:opacity-100 mx-auto shadow-lg text-center py-8 px-5 mt-8 lg:mt-0 home-navi-box">
+      <h3 class="pb-3 font-muli text-color-4f5052 font-normal text-lg border-b-2 border-color-999999">Available Now</h3>
+      <p class="pt-3 font-muli text-color-999999 uppercase font-normal text-sm">Current Homes</p>
+    </div>
+    <div class="w-full lg:w-1/5 bg-white hover:bg-color-656565 hover:cursor-pointer rounded-sm opacity-95 hover:opacity-100 mx-auto shadow-lg text-center py-8 px-5 mt-8 lg:mt-0 home-navi-box">
+      <h3 class="pb-3 font-muli text-color-4f5052 font-normal text-lg border-b-2 border-color-999999">About Us</h3>
+      <p class="pt-3 font-muli text-color-999999 uppercase font-normal text-sm">Team and Process</p>
+    </div>
+    <div class="w-full lg:w-1/5 bg-white hover:bg-color-656565 hover:cursor-pointer rounded-sm opacity-95 hover:opacity-100 mx-auto shadow-lg text-center py-8 px-5 mt-8 lg:mt-0 home-navi-box">
+      <h3 class="pb-3 font-muli text-color-4f5052 font-normal text-lg border-b-2 border-color-999999">Our Admirers</h3>
+      <p class="pt-3 font-muli text-color-999999 uppercase font-normal text-sm">Awards and Testimonials</p>
+    </div>
+  </div>
+</section>
+
+<div class="-mt-32"></div>
+
+{{ end }}
