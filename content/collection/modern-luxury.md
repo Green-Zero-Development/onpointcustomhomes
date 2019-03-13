@@ -1,10 +1,9 @@
 ---
 type: page
-layout: design-portfolio
-title: 'ARCHITECTURAL DESIGN'
-url: /our-portfolio
+layout: collection
+title: 'Modern Luxury'
 params:
-page-status: 'design-portfolio'
+page-status: 'modern-luxury'
 pageImage: 'https://res.cloudinary.com/animated-eagle/image/upload/v1552441075/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00065-1400x1080.jpg'
-pageTitle: 'ARCHITECTURAL DESIGN'
+pageTitle: 'MODERN LUXURY'
 ---

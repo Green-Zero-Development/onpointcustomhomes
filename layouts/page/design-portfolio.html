@@ -1,24 +1,16 @@
 {{ define "main" }}
 
 <style>
-.design-portfolio {
-    background-image: url("https://res.cloudinary.com/animated-eagle/image/upload/v1552441075/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00065-1400x1080.jpg");
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: bottom;
+.background-image {
+    background-image: url("{{ .Page.Params.pageImage }}");
 }
-.overlay-black {
-    background-color: rgba(34,34,34,0.6);
-    transition: .2s;
-}
-
 </style>
 
 <div class="overlay-black">
 
 <section id="top-title" class="flex text-center pt-20 pb-12">
     <div class="w-2/3 mx-auto">
-        <h1 class="pb-3 font-roboto uppercase text-3xl lg:text-7xl text-white font-thin tracking-wide top-title">ARCHITECTURAL DESIGN</h1>
+        <h1 class="pb-3 font-roboto uppercase text-3xl lg:text-7xl text-white font-thin tracking-wide top-title">{{ .Page.Params.pageTitle }}</h1>
     </div>
 </section>
 
@@ -62,15 +54,7 @@
     </div>
 </section>
 
-<div class="w-48 text-2xl mx-auto py-12 header-social-links">
-  <div class="py-2 mx-auto text-center text-white">
-    <i class="fab fa-houzz pr-2 hover:text-black hover:cursor-pointer" title="Houzz"></i>
-    <i class="fab fa-facebook-f pr-2 hover:text-black hover:cursor-pointer" title="Facebook"></i>
-    <i class="fab fa-instagram pr-2 hover:text-black hover:cursor-pointer" title="Instagram"></i>
-    <i class="fab fa-pinterest pr-2 hover:text-black hover:cursor-pointer" title="Pinterest"></i>
-    <i class="fab fa-linkedin-in hover:text-black hover:cursor-pointer" title="Linkedin"></i>
-  </div>
-</div>
+{{ partial "social-media-icons.html" . }}
 
 </div>
 
