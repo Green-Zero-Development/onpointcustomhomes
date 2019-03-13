@@ -6076,6 +6076,10 @@ table {
   font-size: 4rem;
 }
 
+.text-7xl {
+  font-size: 5rem;
+}
+
 .hover\:text-xxs:hover {
   font-size: .55rem;
 }
@@ -6118,6 +6122,10 @@ table {
 
 .hover\:text-6xl:hover {
   font-size: 4rem;
+}
+
+.hover\:text-7xl:hover {
+  font-size: 5rem;
 }
 
 .italic {
@@ -7890,6 +7898,7 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
 .mobile-menu-toggle {
   z-index: 999 !important;
   opacity: 1 !important;
+  left: 0px !important;
 }
 
 .desktop-menu {
@@ -7934,7 +7943,7 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
   position: absolute;
   width: 100%;
   top: 0;
-  left: 0;
+  left: -1000px;
   right: 0;
   -webkit-transition: .2s;
           transition: .2s;
@@ -7943,28 +7952,6 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
 .mobile-menu-button button {
   background-color: transparent;
   border-color: transparent;
-}
-
-/* Elevator css */
-
-#elevator-button {
-  position: fixed;
-  font-size: 30px;
-  right: 5%;
-  bottom: 10%;
-  -webkit-transition: .2s;
-          transition: .2s;
-}
-
-.hidegotoTop {
-  right: -100px !important;
-  -webkit-transition: .2s;
-          transition: .2s;
-}
-
-#elevator-button:hover {
-  cursor: pointer;
-  padding-bottom: 5px;
 }
 
 @media (min-width: 576px) {
@@ -13501,6 +13488,10 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
     font-size: 4rem;
   }
 
+  .sm\:text-7xl {
+    font-size: 5rem;
+  }
+
   .sm\:hover\:text-xxs:hover {
     font-size: .55rem;
   }
@@ -13543,6 +13534,10 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
 
   .sm\:hover\:text-6xl:hover {
     font-size: 4rem;
+  }
+
+  .sm\:hover\:text-7xl:hover {
+    font-size: 5rem;
   }
 
   .sm\:italic {
@@ -19448,6 +19443,10 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
     font-size: 4rem;
   }
 
+  .md\:text-7xl {
+    font-size: 5rem;
+  }
+
   .md\:hover\:text-xxs:hover {
     font-size: .55rem;
   }
@@ -19490,6 +19489,10 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
 
   .md\:hover\:text-6xl:hover {
     font-size: 4rem;
+  }
+
+  .md\:hover\:text-7xl:hover {
+    font-size: 5rem;
   }
 
   .md\:italic {
@@ -25395,6 +25398,10 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
     font-size: 4rem;
   }
 
+  .lg\:text-7xl {
+    font-size: 5rem;
+  }
+
   .lg\:hover\:text-xxs:hover {
     font-size: .55rem;
   }
@@ -25437,6 +25444,10 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
 
   .lg\:hover\:text-6xl:hover {
     font-size: 4rem;
+  }
+
+  .lg\:hover\:text-7xl:hover {
+    font-size: 5rem;
   }
 
   .lg\:italic {
@@ -31342,6 +31353,10 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
     font-size: 4rem;
   }
 
+  .xl\:text-7xl {
+    font-size: 5rem;
+  }
+
   .xl\:hover\:text-xxs:hover {
     font-size: .55rem;
   }
@@ -31384,6 +31399,10 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
 
   .xl\:hover\:text-6xl:hover {
     font-size: 4rem;
+  }
+
+  .xl\:hover\:text-7xl:hover {
+    font-size: 5rem;
   }
 
   .xl\:italic {
@@ -37289,6 +37308,10 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
     font-size: 4rem;
   }
 
+  .xxl\:text-7xl {
+    font-size: 5rem;
+  }
+
   .xxl\:hover\:text-xxs:hover {
     font-size: .55rem;
   }
@@ -37331,6 +37354,10 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
 
   .xxl\:hover\:text-6xl:hover {
     font-size: 4rem;
+  }
+
+  .xxl\:hover\:text-7xl:hover {
+    font-size: 5rem;
   }
 
   .xxl\:italic {

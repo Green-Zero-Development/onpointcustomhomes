@@ -5,6 +5,9 @@
 .header-social-links {
   transition: .1s;
 }
+.top-title {
+  text-shadow: 0 15px 10px rgba(0, 0, 0, 0.6)
+}
 @media screen and (min-width: 992px) {
 .architectural-design-menu:hover ~ .architectural-design-dropdown {
   opacity: 1;
@@ -80,13 +83,13 @@
   </a>
   <a class="ml-auto text-3xl md:text-4xl text-white text-center close-menu" v-on:click="menuToggle = !menuToggle"><i class="fas fa-times"></i></a>
   </div>
-  <ul class="font-muli text-xl md:text-5xl text-center px-0 pt-5 pb-10 mobile-menu-list">
+  <ul class="font-muli text-xl text-center px-0 pt-5 pb-10 mobile-menu-list">
     {{ $currentNode := . }}
     {{ range .Site.Menus.mobile }}
     <li class="pt-8 pb-5 mobile-menu-item" v-on:click="{{ .Pre }}"><a class="{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} active{{end}} text-white no-underline font-bold" href="{{.URL}}">{{ .Name }}</a></li>
     {{ end }}
   </ul>
-  <div id="architectural-design-dropdown" class="hidden bg-black font-muli text-xl md:text-5xl text-center py-3 architectural-design-dropdown" v-bind:class="{ 'mobile-menu-block' : architecturaltoggle }">
+  <div id="architectural-design-dropdown" class="hidden bg-black font-muli text-xl text-center py-3 architectural-design-dropdown" v-bind:class="{ 'mobile-menu-block' : architecturaltoggle }">
     {{ $currentNode := . }}
     {{ range .Site.Menus.architecturaldesign }}
     <div class="block py-2">
@@ -94,7 +97,7 @@
     </div>
     {{ end }}
   </div>
-  <div id="about-us-dropdown" class="hidden bg-black font-muli text-xl md:text-5xl text-center py-3 about-us-dropdown" v-bind:class="{ 'mobile-menu-block' : abouttoggle }">
+  <div id="about-us-dropdown" class="hidden bg-black font-muli text-xl text-center py-3 about-us-dropdown" v-bind:class="{ 'mobile-menu-block' : abouttoggle }">
     {{ $currentNode := . }}
     {{ range .Site.Menus.aboutus }}
     <div class="block py-2">
@@ -102,7 +105,7 @@
     </div>
     {{ end }}
   </div>
-  <div class="lg:hidden w-full py-20 text-center header-social-links">
+  <div class="lg:hidden w-full py-8 text-center header-social-links">
     <div class="py-2 mx-auto text-4xl text-white">
       <i class="fab fa-houzz pr-4"></i>
       <i class="fab fa-facebook-f pr-4"></i>

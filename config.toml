@@ -132,3 +132,4 @@ zip = 30459
 email = "example@example.com"
 [params.tracking]
 google_analytics = ""
+enableInlineShortcodes = true

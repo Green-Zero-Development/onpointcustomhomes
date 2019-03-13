@@ -13,31 +13,4 @@ var siteFunctions = new Vue({
       abouttoggle: false
     },
 });
-
-var footerFunctions = new Vue({
-    el: '#go-to-top-button',
-    data: {
-      scrollPosition: null
-    },
-    methods: {
-     updateScroll() {
-       this.scrollPosition = window.scrollY
-     }
-   },
- 
-   mounted() {
-     window.addEventListener('scroll', this.updateScroll);
-   },
-});
-</script>
-
-{{ partial "js/elevator.min.js.html" . }}
-
-<script>
-window.onload = function() {
-      var elevator = new Elevator({
-        element: document.querySelector('#go-to-top-button'),
-        duration: 1000
-      });
-}
 </script>
