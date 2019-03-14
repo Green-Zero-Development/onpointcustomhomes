@@ -1,6 +1,26 @@
 ---
 modern_luxury_photos:
 - photo:
+    photo_image: "/v1552527332/OnPoint%20Custom%20Homes/modern-luxury/DSC_0092.jpg"
+    alt_text: Modern Luxury designs for my home
+  photo_label: DSC_0092
+- photo:
+    photo_image: "/v1552527338/OnPoint%20Custom%20Homes/modern-luxury/Dusk-1-LR.jpg"
+    alt_text: Modern Luxury designs for my home
+  photo_label: Dusk-1-LR
+- photo:
+    photo_image: "/v1552527339/OnPoint%20Custom%20Homes/modern-luxury/emomedia.net-64.jpg"
+    alt_text: Modern Luxury designs for my home
+  photo_label: emomedia.net-64
+- photo:
+    photo_image: "/v1552527339/OnPoint%20Custom%20Homes/modern-luxury/emomedia.net-59.jpg"
+    alt_text: Modern Luxury designs for my home
+  photo_label: emomedia.net-59
+- photo:
+    photo_image: "/v1552578531/OnPoint%20Custom%20Homes/emomedia.net-9-copy.jpg"
+    alt_text: Modern Luxury designs for my home
+  photo_label: emomedia.net-9-copy
+- photo:
     photo_image: "/v1552527339/OnPoint%20Custom%20Homes/modern-luxury/emomedia.net-21.jpg"
     alt_text: Modern Luxury designs for my home
   photo_label: emomedia.net-21
