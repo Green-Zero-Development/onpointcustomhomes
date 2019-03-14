@@ -1,5 +1,49 @@
 ---
 modern_luxury_photos:
+- photo:
+    photo_image: "/v1552523176/OnPoint%20Custom%20Homes/emomedia.net-2.jpg"
+    alt_text: Modern Dining Room
+  photo_label: emomedia.net-2
+- photo:
+    photo_image: "/v1552527332/OnPoint%20Custom%20Homes/modern-luxury/emomedia.net-107.jpg"
+    alt_text: Modern Living Room
+  photo_label: emomedia.net-107
+- photo:
+    photo_image: "/v1552527339/OnPoint%20Custom%20Homes/modern-luxury/emomedia.net-105.jpg"
+    alt_text: Modern Entry Way
+  photo_label: emomedia.net-105
+- photo:
+    photo_image: "/v1552527338/OnPoint%20Custom%20Homes/modern-luxury/emomedia.net-3-2.jpg"
+    alt_text: Modern Home of the Year
+  photo_label: emomedia.net-3-2
+- photo:
+    photo_image: "/v1552527333/OnPoint%20Custom%20Homes/modern-luxury/DSC_3662.jpg"
+    alt_text: Meyerland Flood Rebuild modern kitchen
+  photo_label: DSC_3662
+- photo:
+    photo_image: "/v1552527332/OnPoint%20Custom%20Homes/modern-luxury/DSC_0015.jpg"
+    alt_text: Modern Luxury designs for my home
+  photo_label: DSC_0015
+- photo:
+    photo_image: "/v1552527332/OnPoint%20Custom%20Homes/modern-luxury/Park-55.jpg"
+    alt_text: Modern Luxury designs for my home
+  photo_label: Park-55
+- photo:
+    photo_image: "/v1552527333/OnPoint%20Custom%20Homes/modern-luxury/DSC_4423.jpg"
+    alt_text: Modern Luxury designs for my home
+  photo_label: DSC_4423
+- photo:
+    photo_image: "/v1552527338/OnPoint%20Custom%20Homes/modern-luxury/emomedia.net-7.jpg"
+    alt_text: Modern Luxury designs for my home
+  photo_label: emomedia.net-7
+- photo:
+    photo_image: "/v1552527334/OnPoint%20Custom%20Homes/modern-luxury/DSC_9950.jpg"
+    alt_text: Modern Luxury designs for my home
+  photo_label: DSC_9950
+- photo:
+    photo_image: "/v1552527334/OnPoint%20Custom%20Homes/modern-luxury/DSC_9998.jpg"
+    alt_text: Modern Luxury designs for my home
+  photo_label: DSC_9998
 - photo_label: emomedia.net-23
   photo:
     photo_image: "/v1552527339/OnPoint%20Custom%20Homes/modern-luxury/emomedia.net-23.jpg"
