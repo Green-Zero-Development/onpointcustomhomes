@@ -1,6 +1,46 @@
 ---
 modern_luxury_photos:
 - photo:
+    photo_image: "/v1552527339/OnPoint%20Custom%20Homes/modern-luxury/emomedia.net-25.jpg"
+    alt_text: Modern Luxury designs for my home
+  photo_label: emomedia.net-25
+- photo:
+    photo_image: "/v1552527334/OnPoint%20Custom%20Homes/modern-luxury/DSC_9987.jpg"
+    alt_text: Modern Luxury designs for my home
+  photo_label: DSC_9987
+- photo:
+    photo_image: "/v1552527333/OnPoint%20Custom%20Homes/modern-luxury/DSC_6912.jpg"
+    alt_text: Modern Luxury designs for my home
+  photo_label: DSC_6912
+- photo:
+    photo_image: "/v1552527339/OnPoint%20Custom%20Homes/modern-luxury/emomedia.net-78.jpg"
+    alt_text: Modern Zen Garden
+  photo_label: emomedia.net-78
+- photo:
+    photo_image: "/v1552527339/OnPoint%20Custom%20Homes/modern-luxury/emomedia.net-45.jpg"
+    alt_text: Modern Bathroom of the Year
+  photo_label: emomedia.net-45
+- photo:
+    photo_image: "/v1552527339/OnPoint%20Custom%20Homes/modern-luxury/emomedia.net-42.jpg"
+    alt_text: Modern Master Suite
+  photo_label: emomedia.net-42
+- photo:
+    photo_image: "/v1552527339/OnPoint%20Custom%20Homes/modern-luxury/emomedia.net-40.jpg"
+    alt_text: Reading Room off Master
+  photo_label: emomedia.net-40
+- photo:
+    photo_image: "/v1552527339/OnPoint%20Custom%20Homes/modern-luxury/emomedia.net-22.jpg"
+    alt_text: Modern Bathroom
+  photo_label: emomedia.net-22
+- photo:
+    photo_image: "/v1552527338/OnPoint%20Custom%20Homes/modern-luxury/emomedia.net-16.jpg"
+    alt_text: Modern Family Room
+  photo_label: emomedia.net-16
+- photo:
+    photo_image: "/v1552527338/OnPoint%20Custom%20Homes/modern-luxury/emomedia.net-9.jpg"
+    alt_text: Modern Kitchen of the Year
+  photo_label: emomedia.net-9
+- photo:
     photo_image: "/v1552523176/OnPoint%20Custom%20Homes/emomedia.net-2.jpg"
     alt_text: Modern Dining Room
   photo_label: emomedia.net-2
