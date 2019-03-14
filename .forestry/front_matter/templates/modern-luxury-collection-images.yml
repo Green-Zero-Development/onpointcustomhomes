@@ -27,3 +27,5 @@ fields:
     name: photo_label
     description: Label of treatment for internal use.
     default: New Photo
+pages:
+- themes/site-theme/data/collections/modern_luxury_photos.yml
