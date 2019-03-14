@@ -5,6 +5,6 @@ modern_luxury_photos:
     alt_text: Alt text
   photo_label: That photo
 - photo:
-    photo_image: https://res.cloudinary.com/animated-eagle/image/upload/v1552418612/OnPoint%20Custom%20Homes/herobg.jpg
+    photo_image: "/v1552418612/OnPoint%20Custom%20Homes/herobg.jpg"
     alt_text: This is an image
   photo_label: Photo 1
