@@ -119,4 +119,5 @@ fields:
     required: true
   default: home
 pages:
+- content/pages/portfolio/test.md
 - content/pages/portfolio/test2.md
