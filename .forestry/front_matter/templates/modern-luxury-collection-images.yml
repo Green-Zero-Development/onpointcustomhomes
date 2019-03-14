@@ -22,6 +22,7 @@ fields:
       name: alt_text
       label: Alt Text
       description: Add the photo's alt text here.
+      default: Modern Luxury designs for my home
   - type: text
     label: Photo Label
     name: photo_label
