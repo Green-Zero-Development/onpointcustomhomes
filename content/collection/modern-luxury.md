@@ -8,7 +8,7 @@ pageImage: 'https://res.cloudinary.com/animated-eagle/image/upload/v1552523176/O
 pageTitle: 'MODERN LUXURY'
 ---
 
-<div class='slider bg-grey-lighter w-full py-5 mb-5'>
+<div class='slider bg-grey-lighter w-full py-5 mb-5 h-auto'>
 {{< modern-luxury-photo-slider data="modern_luxury_photos" >}}
 </div>
 
