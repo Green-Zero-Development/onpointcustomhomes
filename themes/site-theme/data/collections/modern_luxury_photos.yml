@@ -1,6 +1,10 @@
 ---
 modern_luxury_photos:
 - photo:
+    photo_image: "/v1552527339/OnPoint%20Custom%20Homes/modern-luxury/emomedia.net-63.jpg"
+    alt_text: Modern Luxury designs for my home
+  photo_label: emomedia.net-63
+- photo:
     photo_image: "/v1552527332/OnPoint%20Custom%20Homes/modern-luxury/DSC_0092.jpg"
     alt_text: Modern Luxury designs for my home
   photo_label: DSC_0092
