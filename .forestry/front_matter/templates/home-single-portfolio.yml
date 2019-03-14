@@ -1,0 +1,120 @@
+---
+label: Home (single portfolio)
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+  description: Enter the name of the property
+- type: number
+  name: price
+  label: Price
+  config:
+    min: '1'
+    required: true
+- type: text
+  name: slug
+  label: Slug
+  description: Enter the URL were the single portfolio can be accessed (don't forget
+    to include the slash)
+  config:
+    required: true
+- type: field_group
+  name: featured_image
+  label: Featured Image
+  fields:
+  - type: file
+    name: home_featured_image
+    label: Home Featured Image
+    config:
+      maxSize: '2'
+  - type: text
+    name: alt_text
+    label: Alt Text
+- type: field_group
+  name: location
+  label: Location
+  fields:
+  - type: text
+    name: street_address
+    label: Street Address
+    config:
+      required: true
+  - type: text
+    label: City
+    name: city
+    config:
+      required: true
+  - type: text
+    name: state
+    label: State
+    config:
+      required: true
+  - type: text
+    name: zip_code
+    label: Zip Code
+    config:
+      required: true
+  - type: text
+    name: neighboorhood
+    label: Neighboorhood
+    config:
+      required: true
+- type: field_group
+  name: home_specifics
+  label: Home Specifics
+  fields:
+  - type: text
+    name: bedrooms
+    label: "# of Bedrooms"
+    config:
+      required: false
+  - type: text
+    name: bathrooms
+    label: "# of bathrooms"
+  - type: text
+    name: square_feet
+    label: Square Feet
+  - type: text
+    label: Lot Square Feet
+    name: lot_square_feet
+  - type: number
+    name: how_many_cars_garage
+    label: Size of Garage
+    description: How many cars can the garage hold?
+- type: boolean
+  name: is_on_sale
+  label: Is on Sale
+- type: boolean
+  name: is_sold
+  label: Is Sold
+- type: boolean
+  name: is_pending
+  label: Is Pending
+- type: text
+  name: video_tour_link
+  label: Video Tour Link
+  description: Paste the URL of video tours here.
+- type: text
+  name: type
+  label: type
+  hidden: true
+  config:
+    required: true
+  default: page
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  config:
+    required: true
+  default: home-single
+- type: text
+  label: Page Kind
+  name: page_kind
+  hidden: true
+  config:
+    required: true
+  default: home
