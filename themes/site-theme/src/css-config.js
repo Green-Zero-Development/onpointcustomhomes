@@ -47,6 +47,7 @@ let colors = {
   /* custom colors */
 
   'color-656565': "#656565",
+  'color-333333': "#333333",
   'color-4f5052': '#4f5052',
   'color-e1e9ba': '#e1e9ba',
   'color-header': "rgba(70, 74, 78, 0.95)",
