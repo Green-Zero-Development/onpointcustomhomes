@@ -1,14 +1,11 @@
 ---
 modern_luxury_photos:
+- photo_label: New Photo
 - photo:
-    photo_image: "/v1552527332/OnPoint%20Custom%20Homes/modern-luxury/DSC_0895.jpg"
-    alt_text: This photo
-  photo_label: This Photo
+    photo_image: "/v1552527333/OnPoint%20Custom%20Homes/modern-luxury/DSC_3643-1.jpg"
+    alt_text: Meyerland Flood Rebuild modern dining room
+  photo_label: Meyerland Flood Rebuild modern dining room
 - photo:
-    photo_image: "/v1552527332/OnPoint%20Custom%20Homes/modern-luxury/DSC_0015.jpg"
-    alt_text: Alt text
-  photo_label: That photo
-- photo:
-    photo_image: "/v1552418612/OnPoint%20Custom%20Homes/herobg.jpg"
-    alt_text: This is an image
-  photo_label: Photo 1
+    photo_image: "/v1552527333/OnPoint%20Custom%20Homes/modern-luxury/DSC_3599.jpg"
+    alt_text: Meyerland Flood Rebuild
+  photo_label: Meyerland Flood Rebuild
