@@ -7,3 +7,23 @@ fields:
   name: modern_luxury_photos
   description: Use "add photo" then click into the FIRST box to edit the details of
     the treatment.
+  fields:
+  - type: field_group
+    label: Photo Specifics
+    name: photo
+    fields:
+    - type: file
+      name: photo_image
+      label: Photo
+      description: Upload the image here.
+      config:
+        maxSize: '2'
+    - type: text
+      name: alt_text
+      label: Alt Text
+      description: Add the photo's alt text here.
+  - type: text
+    label: Photo Label
+    name: photo_label
+    description: Label of treatment for internal use.
+    default: New Photo
