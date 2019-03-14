@@ -6,7 +6,6 @@ title: 1425 Kennedy Pond Rd
 params: 
 featured_image:
   home_featured_image: "/v1552595495/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00062-600x600.jpg"
-  alt_text: Modern Luxury designs for my home
 price: 1000
 location:
   street_address: 1425 Kennedy Pond Rd
