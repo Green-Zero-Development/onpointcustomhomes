@@ -1,6 +1,10 @@
 ---
 modern_luxury_photos:
 - photo:
+    photo_image: "/v1552527332/OnPoint%20Custom%20Homes/modern-luxury/DSC_0895.jpg"
+    alt_text: This photo
+  photo_label: This Photo
+- photo:
     photo_image: "/v1552527332/OnPoint%20Custom%20Homes/modern-luxury/DSC_0015.jpg"
     alt_text: Alt text
   photo_label: That photo
