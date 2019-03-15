@@ -47,7 +47,7 @@
                 </div>
                 </div>
             </div>
-            {{- .Content -}}
+            {{ .Page.Params.Slider_html }}
             {{ if .Page.Params.video_tour_link }}
             <iframe id="player" class="w-full lg:w-1/2 mx-auto py-5 h-home" type="text/html"
   src="{{ .Page.Params.video_tour_link }}" frameborder="0"></iframe>
