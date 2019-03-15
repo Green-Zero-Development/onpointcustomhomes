@@ -128,7 +128,7 @@ fields:
     required: true
     wysiwyg: true
     schema:
-      format: html-blocks
+      format: html
   default: '&lt;div class=''flex flex-wrap pt-5 slider-nav''&gt;{{&lt; home-portfolio-slider-controls
     data="gallery_images" &gt;}}&lt;/div&gt;<br>&lt;div class=''slider bg-grey-lighter
     w-full py-5 mb-5 h-auto''&gt;{{&lt; home-portfolio-slider data="gallery_images"
