@@ -134,5 +134,3 @@ fields:
     w-full py-5 mb-5 h-auto''&gt;{{&lt; home-portfolio-slider data="gallery_images"
     &gt;}}&lt;/div&gt;'
   hidden: true
-pages:
-- content/portfolio/6231-del-monte-dr.md
