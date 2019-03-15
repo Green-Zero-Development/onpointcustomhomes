@@ -135,5 +135,6 @@ fields:
     &gt;}}&lt;/div&gt;'
   hidden: true
 pages:
+- content/portfolio/test-1.md
 - content/portfolio/test.md
 - content/portfolio/6231-del-monte-dr.md
