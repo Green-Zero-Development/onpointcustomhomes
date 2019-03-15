@@ -1,6 +1,5 @@
 +++
 date = "2019-03-15T19:42:03+00:00"
-draft = true
 gallery_images = ["/v1552527333/OnPoint%20Custom%20Homes/modern-luxury/DSC_3643-1.jpg", "/v1552527333/OnPoint%20Custom%20Homes/modern-luxury/DSC_3599.jpg", "/v1552527332/OnPoint%20Custom%20Homes/modern-luxury/DSC_3544.jpg", "/v1552527332/OnPoint%20Custom%20Homes/modern-luxury/DSC_1060.jpg", "/v1552527332/OnPoint%20Custom%20Homes/modern-luxury/DSC_1038.jpg", "/v1552527332/OnPoint%20Custom%20Homes/modern-luxury/DSC_0015.jpg"]
 is_on_sale = false
 is_pending = true
