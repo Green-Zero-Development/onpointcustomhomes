@@ -8,7 +8,7 @@ layout = "home-single"
 page_kind = "home"
 price = 122
 slider_html = "&lt;div class='flex flex-wrap pt-5 slider-nav'&gt;{{&lt; home-portfolio-slider-controls data=\"gallery_images\" &gt;}}&lt;/div&gt;<br>&lt;div class='slider bg-grey-lighter w-full py-5 mb-5 h-auto'&gt;{{&lt; home-portfolio-slider data=\"gallery_images\" &gt;}}&lt;/div&gt;"
-slug = "/test2"
+slug = "/test3"
 title = "test"
 type = "page"
 video_tour_link = "https://www.youtube.com/watch?v=xcJtL7QggTI"
