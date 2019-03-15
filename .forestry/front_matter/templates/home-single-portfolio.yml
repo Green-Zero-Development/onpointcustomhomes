@@ -97,6 +97,9 @@ fields:
   name: video_tour_link
   label: Video Tour Link
   description: Paste the URL of video tours here.
+- type: image_gallery
+  name: gallery_images
+  label: Gallery Images
 - type: text
   name: type
   label: type
@@ -118,6 +121,16 @@ fields:
   config:
     required: true
   default: home
-- type: image_gallery
-  name: gallery_images
-  label: Gallery Images
+- type: textarea
+  name: slider_html
+  label: slider_html
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
+  default: '&lt;div class=''flex flex-wrap pt-5 slider-nav''&gt;{{&lt; home-portfolio-slider-controls
+    data="gallery_images" &gt;}}&lt;/div&gt;<br>&lt;div class=''slider bg-grey-lighter
+    w-full py-5 mb-5 h-auto''&gt;{{&lt; home-portfolio-slider data="gallery_images"
+    &gt;}}&lt;/div&gt;'
+  hidden: true
