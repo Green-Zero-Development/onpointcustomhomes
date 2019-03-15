@@ -566,6 +566,7 @@ module.exports = {
     '48': '12rem',
     '64': '16rem',
     'home': '23rem',
+    'home-single': '40rem',
     'full': '100%',
     'screen': '100vh',
   },

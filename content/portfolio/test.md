@@ -26,3 +26,11 @@ video_tour_link: 1
 page_kind: home
 
 ---
+
+<div class='flex flex-wrap slider-nav'>
+{{< modern-luxury-photo-slider-controls data="modern_luxury_photos" >}}
+</div>
+
+<div class='slider bg-grey-lighter w-full py-5 mb-5 h-auto'>
+{{< modern-luxury-photo-slider data="modern_luxury_photos" >}}
+</div>

@@ -1,0 +1,59 @@
+{{ define "main" }}
+
+<style>
+.background-image {
+    background-image: url("https://res.cloudinary.com/animated-eagle/image/upload/{{ .Page.Params.featured_image.home_featured_image }}");
+}
+</style>
+
+<div class="overlay-black">
+
+<section id="top-title" class="flex text-center pt-20 pb-12">
+    <a class="w-full lg:w-1/3 mx-auto" href="/portfolio">
+        <button class="font-muli font-sm text-grey hover:text-white font-bold uppercase text-center py-3 px-5 mt-10 border-2 hover:bg-grey hover:border-grey collections-button"><i class="fas fa-long-arrow-alt-left"></i> Back to Available Now</button>
+    </a>
+</section>
+
+<section id="page-details" class="flex flex-wrap text-center">
+    <div class="bg-white flex flex-wrap w-5/6 text-center mx-auto">
+                <div class="flex flex-wrap w-full mx-auto relative h-home-single" style="background-image: url('https://res.cloudinary.com/animated-eagle/image/upload{{ .Page.Params.Featured_image.Home_featured_image }}');background-size: 100%;background-repeat:no-repeat;background-position-y:center;">
+                    <div class="flex w-full h-home-single items-center overlay-black-homes">
+                {{ if eq .Page.Params.Is_sold true }}
+                    <img class="absolute pin-r pin-t -mt-1 -mr-1" src="https://res.cloudinary.com/animated-eagle/image/upload/v1552594741/OnPoint%20Custom%20Homes/sold-flag.png" width="100px">
+                    {{ else }}
+                    
+                {{ end }}
+                {{ if eq .Page.Params.Is_on_sale true }}
+                    <img class="absolute pin-r pin-t -mt-1 -mr-1" src="https://res.cloudinary.com/animated-eagle/image/upload/v1552594746/OnPoint%20Custom%20Homes/for-sale-flag.png" width="100px">
+                    {{ else }}
+                    
+                {{ end }}
+                {{ if eq .Page.Params.Is_pending true }}
+                    <img class="absolute pin-r pin-t -mt-1 -mr-1" src="https://res.cloudinary.com/animated-eagle/image/upload/v1552594741/OnPoint%20Custom%20Homes/pending-flag.png" width="100px">
+                    {{ else }}
+                    
+                {{ end }}
+                <div class="flex flex-wrap w-full font-muli text-center text-white">
+                    <h1 class="w-full font-normal text-2xl uppercase home-single-shadow">{{ .Page.Params.Location.Street_address }}</h1>
+                    <h3 class="w-1/5 font-bold uppercase text-sm py-3 my-4 border-t-2 border-b-2 border-white mx-auto home-single-shadow">{{ .Page.Params.Location.Neighboorhood }}</h3>
+                    <h3 class="w-full font-normal text-3xl pb-5 home-single-shadow">${{ .Page.Params.Price }}</h3>
+                    <div class="w-3/4 mx-auto">
+                    <p class="inline-block font-normal text-xl py-1 px-2 mx-1 my-1 page-specifics-icon-box"><i class="fas fa-bed"></i> {{ .Page.Params.home_specifics.bedrooms }} Bedrooms</p>
+                    <p class="inline-block font-normal text-xl py-1 px-2 mx-1 my-1 page-specifics-icon-box"><i class="fas fa-toilet"></i> {{ .Page.Params.home_specifics.bathrooms }} Bathrooms</p>
+                    <p class="inline-block font-normal text-xl py-1 px-2 mx-1 my-1 page-specifics-icon-box"><i class="fas fa-square-root-alt"></i> {{ .Page.Params.home_specifics.square_feet }} Square Feet</p>
+                    <p class="inline-block font-normal text-xl py-1 px-2 mx-1 my-1 page-specifics-icon-box"><i class="fas fa-tree"></i> {{ .Page.Params.home_specifics.lot_square_feet }} Square Foot Lot</p>
+                    <p class="inline-block font-normal text-xl py-1 px-2 mx-1 my-1 page-specifics-icon-box"><i class="fas fa-car"></i> {{ .Page.Params.home_specifics.how_many_cars_garage }} Car Garage</p>
+                    </div>
+                </div>
+                </div>
+            </div>
+            {{- .Content -}}
+    </div>
+</section>
+
+{{ partial "slider-code" . }}
+{{ partial "social-media-icons.html" . }}
+
+</div>
+
+{{ end }}
