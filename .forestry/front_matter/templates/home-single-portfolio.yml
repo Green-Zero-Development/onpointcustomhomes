@@ -122,5 +122,4 @@ fields:
   name: gallery_images
   label: Gallery Images
 pages:
-- content/portfolio/test.md
 - content/portfolio/new-home.md
