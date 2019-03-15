@@ -1,0 +1,61 @@
+---
+label: Remodel
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: text
+  name: slug
+  label: Slug
+  config:
+    required: true
+  default: "/test"
+- type: field_group
+  name: featured_image
+  label: Featured Image
+  description: This image is also the "After" image.
+  fields:
+  - type: file
+    name: remodel_featured_image
+    label: Remodel Featured Image
+    config:
+      maxSize: '2'
+  - type: text
+    name: alt_text
+    label: Alt Text
+- type: field_group
+  name: before_image
+  label: Before Image
+  fields:
+  - type: file
+    name: remodel_before_image
+    label: Remodel Before Image
+    config:
+      maxSize: '2'
+- type: image_gallery
+  name: gallery_images
+  label: Gallery Images
+- type: text
+  name: layout
+  label: Layout
+  config:
+    required: true
+  hidden: true
+  default: remodel
+- type: text
+  name: page_kind
+  label: Page Kind
+  hidden: true
+  config:
+    required: true
+  default: remodel
+- type: text
+  name: type
+  label: Type
+  hidden: true
+  config:
+    required: true
+  default: page
