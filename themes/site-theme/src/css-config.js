@@ -50,6 +50,7 @@ let colors = {
   'color-333333': "#333333",
   'color-4f5052': '#4f5052',
   'color-e1e9ba': '#e1e9ba',
+  'color-48525d': '#48525d',
   'color-header': "rgba(70, 74, 78, 0.95)",
   'color-999999': '#999999',
   'transparent': 'transparent',

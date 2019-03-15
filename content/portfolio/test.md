@@ -22,7 +22,7 @@ home_specifics:
 is_on_sale: false
 is_sold: true
 is_pending: false
-video_tour_link: 1
+video_tour_link: https://www.youtube.com/embed/oK34rw2qh0M?rel=0
 page_kind: home
 gallery_images:
 - "/v1552527332/OnPoint%20Custom%20Homes/modern-luxury/DSC_1060.jpg"
@@ -30,12 +30,16 @@ gallery_images:
 - "/v1552527332/OnPoint%20Custom%20Homes/modern-luxury/DSC_0895.jpg"
 - "/v1552527332/OnPoint%20Custom%20Homes/modern-luxury/DSC_0058.jpg"
 - "/v1552578531/OnPoint%20Custom%20Homes/emomedia.net-9-copy.jpg"
+- "/v1552578531/OnPoint%20Custom%20Homes/emomedia.net-9-copy.jpg"
+- "/v1552578531/OnPoint%20Custom%20Homes/emomedia.net-9-copy.jpg"
+- "/v1552578531/OnPoint%20Custom%20Homes/emomedia.net-9-copy.jpg"
+- "/v1552578531/OnPoint%20Custom%20Homes/emomedia.net-9-copy.jpg"
 
 ---
-<div class='flex flex-wrap slider-nav'>
-{{< modern-luxury-photo-slider-controls data="modern_luxury_photos" >}}
+<div class='flex flex-wrap pt-5 slider-nav'>
+{{< home-portfolio-slider-controls data="gallery_images" >}}
 </div>
 
 <div class='slider bg-grey-lighter w-full py-5 mb-5 h-auto'>
-{{< modern-luxury-photo-slider data="modern_luxury_photos" >}}
+{{< home-portfolio-slider data="gallery_images" >}}
 </div>

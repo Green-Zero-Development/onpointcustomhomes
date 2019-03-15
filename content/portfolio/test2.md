@@ -22,7 +22,7 @@ home_specifics:
 is_on_sale: false
 is_sold: true
 is_pending: false
-video_tour_link: 1
+video_tour_link: 
 page_kind: home
 
 ---
