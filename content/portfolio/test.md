@@ -24,9 +24,14 @@ is_sold: true
 is_pending: false
 video_tour_link: 1
 page_kind: home
+gallery_images:
+- "/v1552527332/OnPoint%20Custom%20Homes/modern-luxury/DSC_1060.jpg"
+- "/v1552527332/OnPoint%20Custom%20Homes/modern-luxury/DSC_1038.jpg"
+- "/v1552527332/OnPoint%20Custom%20Homes/modern-luxury/DSC_0895.jpg"
+- "/v1552527332/OnPoint%20Custom%20Homes/modern-luxury/DSC_0058.jpg"
+- "/v1552578531/OnPoint%20Custom%20Homes/emomedia.net-9-copy.jpg"
 
 ---
-
 <div class='flex flex-wrap slider-nav'>
 {{< modern-luxury-photo-slider-controls data="modern_luxury_photos" >}}
 </div>
