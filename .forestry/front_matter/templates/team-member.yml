@@ -1,0 +1,54 @@
+---
+label: Team Member
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Team Member Name
+  config:
+    required: true
+- type: text
+  name: slug
+  label: Slug
+  config:
+    required: true
+  default: "/"
+- type: field_group
+  name: featured_image
+  label: Featured Image
+  fields:
+  - type: file
+    name: team_featured_image
+    label: Team Featured Image
+    config:
+      maxSize: '2'
+- type: field_group
+  name: team_info
+  label: Team Info
+  fields:
+  - type: text
+    name: title
+    label: Employee Title
+    config:
+      required: true
+- type: text
+  name: layout
+  label: Layout
+  config:
+    required: true
+  hidden: true
+  default: team-single
+- type: text
+  name: page_kind
+  label: page_kind
+  hidden: true
+  config:
+    required: true
+  default: team
+- type: text
+  name: type
+  label: type
+  hidden: true
+  config:
+    required: true
+  default: page
