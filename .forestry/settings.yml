@@ -5,6 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: content/personnel
+  label: Team
+  create: documents
+  match: "**/*"
+- type: directory
   path: content/remodels
   label: Remodels
   create: documents
