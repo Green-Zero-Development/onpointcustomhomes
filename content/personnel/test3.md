@@ -2,7 +2,7 @@
 date = "2019-03-15T02:50:46+00:00"
 layout = "team-single"
 page_kind = "team"
-slug = "/"
+slug = "/john-leggett"
 title = "John Leggett"
 type = "page"
 [featured_image]
