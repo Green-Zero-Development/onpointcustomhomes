@@ -2,6 +2,7 @@
 date = "2019-03-15T02:50:46+00:00"
 layout = "team-single"
 page_kind = "team"
+slug = "/"
 title = "John Leggett"
 type = "page"
 [featured_image]
@@ -10,7 +11,6 @@ team_featured_image = "/v1552863292/OnPoint%20Custom%20Homes/john.jpg"
 title = "Founder"
 
 +++
-
 Growing up in North Carolina, John’s introduction to the residential construction industry began as a young boy when his father, an airline pilot, decided to pursue a personal interest and start a construction company. John would often tag along with his father visiting job sites, and quickly became a regular fixture where he started learning the ins and outs of residential construction.
 
 John attended the University of North Carolina at Chapel Hill, where he received his Masters in Accounting and BS in Business Administration from the Kenan-Flagler Business School.
