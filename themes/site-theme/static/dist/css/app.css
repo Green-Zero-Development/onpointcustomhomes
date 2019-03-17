@@ -3330,6 +3330,10 @@ table {
   height: 1px;
 }
 
+.h-team {
+  height: 20rem;
+}
+
 .h-home {
   height: 23rem;
 }
@@ -10910,6 +10914,10 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
     height: 1px;
   }
 
+  .sm\:h-team {
+    height: 20rem;
+  }
+
   .sm\:h-home {
     height: 23rem;
   }
@@ -17015,6 +17023,10 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
 
   .md\:h-px {
     height: 1px;
+  }
+
+  .md\:h-team {
+    height: 20rem;
   }
 
   .md\:h-home {
@@ -23124,6 +23136,10 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
     height: 1px;
   }
 
+  .lg\:h-team {
+    height: 20rem;
+  }
+
   .lg\:h-home {
     height: 23rem;
   }
@@ -29231,6 +29247,10 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
     height: 1px;
   }
 
+  .xl\:h-team {
+    height: 20rem;
+  }
+
   .xl\:h-home {
     height: 23rem;
   }
@@ -35336,6 +35356,10 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
 
   .xxl\:h-px {
     height: 1px;
+  }
+
+  .xxl\:h-team {
+    height: 20rem;
   }
 
   .xxl\:h-home {

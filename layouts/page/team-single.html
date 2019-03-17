@@ -1,0 +1,34 @@
+{{ define "main" }}
+
+<style>
+.team-member-content p {
+    padding: 15px 0 15px 0;
+}
+</style>
+
+<div class="overlay-black">
+
+<section id="top-title" class="flex flex-wrap text-center pt-20 pb-12">
+    <h1 class="w-full pb-3 font-roboto uppercase text-3xl lg:text-7xl text-white font-thin tracking-wide top-title">{{ .Page.Title }}</h1>
+    <h2 class="w-full pb-3 font-roboto uppercase text-2xl text-white font-thin tracking-wide top-title">{{ .Params.Team_Info.Title }}</h2>
+    <a class="w-full lg:w-1/3 mx-auto" href="/about-us/team">
+        <button class="font-muli font-sm text-grey hover:text-white font-bold uppercase text-center py-3 px-5 mt-10 border-2 hover:bg-grey hover:border-grey collections-button"><i class="fas fa-long-arrow-alt-left"></i> Back to Team</button>
+    </a>
+</section>
+
+<section id="page-details" class="flex flex-wrap text-center">
+    <div class="container bg-white flex flex-wrap w-full lg:w-5/6 text-center mx-auto py-12 px-0 lg:px-32 flex-col-reverse lg:flex-row">
+        <div class="w-4/5 lg:w-2/3 mx-auto text-left pr-0 lg:pr-24 font-muli text-color-4f5052 text-left text-base lg:text-lg font-thin leading-normal team-member-content">
+            {{ .Content }}
+        </div>
+        <div class="w-full lg:w-1/3 mx-auto">
+            <img src="https://res.cloudinary.com/animated-eagle/image/upload{{ .Params.Featured_image.team_featured_image }}">
+        </div>
+    </div>
+</section>
+
+{{ partial "social-media-icons.html" . }}
+
+</div>
+
+{{ end }}

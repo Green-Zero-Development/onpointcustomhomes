@@ -1,0 +1,66 @@
+{{ define "main" }}
+
+<style>
+
+</style>
+
+<div class="overlay-black">
+
+<section id="top-title" class="flex text-center pt-20 pb-12">
+    <div class="w-2/3 mx-auto">
+        <h1 class="pb-3 font-roboto uppercase text-3xl lg:text-7xl text-white font-thin tracking-wide top-title">{{ .Page.Params.pageTitle }}</h1>
+    </div>
+</section>
+
+<section id="page-details" class="flex flex-wrap text-center">
+    <div class="container bg-white flex flex-wrap w-5/6 lg:w-3/4 mx-auto">
+        <div class="hidden bg-grey lg:flex flex-wrap w-full font-muli text-white">
+            <a href="/about-us" class="w-1/5 mx-auto text-center py-6 text-white no-underline hover:bg-grey-dark hover:cursor-pointer">
+                <p>About</p>
+            </a>
+            <a href="/about-us/team" class="w-1/5 mx-auto text-center py-6 text-white no-underline hover:bg-grey-dark hover:cursor-pointer">
+                <p>Our Team</p>
+            </a>
+            <a href="/about-us/design-build" class="w-1/5 mx-auto text-center py-6 text-white no-underline hover:bg-grey-dark hover:cursor-pointer">
+                <p>Process</p>
+            </a>
+            <a href="/about-us/recognition" class="w-1/5 mx-auto text-center py-6 text-white no-underline hover:bg-grey-dark hover:cursor-pointer">
+                <p>Recognitions & Awards</p>
+            </a>
+            <a href="/about-us/testimonials" class="w-1/5 mx-auto text-center py-6 text-white no-underline hover:bg-grey-dark hover:cursor-pointer">
+                <p>Testimonials & Reviews</p>
+            </a>
+        </div>
+        <p class="py-12 px-12 lg:px-32 font-muli text-color-4f5052 text-left text-lg font-thin leading-normal">We take an innovative, service-oriented approach to designing and building custom homes. Our in-house architects, designers, and project managers are at your service to take you through the entire process, step-by-step, from architectural design to final walk-through and closing.</p>
+        <div class="w-full md:w-1/2 lg:w-1/4 mx-auto">
+            <img src="https://res.cloudinary.com/animated-eagle/image/upload/v1552865361/OnPoint%20Custom%20Homes/OCPH-mini-1.png">
+        </div>
+        <div class="w-full md:w-1/2 lg:w-1/4 mx-auto">
+            <img src="https://res.cloudinary.com/animated-eagle/image/upload/v1552865561/OnPoint%20Custom%20Homes/OCPH-mini-2.png">
+        </div>
+        <div class="w-full md:w-1/2 lg:w-1/4 mx-auto">
+            <img src="https://res.cloudinary.com/animated-eagle/image/upload/v1552865361/OnPoint%20Custom%20Homes/OCPH-mini-3.png">
+        </div>
+        <div class="w-full md:w-1/2 lg:w-1/4 mx-auto">
+            <img src="https://res.cloudinary.com/animated-eagle/image/upload/v1552865361/OnPoint%20Custom%20Homes/OCPH-mini-4.png">
+        </div>
+        <div class="w-full md:w-1/2 lg:w-1/4 mx-auto">
+            <img src="https://res.cloudinary.com/animated-eagle/image/upload/v1552865361/OnPoint%20Custom%20Homes/OCPH-mini-5.png">
+        </div>
+        <div class="w-full md:w-1/2 lg:w-1/4 mx-auto">
+            <img src="https://res.cloudinary.com/animated-eagle/image/upload/v1552865361/OnPoint%20Custom%20Homes/OCPH-mini-6.png">
+        </div>
+        <div class="w-full md:w-1/2 lg:w-1/4 mx-auto">
+            <img src="https://res.cloudinary.com/animated-eagle/image/upload/v1552865361/OnPoint%20Custom%20Homes/OCPH-mini-7.png">
+        </div>
+        <div class="w-full md:w-1/2 lg:w-1/4 mx-auto">
+            <img src="https://res.cloudinary.com/animated-eagle/image/upload/v1552865361/OnPoint%20Custom%20Homes/OCPH-mini-8.png">
+        </div>
+    </div>
+</section>
+
+{{ partial "social-media-icons.html" . }}
+
+</div>
+
+{{ end }}
