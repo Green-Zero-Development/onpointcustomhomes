@@ -1,5 +1,5 @@
 +++
-award_link = "https://www.brendonfolsom.com/"
+award_link = ""
 award_pdf = "/v1552527333/OnPoint%20Custom%20Homes/modern-luxury/DSC_3662.jpg"
 award_photo = "/v1552868578/OnPoint%20Custom%20Homes/PRISM-2018-Winner-202x300.jpg"
 award_title = "Best Custom Home Design Best Whole Home Remodel Best Campaign, Ronald McDonald"
