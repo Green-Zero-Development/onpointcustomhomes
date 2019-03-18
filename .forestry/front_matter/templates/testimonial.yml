@@ -25,3 +25,5 @@ fields:
   config:
     required: true
   default: testimonial
+pages:
+- content/testimonials/test54325.md
