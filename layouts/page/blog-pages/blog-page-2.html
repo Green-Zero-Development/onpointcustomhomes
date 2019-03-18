@@ -1,0 +1,41 @@
+{{ define "main" }}
+
+<style>
+
+</style>
+
+<div class="overlay-black">
+
+<section id="top-title" class="flex text-center pt-20 pb-12">
+    <div class="w-2/3 mx-auto">
+        <h1 class="pb-3 font-roboto uppercase text-3xl lg:text-7xl text-white font-thin tracking-wide top-title">{{ .Page.Params.pageTitle }}</h1>
+    </div>
+</section>
+
+<section id="page-details" class="flex flex-wrap text-center">
+    <div class="container bg-white flex flex-wrap w-5/6 lg:w-3/4 mx-auto">
+        <div class="flex flex-wrap w-full mx-auto relative border-8 border-white hover:opacity-95 hover:cursor-pointer">
+            {{ range first 2 (where .Site.Pages "Type" "post") }}
+    <a href="/blog/page{{ .Slug }}" class="w-full md:w-1/2 lg:w-1/3 mx-auto relative border-8 border-white h-home hover:opacity-95 hover:cursor-pointer">
+        <h2>{{ .Title }}</h2>
+        <date>{{ .Date | dateFormat "Jan 2, 2006" }}</date>
+        <p>{{ .Params.Excerpt }}</p>
+    </a>
+{{ end }}
+        </div>
+            <div class="bg-color-48525d flex flex-wrap w-full py-16 font-muli text-xl">
+                <div class="w-full lg:w-1/2 mx-auto pb-12 lg:pb-0">
+                    <a class="text-white no-underline opacity-75 hover:opacity-100" href="/blog/page/3"><-- Older Posts</a>
+                </div>
+                <div class="w-full lg:w-1/2 mx-auto">
+                    <a class="text-white no-underline opacity-75 hover:opacity-100" href="/blog">Newer Posts --></a>
+                </div>
+            </div>
+    </div>
+</section>
+
+{{ partial "social-media-icons.html" . }}
+
+</div>
+
+{{ end }}

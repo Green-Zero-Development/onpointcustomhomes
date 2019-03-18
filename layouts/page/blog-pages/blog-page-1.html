@@ -1,0 +1,46 @@
+{{ define "main" }}
+
+<style>
+
+</style>
+
+<div class="overlay-black">
+
+<section id="top-title" class="flex text-center pt-20 pb-12">
+    <div class="w-2/3 mx-auto">
+        <h1 class="pb-3 font-roboto uppercase text-3xl lg:text-7xl text-white font-thin tracking-wide top-title">{{ .Page.Params.pageTitle }}</h1>
+    </div>
+</section>
+
+<section id="page-details" class="flex flex-wrap text-center">
+    <div class="container bg-white flex flex-wrap w-5/6 lg:w-3/4 mx-auto">
+        <div class="flex flex-wrap w-full mx-auto relative border-8 border-white items-center flex-col-reverse lg:flex-row">
+            {{ range first 25 (where .Site.Pages "Type" "post") }}
+            <div class="w-5/6 lg:w-2/3 mx-auto text-left py-5 lg:py-16 lg:px-12 border-b-4">
+                <a href="/blog{{ .Slug }}" class="mx-auto no-underline h-home hover:cursor-pointer">
+                <h2 class="pb-2 font-muli text-color-818e9c text-4xl roman font-normal">{{ .Title }}</h2>
+                <date class="font-normal text-color-818e9c uppercase text-xs opacity-50">{{ .Date | dateFormat "Jan 2, 2006" }}</date>
+                <p class="pt-2 font-muli text-color-4f5052 text-left text-lg font-thin leading-normal">{{ .Params.Excerpt }}</p>
+                <button class="font-muli font-sm text-grey hover:text-white font-bold uppercase text-center py-3 px-5 mt-5 border-2 hover:bg-grey hover:border-grey collections-button">Continue Reading</button>
+                </a>
+            </div>
+            <div class="w-1/2 lg:w-1/3 py-5 lg:py-0 mx-auto">
+                <a href="/blog{{ .Slug }}" class="hover:opacity-75">
+                    <img class="rounded" src="https://res.cloudinary.com/animated-eagle/image/upload{{ .Params.Featured_image.Blog_featured_image }}">
+                </a>
+            </div>
+{{ end }}
+        </div>
+            <div class="bg-color-48525d flex flex-wrap w-full py-16 font-muli text-xl">
+                <div class="w-full lg:w-1/2 mx-auto pb-12 lg:pb-0">
+                    <a class="text-white no-underline opacity-75 hover:opacity-100" href="/blog/page/2"><-- Older Posts</a>
+                </div>
+            </div>
+    </div>
+</section>
+
+{{ partial "social-media-icons.html" . }}
+
+</div>
+
+{{ end }}

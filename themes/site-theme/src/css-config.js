@@ -54,6 +54,7 @@ let colors = {
   'color-818e9c': '#818e9c',
   'color-eeeeee': '#eeeeee',
   'color-header': "rgba(70, 74, 78, 0.95)",
+  'color-contact-form': 'rgba(101,101,101,0.1)',
   'color-999999': '#999999',
   'transparent': 'transparent',
 
@@ -428,6 +429,7 @@ module.exports = {
   borderWidths: {
     default: '1px',
     '0': '0',
+    '1': '1px',
     '2': '2px',
     '4': '4px',
     '8': '8px',

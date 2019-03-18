@@ -118,16 +118,17 @@ name = "Testimonials & Reviews"
 url = "/about-us/testimonials"
 weight = 4
 [params.Contact_Numbers]
-Fax = "555.555.5555"
-Phone = "555.555.5555"
+Fax = "800-809-1054"
+Phone = "713-600-2422"
 [params.Logos]
 logo = "https://res.cloudinary.com/animated-eagle/image/upload/v1552086461/OnPoint%20Custom%20Homes/logo.png"
 mobile_menu_logo = "https://res.cloudinary.com/animated-eagle/image/upload/v1552086461/OnPoint%20Custom%20Homes/logo.png"
 [params.address]
-city = "Statesboro"
-state = "GA"
-street = "P.O. Box 134"
-zip = 30459
+city = "Houston"
+state = "TX"
+street = "3939 Essex Lane"
+suite = "100"
+zip = 77027
 [params.email]
 email = "example@example.com"
 [params.tracking]
