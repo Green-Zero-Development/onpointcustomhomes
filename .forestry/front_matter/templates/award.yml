@@ -15,11 +15,13 @@ fields:
 - type: text
   name: award_link
   label: Award Link
+  description: Does not work with an "Award PDF"
 - type: file
   name: award_pdf
   label: Award PDF
   config:
     maxSize: '2'
+  description: Does not work with an "Award Link"
 - type: text
   name: page_kind
   label: page_kind
