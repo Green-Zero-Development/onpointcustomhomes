@@ -1,0 +1,29 @@
+---
+label: Award
+hide_body: true
+fields:
+- type: text
+  name: award_title
+  label: Award Title
+  config:
+    required: false
+- type: file
+  name: award_photo
+  label: Award Photo
+  config:
+    maxSize: '2'
+- type: text
+  name: award_link
+  label: Award Link
+- type: file
+  name: award_pdf
+  label: Award PDF
+  config:
+    maxSize: '2'
+- type: text
+  name: page_kind
+  label: page_kind
+  hidden: true
+  config:
+    required: true
+  default: award
