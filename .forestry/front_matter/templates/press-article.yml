@@ -1,0 +1,25 @@
+---
+label: Press Article
+hide_body: true
+fields:
+- type: text
+  name: name_of_publication
+  label: Name of Publication
+- type: text
+  name: article_title
+  label: Article Title
+- type: text
+  name: press_link
+  label: Press Link
+- type: file
+  label: Press Photo
+  name: press_photo
+  config:
+    maxSize: '2'
+- type: text
+  name: page_kind
+  label: page_kind
+  config:
+    required: true
+  hidden: true
+  default: press
