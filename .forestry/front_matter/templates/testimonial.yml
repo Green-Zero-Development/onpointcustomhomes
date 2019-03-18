@@ -1,0 +1,27 @@
+---
+label: Testimonial
+hide_body: true
+fields:
+- type: text
+  name: testimonial_name
+  label: Name of Client
+  config:
+    required: true
+- type: text
+  name: testimonial_type_of_client
+  label: Type of Client
+  description: What did we do for the client?
+- type: text
+  name: testimonial_content
+  label: Testimonial Content
+  description: The body of the testimonial.
+- type: text
+  name: testimonial_video
+  label: Testimonial Video
+- type: text
+  name: page_kind
+  label: page_kind
+  hidden: true
+  config:
+    required: true
+  default: testimonial
