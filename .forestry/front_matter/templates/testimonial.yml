@@ -11,10 +11,13 @@ fields:
   name: testimonial_type_of_client
   label: Type of Client
   description: What did we do for the client?
-- type: text
+- type: textarea
   name: testimonial_content
   label: Testimonial Content
-  description: The body of the testimonial.
+  config:
+    wysiwyg: true
+    schema:
+      format: html
 - type: text
   name: testimonial_video
   label: Testimonial Video
