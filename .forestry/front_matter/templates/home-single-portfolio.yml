@@ -8,11 +8,10 @@ fields:
   config:
     required: true
   description: Enter the name of the property
-- type: number
+- type: text
   name: price
   label: Price
   config:
-    min: '1'
     required: true
 - type: text
   name: slug
