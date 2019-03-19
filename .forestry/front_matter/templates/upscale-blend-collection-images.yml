@@ -21,3 +21,5 @@ fields:
     label: photo_label
   config:
     labelField: photo_label
+  description: Use "add photo" then click into the FIRST box to edit the details of
+    the photo.
