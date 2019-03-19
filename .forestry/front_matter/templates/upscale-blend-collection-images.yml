@@ -4,7 +4,7 @@ hide_body: true
 fields:
 - type: field_group_list
   name: upscale_blend_photos
-  label: upscale_blend_photos
+  label: Upscale Blend Photos
   fields:
   - type: field_group
     name: photo
@@ -19,3 +19,5 @@ fields:
   - type: text
     name: photo_label
     label: photo_label
+  config:
+    labelField: photo_label
