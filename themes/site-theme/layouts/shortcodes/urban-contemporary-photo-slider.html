@@ -1,0 +1,6 @@
+{{ if .IsNamedParams }}
+{{ $data := index $.Site.Data.collections.urban_contemporary_photos $.Params.data }}
+{{ range $data }}
+<div class="flex"><img class="w-5/6 mx-auto" src="https://res.cloudinary.com/animated-eagle/image/upload{{ .photo.photo_image }}" alt="{{ if .photo.alt_text }}{{ .photo.alt_text }}{{ else }}Urban Contemporary{{ end }}"></div>
+{{ end }}
+{{- end -}}

@@ -1,0 +1,6 @@
+{{ if .IsNamedParams }}
+{{ $data := index $.Site.Data.collections.timeless_traditional_photos $.Params.data }}
+{{ range $data }}
+<div class="w-1/2 md:w-1/3 lg:w-1/6 border-r-4 border-l-4 opacity-75 hover:opacity-100 hover:cursor-pointer border-white controls-image"><img src="https://res.cloudinary.com/animated-eagle/image/upload{{ .photo.photo_image }}" alt="{{ if .photo.alt_text }}{{ .photo.alt_text }}{{ else }}Timeless Traditional{{ end }}"></div>
+{{ end }}
+{{- end -}}
