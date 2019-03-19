@@ -19,9 +19,6 @@ urban_contemporary_photos:
     photo_image: "/v1552965326/OnPoint%20Custom%20Homes/DSC_2178.jpg"
   photo_label: DSC_2178
 - photo:
-    photo_image: "/v1552965299/OnPoint%20Custom%20Homes/DSC_2147.jpg"
-  photo_label: DSC_2147
-- photo:
     photo_image: "/v1552965273/OnPoint%20Custom%20Homes/DSC_0115.jpg"
   photo_label: DSC_0115
 - photo:
@@ -91,9 +88,6 @@ urban_contemporary_photos:
     photo_image: "/v1552964608/OnPoint%20Custom%20Homes/DSC_8897-Copy.jpg"
   photo_label: DSC_8897-Copy
 - photo:
-    photo_image: "/v1552964578/OnPoint%20Custom%20Homes/300_8839.jpg"
-  photo_label: '300_8839'
-- photo:
     photo_image: "/v1552964552/OnPoint%20Custom%20Homes/DSC_3812.jpg"
   photo_label: DSC_3812
 - photo:
@@ -110,5 +104,11 @@ urban_contemporary_photos:
     alt_text: Urban contemporary
   photo_label: Front
 - photo:
+    photo_image: "/v1552964578/OnPoint%20Custom%20Homes/300_8839.jpg"
+  photo_label: '300_8839'
+- photo:
     photo_image: "/v1552965391/OnPoint%20Custom%20Homes/DSC_7473.jpg"
   photo_label: DSC_7473
+- photo:
+    photo_image: "/v1552965299/OnPoint%20Custom%20Homes/DSC_2147.jpg"
+  photo_label: DSC_2147
