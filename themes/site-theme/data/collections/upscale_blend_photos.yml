@@ -1,6 +1,9 @@
 ---
 upscale_blend_photos:
 - photo:
+    photo_image: "/v1552964295/OnPoint%20Custom%20Homes/emomedia.net-55.jpg"
+  photo_label: emomedia.net-55
+- photo:
     photo_image: "/v1552964238/OnPoint%20Custom%20Homes/emomedia.net-50.jpg"
   photo_label: emomedia.net-50
 - photo:
