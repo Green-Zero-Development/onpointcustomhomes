@@ -21,5 +21,7 @@ fields:
     label: photo_label
   description: Use "add photo" then click into the FIRST box to edit the details of
     the photo.
+  config:
+    labelField: photo_label
 pages:
 - themes/site-theme/data/collections/urban_contemporary_photos.yml
