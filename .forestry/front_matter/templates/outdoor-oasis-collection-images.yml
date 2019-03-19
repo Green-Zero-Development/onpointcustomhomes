@@ -1,0 +1,21 @@
+---
+label: Outdoor Oasis Collection Images
+hide_body: true
+fields:
+- type: field_group_list
+  name: outdoor_oasis_photos
+  label: outdoor_oasis_photos
+  fields:
+  - type: field_group
+    name: photo
+    label: photo
+    fields:
+    - type: file
+      name: photo_image
+      label: photo_image
+    - type: text
+      name: alt_text
+      label: alt_text
+  - type: text
+    name: photo_label
+    label: photo_label
