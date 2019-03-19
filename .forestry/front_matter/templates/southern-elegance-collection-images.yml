@@ -23,3 +23,5 @@ fields:
     the photo.
   config:
     labelField: photo_label
+pages:
+- themes/site-theme/data/collections/southern_elegance_photos.yml
