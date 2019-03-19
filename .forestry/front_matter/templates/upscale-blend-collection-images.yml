@@ -23,3 +23,5 @@ fields:
     labelField: photo_label
   description: Use "add photo" then click into the FIRST box to edit the details of
     the photo.
+pages:
+- themes/site-theme/data/collections/upscale_blend_photos.yml
