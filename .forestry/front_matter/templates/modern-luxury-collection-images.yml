@@ -6,7 +6,7 @@ fields:
   label: Modern Luxury Photos
   name: modern_luxury_photos
   description: Use "add photo" then click into the FIRST box to edit the details of
-    the treatment.
+    the photo.
   fields:
   - type: field_group
     label: Photo Specifics
