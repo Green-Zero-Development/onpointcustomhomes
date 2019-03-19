@@ -121,4 +121,5 @@ fields:
     required: true
   default: home
 pages:
+- content/portfolio/6508-haskell.md
 - content/portfolio/6231-del-monte-dr.md
