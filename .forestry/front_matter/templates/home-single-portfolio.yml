@@ -122,5 +122,4 @@ fields:
     required: true
   default: home
 pages:
-- content/portfolio/test-1.md
 - content/portfolio/6231-del-monte-dr.md
