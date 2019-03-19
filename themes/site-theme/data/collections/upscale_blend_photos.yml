@@ -1,6 +1,21 @@
 ---
 upscale_blend_photos:
 - photo:
+    photo_image: "/v1552962705/OnPoint%20Custom%20Homes/DSC_8465.jpg"
+  photo_label: DSC_8465
+- photo:
+    photo_image: "/v1552962678/OnPoint%20Custom%20Homes/DSC_5284.jpg"
+  photo_label: DSC_5284
+- photo:
+    photo_image: "/v1552962648/OnPoint%20Custom%20Homes/DSC_7463.jpg"
+  photo_label: DSC_7463
+- photo:
+    photo_image: "/v1552962618/OnPoint%20Custom%20Homes/emomedia.net-431.jpg"
+  photo_label: emomedia.net-431
+- photo:
+    photo_image: "/v1552962587/OnPoint%20Custom%20Homes/DSC_5439.jpg"
+  photo_label: DSC_5439
+- photo:
     photo_image: "/v1552962509/OnPoint%20Custom%20Homes/emomedia.net-428.jpg"
   photo_label: emomedia.net-428
 - photo:
