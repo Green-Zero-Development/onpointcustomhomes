@@ -121,6 +121,7 @@ fields:
     required: true
   default: home
 pages:
+- content/portfolio/4532-sunburst-st.md
 - content/portfolio/2622-2624-greenbriar-dr.md
 - content/portfolio/6510-haskell.md
 - content/portfolio/6508-haskell.md
