@@ -121,6 +121,7 @@ fields:
     required: true
   default: home
 pages:
+- content/portfolio/2106-2108-dunlavy-street.md
 - content/portfolio/1609-hazard-st.md
 - content/portfolio/1634-ronson-rd.md
 - content/portfolio/4532-sunburst-st.md
