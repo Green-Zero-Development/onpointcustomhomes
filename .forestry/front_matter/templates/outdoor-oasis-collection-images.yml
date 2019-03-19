@@ -4,7 +4,7 @@ hide_body: true
 fields:
 - type: field_group_list
   name: outdoor_oasis_photos
-  label: outdoor_oasis_photos
+  label: Outdoor Oasis Photos
   fields:
   - type: field_group
     name: photo
@@ -19,3 +19,7 @@ fields:
   - type: text
     name: photo_label
     label: photo_label
+  description: Use "add photo" then click into the FIRST box to edit the details of
+    the photo.
+  config:
+    labelField: photo_label
