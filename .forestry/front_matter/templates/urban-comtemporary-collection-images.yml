@@ -4,7 +4,7 @@ hide_body: true
 fields:
 - type: field_group_list
   name: urban_contemporary_photos
-  label: urban_contemporary_photos
+  label: Urban Contemporary Photos
   fields:
   - type: field_group
     name: photo
@@ -19,3 +19,5 @@ fields:
   - type: text
     name: photo_label
     label: photo_label
+  description: Use "add photo" then click into the FIRST box to edit the details of
+    the photo.
