@@ -13,9 +13,6 @@ urban_contemporary_photos:
     photo_image: "/v1552965419/OnPoint%20Custom%20Homes/emomedia.net-19-2.jpg"
   photo_label: emomedia.net-19-2
 - photo:
-    photo_image: "/v1552965391/OnPoint%20Custom%20Homes/DSC_7473.jpg"
-  photo_label: DSC_7473
-- photo:
     photo_image: "/v1552965356/OnPoint%20Custom%20Homes/emomedia.net-17-2.jpg"
   photo_label: emomedia.net-17-2
 - photo:
@@ -112,3 +109,6 @@ urban_contemporary_photos:
     photo_image: "/v1552959023/OnPoint%20Custom%20Homes/Front.jpg"
     alt_text: Urban contemporary
   photo_label: Front
+- photo:
+    photo_image: "/v1552965391/OnPoint%20Custom%20Homes/DSC_7473.jpg"
+  photo_label: DSC_7473
