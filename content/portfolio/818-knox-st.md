@@ -1,6 +1,6 @@
 +++
 date = "2019-03-19T23:57:54+00:00"
-gallery_images = ["/v1553039504/OnPoint%20Custom%20Homes/P2270208.jpg", "/v1553039503/OnPoint%20Custom%20Homes/P2270205.jpg", "/v1553039503/OnPoint%20Custom%20Homes/P2270167.jpg", "/v1553039503/OnPoint%20Custom%20Homes/P2270126.jpg", "/v1553039497/OnPoint%20Custom%20Homes/816-Knox-Sales-Plan-Level-1.jpg", "/v1553039497/OnPoint%20Custom%20Homes/816-Knox-Sales-Plan-Level-1.jpg"]
+gallery_images = ["/v1553039504/OnPoint%20Custom%20Homes/P2270208.jpg", "/v1553039503/OnPoint%20Custom%20Homes/P2270205.jpg", "/v1553039503/OnPoint%20Custom%20Homes/P2270167.jpg", "/v1553039503/OnPoint%20Custom%20Homes/P2270126.jpg", "/v1553039497/OnPoint%20Custom%20Homes/816-Knox-Sales-Plan-Level-1.jpg"]
 is_on_sale = true
 is_pending = false
 is_sold = false
