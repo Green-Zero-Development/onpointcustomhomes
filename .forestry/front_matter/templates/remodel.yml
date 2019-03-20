@@ -60,4 +60,5 @@ fields:
     required: true
   default: page
 pages:
+- content/remodels/kitchen-remodel.md
 - content/remodels/test-remodel.md
