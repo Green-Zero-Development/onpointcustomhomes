@@ -67,6 +67,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/blog/do-you-build-modern-homes-in-houston.md
 - content/blog/does-on-point-custom-homes-use-green-building.md
 - content/blog/what-is-a-radiant-barrier-on-residential-roof-decking.md
 - content/blog/why-are-nahb-designations-important.md
