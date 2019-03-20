@@ -34,13 +34,23 @@
                 <div class="flex flex-wrap w-full font-muli text-center text-white">
                     <h1 class="w-full font-normal text-2xl uppercase home-single-shadow">{{ .Page.Params.Location.Street_address }}</h1>
                     <h3 class="w-1/5 font-bold uppercase text-sm py-3 my-4 border-t-2 border-b-2 border-white mx-auto home-single-shadow">{{ .Page.Params.Location.Neighboorhood }}</h3>
-                    <h3 class="w-full font-normal text-3xl pb-5 home-single-shadow">${{ .Page.Params.Price }}</h3>
+                        <h3 class="w-full font-normal text-3xl pb-5 home-single-shadow">{{ if .Page.Params.Price }}${{ .Page.Params.Price }}{{ else }}{{ end }}</h3>
                     <div class="w-3/4 mx-auto">
-                    <p class="inline-block font-normal text-xl py-1 px-2 mx-1 my-1 page-specifics-icon-box"><i class="fas fa-bed"></i> {{ .Page.Params.home_specifics.bedrooms }} Bedrooms</p>
-                    <p class="inline-block font-normal text-xl py-1 px-2 mx-1 my-1 page-specifics-icon-box"><i class="fas fa-toilet"></i> {{ .Page.Params.home_specifics.bathrooms }} Bathrooms</p>
-                    <p class="inline-block font-normal text-xl py-1 px-2 mx-1 my-1 page-specifics-icon-box"><i class="fas fa-square-root-alt"></i> {{ .Page.Params.home_specifics.square_feet }} Square Feet</p>
-                    <p class="inline-block font-normal text-xl py-1 px-2 mx-1 my-1 page-specifics-icon-box"><i class="fas fa-tree"></i> {{ .Page.Params.home_specifics.lot_square_feet }} Square Foot Lot</p>
-                    <p class="inline-block font-normal text-xl py-1 px-2 mx-1 my-1 page-specifics-icon-box"><i class="fas fa-car"></i> {{ .Page.Params.home_specifics.how_many_cars_garage }} Car Garage</p>
+                    {{ if .Page.Params.home_specifics.bedrooms }}
+                        <p class="inline-block font-normal text-xl py-1 px-2 mx-1 my-1 page-specifics-icon-box"><i class="fas fa-bed"></i> {{ .Page.Params.home_specifics.bedrooms }} Bedrooms</p>
+                    {{ else }}{{ end }}
+                    {{ if .Page.Params.home_specifics.bathrooms }}
+                        <p class="inline-block font-normal text-xl py-1 px-2 mx-1 my-1 page-specifics-icon-box"><i class="fas fa-toilet"></i> {{ .Page.Params.home_specifics.bathrooms }} Bathrooms</p>
+                    {{ else }}{{ end }}
+                    {{ if .Page.Params.home_specifics.square_feet }}
+                        <p class="inline-block font-normal text-xl py-1 px-2 mx-1 my-1 page-specifics-icon-box"><i class="fas fa-square-root-alt"></i> {{ .Page.Params.home_specifics.square_feet }} Square Feet</p>
+                    {{ else }}{{ end }}
+                    {{ if .Page.Params.home_specifics.lot_square_feet }}
+                        <p class="inline-block font-normal text-xl py-1 px-2 mx-1 my-1 page-specifics-icon-box"><i class="fas fa-tree"></i> {{ .Page.Params.home_specifics.lot_square_feet }} Square Foot Lot</p>
+                    {{ else }}{{ end }}
+                    {{ if .Page.Params.home_specifics.how_many_cars_garage }}
+                        <p class="inline-block font-normal text-xl py-1 px-2 mx-1 my-1 page-specifics-icon-box"><i class="fas fa-car"></i> {{ .Page.Params.home_specifics.how_many_cars_garage }} Car Garage</p>
+                    {{ else }}{{ end }}
                     </div>
                 </div>
                 </div>

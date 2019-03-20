@@ -12,7 +12,7 @@ post = "<i class='fas fa-caret-down pl-1'></i>"
 [[menu.desktop]]
 identifier = "homes-available-now"
 name = "Homes – Available Now"
-url = "/current-homes"
+url = "/portfolio"
 weight = 2
 [[menu.desktop]]
 identifier = "luxury-home-remodels"
@@ -44,7 +44,7 @@ pre = "architecturaltoggle = !architecturaltoggle"
 [[menu.mobile]]
 identifier = "homes-available-now"
 name = "Homes – Available Now"
-url = "/current-homes"
+url = "/portfolio"
 weight = 2
 [[menu.mobile]]
 identifier = "luxury-home-remodels"
