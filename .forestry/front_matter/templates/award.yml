@@ -29,5 +29,3 @@ fields:
   config:
     required: true
   default: award
-pages:
-- content/awards/test3.md
