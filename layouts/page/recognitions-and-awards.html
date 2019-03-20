@@ -39,10 +39,7 @@
                     <img src="https://res.cloudinary.com/animated-eagle/image/upload/{{ .Params.award_photo }}" width="50%">
                     {{ else }}
                 {{ end }}
-                {{ if .Params.award_title }}
-                    <h3 class="pb-4 font-muli text-color-333333 text-xl font-thin">{{ .Params.award_title }}</h3>
-                    {{ else }}
-                {{ end }}
+                <h3 class="pb-4 font-muli text-color-333333 text-xl font-thin">{{ .Title }}</h3>
             </a>
             {{ end }}
         </div>
@@ -52,7 +49,7 @@
                 <a href="{{ .Params.press_link }}" target="_blank" class="flex flex-wrap w-full md:w-1/2 lg:w-1/4 mx-auto relative border-8 border-white h-home hover:opacity-95 hover:cursor-pointer" {{ if .Params.press_photo }} style="background-image: url('https://res.cloudinary.com/animated-eagle/image/upload{{ .Params.press_photo }}');background-size: cover;background-repeat:no-repeat;"{{ else }}{{ end }}>
                     <div class="w-full shadow-lg overlay-black-homes">
                         <div class="bg-color-333333 w-full font-muli text-left text-white absolute pin-b p-2">
-                            <h2 class="text-lg font-normal">{{ .Params.article_title }}</h2>
+                            <h2 class="text-lg font-normal">{{ .Title }}</h2>
                             <h3 class="font-normal uppercase text-xs opacity-75">{{ .Params.name_of_publication }}</h3>
                         </div>
                     </div>
