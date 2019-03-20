@@ -35,10 +35,7 @@
             <h2 class="w-full pb-5 px-5 lg:px-0 font-muli text-color-818e9c text-xl uppercase font-normal border-b-4">Testimonials</h2>
             {{ range (where .Site.Pages "Params.page_kind" "testimonial") }}
             <div class="w-3/4 mx-auto text-center border-b-4">
-                {{ if .Params.testimonial_name }}
-                    <h3 class="inline-block pt-12 font-muli text-color-333333 text-2xl font-normal">{{ .Params.testimonial_name }} -</h3>
-                    {{ else }}
-                {{ end }}
+                    <h3 class="inline-block pt-12 font-muli text-color-333333 text-2xl font-normal">{{ .Title }} -</h3>
                 {{ if .Params.testimonial_type_of_client }}
                     <h3 class="inline-block font-muli text-color-333333 text-2xl font-normal"> {{ .Params.testimonial_type_of_client }}</h3>
                     {{ else }}
