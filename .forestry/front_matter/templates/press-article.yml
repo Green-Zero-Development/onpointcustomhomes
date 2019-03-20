@@ -6,8 +6,10 @@ fields:
   name: name_of_publication
   label: Name of Publication
 - type: text
-  name: article_title
+  name: title
   label: Article Title
+  config:
+    required: true
 - type: text
   name: press_link
   label: Press Link
