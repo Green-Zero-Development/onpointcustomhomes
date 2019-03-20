@@ -30,6 +30,7 @@ fields:
     required: true
   default: award
 pages:
+- content/awards/Best of Houzz 2016.md
 - content/awards/2015 Houston's Best PRISM Award.md
 - content/awards/2015 Star Award Texas Association of Builders.md
 - content/awards/Houston Business Journal 2015 Fast 100 finalist.md
