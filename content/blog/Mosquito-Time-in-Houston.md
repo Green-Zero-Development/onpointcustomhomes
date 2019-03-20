@@ -1,7 +1,7 @@
 +++
 date = "2019-03-15T02:50:46+00:00"
-category = ["cat1"]
-tag = ["houston-mosquito-system"]
+"blog/category" = ["cat1"]
+"blog/tag" = ["houston-mosquito-system"]
 layout = "blog"
 slug = "/mosquito-time-in-houston"
 title = "Mosquito Time in Houston!"

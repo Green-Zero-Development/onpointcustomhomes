@@ -382,6 +382,16 @@
   </url>
   
   <url>
+    <loc>https://onpointcustomhomes.netlify.com/blog/category/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://onpointcustomhomes.netlify.com/blog/tag/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://onpointcustomhomes.netlify.com/blog/</loc>
     <lastmod>2019-03-15T02:50:46+00:00</lastmod>
     <priority>0</priority>
@@ -392,13 +402,7 @@
   </url>
   
   <url>
-    <loc>https://onpointcustomhomes.netlify.com/categories/cat1/</loc>
-    <lastmod>2019-03-15T02:50:46+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://onpointcustomhomes.netlify.com/categories/</loc>
+    <loc>https://onpointcustomhomes.netlify.com/blog/category/cat1/</loc>
     <lastmod>2019-03-15T02:50:46+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -418,7 +422,7 @@
   </url>
   
   <url>
-    <loc>https://onpointcustomhomes.netlify.com/tags/houston-mosquito-system/</loc>
+    <loc>https://onpointcustomhomes.netlify.com/blog/tag/houston-mosquito-system/</loc>
     <lastmod>2019-03-15T02:50:46+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -496,12 +500,6 @@
   
   <url>
     <loc>https://onpointcustomhomes.netlify.com/collection/timeless-traditional/</loc>
-  </url>
-  
-  <url>
-    <loc>https://onpointcustomhomes.netlify.com/tags/</loc>
-    <lastmod>2019-03-15T02:50:46+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
