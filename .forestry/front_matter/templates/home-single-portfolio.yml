@@ -121,6 +121,7 @@ fields:
     required: true
   default: home
 pages:
+- content/portfolio/12463-pinerock-lane.md
 - content/portfolio/2105-2107-park-st.md
 - content/portfolio/2202-2204-driscoll-street.md
 - content/portfolio/2626-2628-greenbriar-dr.md
