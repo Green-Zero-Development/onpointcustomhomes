@@ -1,6 +1,6 @@
 +++
 date = "2019-03-15T23:54:25+00:00"
-gallery_images = []
+gallery_images = ["/v1553044886/OnPoint%20Custom%20Homes/DSC_8161.jpg", "/v1553044886/OnPoint%20Custom%20Homes/DSC_8159.jpg", "/v1553044886/OnPoint%20Custom%20Homes/DSC_8157.jpg", "/v1553044886/OnPoint%20Custom%20Homes/DSC_8156.jpg", "/v1553044886/OnPoint%20Custom%20Homes/DSC_8153.jpg"]
 layout = "remodel"
 page_kind = "remodel"
 slug = "/remodel-1"
