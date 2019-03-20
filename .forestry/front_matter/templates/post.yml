@@ -67,4 +67,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/blog/i-heard-you-won-the-2009-pacesetter-award-can-you-tell-me-about-it.md
 - content/blog/why-a-houston-patio-home.md
