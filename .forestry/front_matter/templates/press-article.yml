@@ -23,5 +23,3 @@ fields:
     required: true
   hidden: true
   default: press
-pages:
-- content/press/test545.md
