@@ -29,6 +29,7 @@ fields:
     required: true
   default: testimonial
 pages:
+- content/testimonials/the-hopkins.md
 - content/testimonials/the-merril-s.md
 - content/testimonials/the-midlo-s.md
 - content/testimonials/joanne-g.md
