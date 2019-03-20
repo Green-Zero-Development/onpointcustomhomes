@@ -53,6 +53,7 @@ fields:
     required: true
   default: page
 pages:
+- content/personnel/will-hermann-aia.md
 - content/personnel/garrett-nance.md
 - content/personnel/tiffany-trask.md
 - content/personnel/ashley-tucker.md
