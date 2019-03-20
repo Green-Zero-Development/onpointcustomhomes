@@ -30,6 +30,7 @@ fields:
     required: true
   default: award
 pages:
+- content/awards/test-award.md
 - content/awards/Houston Business Journal 2015 Fast 100 finalist.md
 - content/awards/2015 Star Award Texas Association of Builders-1.md
 - content/awards/2015 Star Award Texas Association of Builders.md
