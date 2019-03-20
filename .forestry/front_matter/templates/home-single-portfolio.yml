@@ -121,6 +121,7 @@ fields:
     required: true
   default: home
 pages:
+- content/portfolio/1516-blair-st.md
 - content/portfolio/1219-richelieu-lane.md
 - content/portfolio/4219-alba-rd.md
 - content/portfolio/818-knox-st.md
