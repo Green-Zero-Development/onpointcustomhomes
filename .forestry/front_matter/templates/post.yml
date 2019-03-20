@@ -67,6 +67,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/blog/what-is-a-radiant-barrier-on-residential-roof-decking.md
 - content/blog/why-are-nahb-designations-important.md
 - content/blog/does-on-point-custom-homes-do-remodeling.md
 - content/blog/why-is-quartz-gaining-popularity-in-houston-homes.md
