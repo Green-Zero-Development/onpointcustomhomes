@@ -121,6 +121,7 @@ fields:
     required: true
   default: home
 pages:
+- content/portfolio/2202-2204-driscoll-street.md
 - content/portfolio/2626-2628-greenbriar-dr.md
 - content/portfolio/1516-blair-st.md
 - content/portfolio/1219-richelieu-lane.md
