@@ -30,6 +30,7 @@ fields:
     required: true
   default: award
 pages:
+- content/awards/Best of Houzz 2019.md
 - content/awards/2017 Houston's Best PRISM Award.md
 - content/awards/2017 Star Award Texas Association of Builders.md
 - content/awards/2017 Best Places to Work.md
