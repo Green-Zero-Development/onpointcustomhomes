@@ -1,4 +1,4 @@
 /collection /our-portfolio 301
 /current-homes /portfolio 301
 /personnel /about-us/team 301
-/blog/tag/* /tag/* 301
+/blog/tag/* /tag/:splat 200
