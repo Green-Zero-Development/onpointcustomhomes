@@ -53,6 +53,7 @@ fields:
     required: true
   default: page
 pages:
+- content/personnel/dana-walker.md
 - content/personnel/evan-darr.md
 - content/personnel/albert-aguirre.md
 - content/personnel/brad-williams.md
