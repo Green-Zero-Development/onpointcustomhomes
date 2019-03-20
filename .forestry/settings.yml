@@ -9,36 +9,50 @@ sections:
   label: Posts
   create: documents
   match: "**/*"
+  templates:
+  - post
 - type: directory
   path: content/testimonials
   label: Testimonials
   create: documents
   match: "**/*"
+  templates:
+  - testimonial
 - type: directory
   path: content/press
   label: Press
   create: documents
   match: "**/*"
+  templates:
+  - press-article
 - type: directory
   path: content/awards
   label: Awards
   create: documents
   match: "**/*"
+  templates:
+  - award
 - type: directory
   path: content/personnel
   label: Team
   create: documents
   match: "**/*"
+  templates:
+  - team-member
 - type: directory
   path: content/remodels
   label: Remodels
   create: documents
   match: "**/*"
+  templates:
+  - remodel
 - type: directory
   path: content/portfolio
   label: Home Portfolio
   create: documents
   match: "**/*"
+  templates:
+  - home-single-portfolio
 - type: directory
   path: themes/site-theme/data/collections
   label: Collections
