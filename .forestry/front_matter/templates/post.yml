@@ -66,3 +66,5 @@ fields:
     default: ''
   hidden: false
   default: ''
+pages:
+- content/blog/why-a-houston-patio-home.md
