@@ -29,5 +29,6 @@ fields:
     required: true
   default: testimonial
 pages:
+- content/testimonials/ben-c.md
 - content/testimonials/lynda-t.md
 - content/testimonials/Michael H..md
