@@ -121,6 +121,7 @@ fields:
     required: true
   default: home
 pages:
+- content/portfolio/1409-chamboard-ln.md
 - content/portfolio/4042-dumbarton-st.md
 - content/portfolio/6255-inwood-drive.md
 - content/portfolio/12463-pinerock-lane.md
