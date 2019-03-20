@@ -30,6 +30,7 @@ fields:
     required: true
   default: award
 pages:
+- content/awards/2015 Star Award Texas Association of Builders.md
 - content/awards/Houston Business Journal 2015 Fast 100 finalist.md
 - content/awards/Texas Association of Builders Excellence under 45 Award.md
 - content/awards/Best of Houzz 2015.md
