@@ -3,7 +3,7 @@ label: Testimonial
 hide_body: true
 fields:
 - type: text
-  name: testimonial_name
+  name: title
   label: Name of Client
   config:
     required: true
