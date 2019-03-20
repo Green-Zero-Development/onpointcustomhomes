@@ -1,6 +1,6 @@
 +++
 date = "2019-03-15T02:50:46+00:00"
-"blog/category" = ["cat1"]
+"blog/category" = [""]
 "blog/tag" = ["houston-mosquito-system"]
 layout = "blog"
 slug = "/mosquito-time-in-houston"
@@ -9,7 +9,7 @@ type = "page"
 excerpt = "Wow, we have really had some rain in Houston this past week. With that comes Mosquito breeding season…ergh!"
 [featured_image]
 alt_text = ""
-blog_featured_image = "/v1553045531/OnPoint%20Custom%20Homes/Ashley-Tucker_Edits-933x1400.jpg"
+blog_featured_image = ""
 
 +++
 
