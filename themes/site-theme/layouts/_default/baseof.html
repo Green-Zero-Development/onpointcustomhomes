@@ -70,7 +70,7 @@
 
 </head>
 
-    <body class="background-image {{ .Param "page-status" }}">
+    <body class="background-image {{ .Param "page-status" }} {{ if eq .Page.Params.page_kind "home" }}home-portfolio-background{{ else }}{{ end }}">
 
     {{ block "header" . }}{{ partial "header.html" .}}{{ end }}
     <main role="main">
