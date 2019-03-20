@@ -48,7 +48,7 @@
                 src="{{ .Params.testimonial_video }}" frameborder="0"></iframe>
                     {{ else }}
                 {{ end }}
-                <p class="w-5/6 mx-auto pb-5 font-muli pt-5 text-color-4f5052 text-left text-lg font-thin italic leading-normal">"{{ .Params.testimonial_content }}"</p>
+                <p class="w-5/6 mx-auto pb-5 font-muli pt-5 text-color-4f5052 text-left text-lg font-thin italic leading-normal">"{{ .Params.testimonial_content | safeHTML }}"</p>
             </div>
             {{ end }}
         </div>
