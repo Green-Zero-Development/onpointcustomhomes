@@ -1,68 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Collections on Example</title>
-    <link>https://onpointcustomhomes.netlify.com/collection/</link>
-    <description>Recent content in Collections on Example</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://onpointcustomhomes.netlify.com/collection/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Modern Luxury</title>
-      <link>https://onpointcustomhomes.netlify.com/collection/modern-luxury/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://onpointcustomhomes.netlify.com/collection/modern-luxury/</guid>
-      <description>  </description>
-    </item>
-    
-    <item>
-      <title>OUTDOOR OASIS</title>
-      <link>https://onpointcustomhomes.netlify.com/collection/outdoor-oasis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://onpointcustomhomes.netlify.com/collection/outdoor-oasis/</guid>
-      <description>  </description>
-    </item>
-    
-    <item>
-      <title>SOUTHERN ELEGANCE</title>
-      <link>https://onpointcustomhomes.netlify.com/collection/southern-elegance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://onpointcustomhomes.netlify.com/collection/southern-elegance/</guid>
-      <description>  </description>
-    </item>
-    
-    <item>
-      <title>TIMELESS TRADITIONAL</title>
-      <link>https://onpointcustomhomes.netlify.com/collection/timeless-traditional/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://onpointcustomhomes.netlify.com/collection/timeless-traditional/</guid>
-      <description>  </description>
-    </item>
-    
-    <item>
-      <title>UPSCALE BLEND</title>
-      <link>https://onpointcustomhomes.netlify.com/collection/upscale-blend/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://onpointcustomhomes.netlify.com/collection/upscale-blend/</guid>
-      <description>  </description>
-    </item>
-    
-    <item>
-      <title>URBAN CONTEMPORARY</title>
-      <link>https://onpointcustomhomes.netlify.com/collection/urban-contemporary/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://onpointcustomhomes.netlify.com/collection/urban-contemporary/</guid>
-      <description>  </description>
-    </item>
-    
-  </channel>
-</rss>
