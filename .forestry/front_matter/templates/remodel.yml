@@ -60,6 +60,6 @@ fields:
     required: true
   default: page
 pages:
-- content/remodels/master-bath-remodel.md
 - content/remodels/kitchen-remodel.md
+- content/remodels/master-bath-remodel.md
 - content/remodels/test-remodel.md
