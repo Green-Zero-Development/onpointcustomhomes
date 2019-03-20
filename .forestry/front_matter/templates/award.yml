@@ -29,3 +29,5 @@ fields:
   config:
     required: true
   default: award
+pages:
+- content/awards/Best of Houzz 2015.md
