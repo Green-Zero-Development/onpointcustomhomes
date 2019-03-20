@@ -53,4 +53,5 @@ fields:
     required: true
   default: page
 pages:
+- content/personnel/earl-correll.md
 - content/personnel/test3.md
