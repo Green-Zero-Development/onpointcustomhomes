@@ -1,0 +1,60 @@
+---
+label: Post
+hide_body: false
+fields:
+- name: type
+  label: Type
+  type: text
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: blog/category
+  label: Blog/category
+  type: list
+  hidden: false
+  default: ''
+- name: blog/tag
+  label: Blog/tag
+  type: list
+  hidden: false
+  default: ''
+- name: slug
+  label: Slug
+  type: text
+  hidden: false
+  default: ''
+- name: excerpt
+  label: Excerpt
+  type: textarea
+  hidden: false
+  default: ''
+- name: featured_image
+  label: Featured image
+  type: field_group
+  fields:
+  - name: alt_text
+    label: Alt text
+    type: text
+    hidden: false
+    default: ''
+  - name: blog_featured_image
+    label: Blog featured image
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
