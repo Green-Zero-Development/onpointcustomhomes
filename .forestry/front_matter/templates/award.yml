@@ -30,6 +30,7 @@ fields:
     required: true
   default: award
 pages:
+- content/awards/2015 Star Award Texas Association of Builders-1.md
 - content/awards/2015 Inc 5000.md
 - content/awards/40 Under 40.md
 - content/awards/Best of Houzz 2016.md
