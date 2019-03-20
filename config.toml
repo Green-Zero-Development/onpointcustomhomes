@@ -117,6 +117,9 @@ identifier = "testimonials"
 name = "Testimonials & Reviews"
 url = "/about-us/testimonials"
 weight = 4
+[taxonomies]
+category = "category"
+tag = "tag"
 [params.Contact_Numbers]
 Fax = "800-809-1054"
 Phone = "713-600-2422"
