@@ -53,5 +53,6 @@ fields:
     required: true
   default: page
 pages:
+- content/personnel/robert-appelgate.md
 - content/personnel/earl-correll.md
 - content/personnel/test3.md
