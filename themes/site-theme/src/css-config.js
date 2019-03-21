@@ -572,7 +572,7 @@ module.exports = {
     '64': '16rem',
     'team': '20rem',
     'home': '23rem',
-    'home-single': '40rem',
+    'home-single': '30rem',
     'full': '100%',
     'screen': '100vh',
   },
