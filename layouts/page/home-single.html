@@ -1,7 +1,9 @@
 {{ define "main" }}
 
 <style>
-
+.slick-track {
+    margin-left: 0 !important;
+}
 </style>
 
 <div class="overlay-black">
@@ -37,10 +39,7 @@
                 </div>
             </div>
             <div class="bg-white w-full mx-auto text-left">
-            <!-- <h1 class="w-full font-normal text-2xl uppercase home-single-shadow">{{ .Page.Params.Location.Street_address }}</h1>
-                    <h3 class="w-1/5 font-bold uppercase text-sm py-3 my-4 border-t-2 border-b-2 border-white home-single-shadow">{{ .Page.Params.Location.Neighboorhood }}</h3>
-                        <h3 class="w-full font-normal text-3xl pb-5 home-single-shadow">{{ if .Page.Params.Price }}${{ .Page.Params.Price }}{{ else }}{{ end }}</h3> -->
-                    <div class="flex flex-wrap w-full">
+                 <div class="flex flex-wrap w-full">
                     {{ if .Page.Params.home_specifics.bedrooms }}
                     <div class="bg-grey-lighter border-4 border-white w-1/2 text-xl lg:text-3xl text-center py-8">
                         <p class="page-specifics-icon-box"><i class="w-full fas fa-bed"></i> {{ .Page.Params.home_specifics.bedrooms }} Bedrooms</p>
@@ -68,21 +67,60 @@
                     {{ else }}{{ end }}
                     </div>
                 </div>
-            <div class="flex flex-wrap w-full">
-                <div class='slider-controls flex flex-wrap w-full items-center z-50'>
-                {{ range index .Page.Params.gallery_images }}
-                    <div class="w-1/2 md:w-1/3 lg:w-1/4 border-r-4 border-l-4 opacity-75 hover:opacity-100 hover:cursor-pointer border-white overflow-hidden controls-box"><div class="border-4 border-white h-24 w-32 controls-image" style="background-image:url('https://res.cloudinary.com/animated-eagle/image/upload{{ . }}');background-size:100%;background-repeat:no-repeat;"></div></div>
+            {{ if .Page.Params.floor_plans }}
+            <h2 class="font-muli font-normal text-2xl opacity-75 uppercase pl-5 pt-8">Floor Plans</h2>
+            <div class="pt-3 flex flex-wrap w-full">
+                <div class='slider-controls-floor-plans w-full items-center z-50'>
+                {{ range index .Page.Params.floor_plans }}
+                    <div class="w-1/2 md:w-1/3 lg:w-1/4 border-r-4 border-l-4 opacity-75 hover:opacity-100 hover:cursor-pointer border-white overflow-hidden controls-box"><div class="border-4 border-white h-48 w-full controls-image-floor-plans" style="background-image:url('{{ . }}');background-size:100%;background-repeat:no-repeat;"></div></div>
                 {{ end }}
                 </div>
             </div>
-            <div class="bg-grey-lighter w-full py-5 mb-5 w-px h-px opacity-0 big-slide">
-                <div class="w-full items-center text-5xl text-color-333 hover:text-color-818e9c hover:cursor-pointer close-this">Close<i class="text-4xl fas fa-times-circle"></i></div>
-                <div class='slider slider-house-photos'>
+            <div class="bg-grey-lighter w-full mb-5 w-px h-px opacity-0 big-slide-floor-plans">
+                <div class="w-full items-center text-5xl text-color-333 hover:text-color-818e9c hover:cursor-pointer close-this-floor-plans">Close<i class="text-4xl fas fa-times-circle"></i></div>
+                <div class='slider slider-floor-plans'>
+                {{ range index .Page.Params.floor_plans }}
+                <div class="py-5 z-0"><div class="w-full lg:w-3/5 mx-auto h-full slider-box" style="background-image:url('{{ . }}');"></div></div>
+                    {{ end }}
+                </div>
+            </div>
+            {{ else }}{{ end }}
+            {{ if .Page.Params.progress_images }}
+            <h2 class="font-muli font-normal text-2xl opacity-75 uppercase pl-5 pt-8">Progress Photos</h2>
+            <div class="pt-3 flex flex-wrap w-full">
+                <div class='slider-controls-progress flex flex-wrap w-full items-center z-50'>
+                {{ range index .Page.Params.progress_images }}
+                    <div class="w-1/2 md:w-1/3 lg:w-1/4 border-r-4 border-l-4 opacity-75 hover:opacity-100 hover:cursor-pointer border-white overflow-hidden controls-box"><div class="border-4 border-white h-48 md:h-24 w-full md:w-32 controls-image-progress" style="background-image:url('https://res.cloudinary.com/animated-eagle/image/upload{{ . }}');background-size:100%;background-repeat:no-repeat;"></div></div>
+                {{ end }}
+                </div>
+            </div>
+            <div class="bg-grey-lighter w-full mb-5 w-px h-px opacity-0 big-slide-progress">
+                <div class="w-full items-center text-5xl text-color-333 hover:text-color-818e9c hover:cursor-pointer close-this-progress">Close<i class="text-4xl fas fa-times-circle"></i></div>
+                <div class='slider slider-progress'>
+                {{ range index .Page.Params.progress_images }}
+                <div class="py-5 z-0"><div class="w-full lg:w-3/5 mx-auto h-full slider-box" style="background-image:url('https://res.cloudinary.com/animated-eagle/image/upload{{ . }}');"></div></div>
+                    {{ end }}
+                </div>
+            </div>
+            {{ else }}{{ end }}
+            {{ if .Page.Params.gallery_images }}
+            <h2 class="font-muli font-normal text-2xl opacity-75 uppercase pl-5 pt-8">More Photos</h2>
+            <div class="pt-3 flex flex-wrap w-full">
+                <div class='slider-controls-gallery flex flex-wrap w-full items-center z-50'>
+                {{ range index .Page.Params.gallery_images }}
+                    <div class="w-1/2 md:w-1/3 lg:w-1/4 border-r-4 border-l-4 opacity-75 hover:opacity-100 hover:cursor-pointer border-white overflow-hidden controls-box"><div class="border-4 border-white h-48 md:h-24 w-full md:w-32 controls-image-gallery" style="background-image:url('https://res.cloudinary.com/animated-eagle/image/upload{{ . }}');background-size:100%;background-repeat:no-repeat;"></div></div>
+                {{ end }}
+                </div>
+            </div>
+            <div class="bg-grey-lighter w-full mb-5 w-px h-px opacity-0 big-slide-gallery">
+                <div class="w-full items-center text-5xl text-color-333 hover:text-color-818e9c hover:cursor-pointer close-this-gallery">Close<i class="text-4xl fas fa-times-circle"></i></div>
+                <div class='slider slider-gallery'>
                 {{ range index .Page.Params.gallery_images }}
                 <div class="py-5 z-0"><div class="w-full lg:w-3/5 mx-auto h-full slider-box" style="background-image:url('https://res.cloudinary.com/animated-eagle/image/upload{{ . }}');"></div></div>
                     {{ end }}
                 </div>
             </div>
+            {{ else }}{{ end }}
             {{ if .Page.Params.video_tour_link }}
             <iframe id="player" class="w-full lg:w-1/2 mx-auto py-5 h-home" type="text/html"
   src="{{ .Page.Params.video_tour_link }}" frameborder="0"></iframe>
