@@ -4,7 +4,7 @@ layout: collection
 title: 'UPSCALE BLEND'
 params:
 page-status: 'upscale-blend'
-pageImage: '/v1552958709/OnPoint%20Custom%20Homes/DSC_7432.jpg'
+pageImage: 'https://res.cloudinary.com/animated-eagle/image/upload/v1552958709/OnPoint%20Custom%20Homes/DSC_7432.jpg'
 pageTitle: 'UPSCALE BLEND'
 ---
 

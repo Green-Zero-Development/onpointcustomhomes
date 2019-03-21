@@ -6,7 +6,7 @@ slug = "/brad-williams"
 title = "BRAD WILLIAMS"
 type = "page"
 [featured_image]
-team_featured_image = "/v1553045786/OnPoint%20Custom%20Homes/Brad-933x1400.jpg"
+team_featured_image = "https://res.cloudinary.com/animated-eagle/image/upload/v1553045786/OnPoint%20Custom%20Homes/Brad-933x1400.jpg"
 [team_info]
 title = "SENIOR PROJECT MANAGER"
 

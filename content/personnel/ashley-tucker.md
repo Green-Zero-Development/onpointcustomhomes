@@ -6,7 +6,7 @@ slug = "/ashley-tucker"
 title = "ASHLEY TUCKER"
 type = "page"
 [featured_image]
-team_featured_image = "/v1553045531/OnPoint%20Custom%20Homes/Ashley-Tucker_Edits-933x1400.jpg"
+team_featured_image = "https://res.cloudinary.com/animated-eagle/image/upload/v1553045531/OnPoint%20Custom%20Homes/Ashley-Tucker_Edits-933x1400.jpg"
 [team_info]
 title = "VP OF OPERATIONS"
 

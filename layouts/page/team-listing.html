@@ -32,7 +32,7 @@
             </a>
         </div>
     {{ range (where .Site.Pages "Params.page_kind" "team") }}
-        <a href="/personnel{{ .Slug }}" class="flex flex-wrap w-full md:w-1/2 lg:w-1/3 mx-auto relative border-8 border-white h-team hover:opacity-95 hover:cursor-pointer" style="background-image: url('https://res.cloudinary.com/animated-eagle/image/upload{{ .Params.Featured_image.team_featured_image }}');background-size: cover;background-repeat:no-repeat;">
+        <a href="/personnel{{ .Slug }}" class="flex flex-wrap w-full md:w-1/2 lg:w-1/3 mx-auto relative border-8 border-white h-team hover:opacity-95 hover:cursor-pointer" style="background-image: url('{{ .Params.Featured_image.team_featured_image }}');background-size: cover;background-repeat:no-repeat;">
             <div class="w-full shadow-lg overlay-black-homes">
         <div class="w-2/3 font-muli text-left text-white absolute pin-b pb-5 pl-5">
             <h2 class="font-normal">{{ .Title }}</h2>

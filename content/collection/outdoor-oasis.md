@@ -4,7 +4,7 @@ layout: collection
 title: 'OUTDOOR OASIS'
 params:
 page-status: 'outdoor-oasis'
-pageImage: '/v1552960273/OnPoint%20Custom%20Homes/DSC_8531-1400x927.jpg'
+pageImage: 'https://res.cloudinary.com/animated-eagle/image/upload/v1552960273/OnPoint%20Custom%20Homes/DSC_8531-1400x927.jpg'
 pageTitle: 'OUTDOOR OASIS'
 ---
 

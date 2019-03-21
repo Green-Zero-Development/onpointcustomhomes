@@ -6,7 +6,7 @@ slug = "/john-leggett"
 title = "John Leggett"
 type = "page"
 [featured_image]
-team_featured_image = "/v1552863292/OnPoint%20Custom%20Homes/john.jpg"
+team_featured_image = "https://res.cloudinary.com/animated-eagle/image/upload/v1552863292/OnPoint%20Custom%20Homes/john.jpg"
 [team_info]
 title = "Founder"
 

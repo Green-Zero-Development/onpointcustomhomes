@@ -4,7 +4,7 @@ layout: collection
 title: 'SOUTHERN ELEGANCE'
 params:
 page-status: 'southern-elegance'
-pageImage: '/v1552959717/OnPoint%20Custom%20Homes/DSCF9770.jpg'
+pageImage: 'https://res.cloudinary.com/animated-eagle/image/upload/v1552959717/OnPoint%20Custom%20Homes/DSCF9770.jpg'
 pageTitle: 'SOUTHERN ELEGANCE'
 ---
 

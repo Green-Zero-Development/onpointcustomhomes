@@ -6,7 +6,7 @@ slug = "/albert-aguirre"
 title = "ALBERT AGUIRRE"
 type = "page"
 [featured_image]
-team_featured_image = "/v1553045861/OnPoint%20Custom%20Homes/Albert_edited-1043x1400.jpg"
+team_featured_image = "https://res.cloudinary.com/animated-eagle/image/upload/v1553045861/OnPoint%20Custom%20Homes/Albert_edited-1043x1400.jpg"
 [team_info]
 title = "PROJECT MANAGER"
 

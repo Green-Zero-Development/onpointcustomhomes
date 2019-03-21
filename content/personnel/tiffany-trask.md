@@ -6,7 +6,7 @@ slug = "/tiffany-trask"
 title = "TIFFANY TRASK"
 type = "page"
 [featured_image]
-team_featured_image = "/v1553045607/OnPoint%20Custom%20Homes/tiffany.jpg"
+team_featured_image = "https://res.cloudinary.com/animated-eagle/image/upload/v1553045607/OnPoint%20Custom%20Homes/tiffany.jpg"
 [team_info]
 title = "BUSINESS DEVELOPMENT DIRECTOR"
 

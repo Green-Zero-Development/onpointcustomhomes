@@ -6,7 +6,7 @@ slug = "/evan-darr"
 title = "EVAN DARR"
 type = "page"
 [featured_image]
-team_featured_image = "/v1553045919/OnPoint%20Custom%20Homes/Evan-Darr-2-887x1400.jpg"
+team_featured_image = "https://res.cloudinary.com/animated-eagle/image/upload/v1553045919/OnPoint%20Custom%20Homes/Evan-Darr-2-887x1400.jpg"
 [team_info]
 title = "INTERNAL OPERATIONS ANALYST"
 

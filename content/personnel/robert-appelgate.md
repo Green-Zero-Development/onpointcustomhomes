@@ -6,7 +6,7 @@ slug = "/robert-appelgate"
 title = "ROBERT APPELGATE"
 type = "page"
 [featured_image]
-team_featured_image = "/v1553045458/OnPoint%20Custom%20Homes/robert.jpg"
+team_featured_image = "https://res.cloudinary.com/animated-eagle/image/upload/v1553045458/OnPoint%20Custom%20Homes/robert.jpg"
 [team_info]
 title = "VP OF CONSTRUCTION"
 

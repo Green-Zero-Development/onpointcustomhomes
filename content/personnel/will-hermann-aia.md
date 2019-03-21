@@ -6,7 +6,7 @@ slug = "/will-hermann"
 title = "WILL HERMANN, AIA"
 type = "page"
 [featured_image]
-team_featured_image = "/v1553045735/OnPoint%20Custom%20Homes/WH2-2-937x1400.jpg"
+team_featured_image = "https://res.cloudinary.com/animated-eagle/image/upload/v1553045735/OnPoint%20Custom%20Homes/WH2-2-937x1400.jpg"
 [team_info]
 title = "ARCHITECT"
 

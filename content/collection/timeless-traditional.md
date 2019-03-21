@@ -4,7 +4,7 @@ layout: collection
 title: 'TIMELESS TRADITIONAL'
 params:
 page-status: 'timeless-traditional'
-pageImage: '/v1552441075/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00065-1400x1080.jpg'
+pageImage: 'https://res.cloudinary.com/animated-eagle/image/upload/v1552441075/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00065-1400x1080.jpg'
 pageTitle: 'TIMELESS TRADITIONAL'
 ---
 

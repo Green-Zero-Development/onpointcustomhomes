@@ -4,7 +4,7 @@ layout: collection
 title: 'URBAN CONTEMPORARY'
 params:
 page-status: 'urban-contemporary'
-pageImage: '/v1552959236/OnPoint%20Custom%20Homes/DSC_1672.jpg'
+pageImage: 'https://res.cloudinary.com/animated-eagle/image/upload/v1552959236/OnPoint%20Custom%20Homes/DSC_1672.jpg'
 pageTitle: 'URBAN CONTEMPORARY'
 ---
 
