@@ -1,8 +1,8 @@
-<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.css"/><script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script><script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script><script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script><script type="text/javascript">$('.slider-house-photos').slick({arrows:true, dots: false,infinite:true, speed:1000, slidesToShow:1, slidesToScroll:1, lazyLoad: 'ondemand', prevArrow: '<button class="w-px lg:w-1/5 absolute pin-t pin-l text-5xl h-screen text-center lg:z-50"><i class="fas fa-arrow-left"></i></button', nextArrow: '<button class="w-px lg:w-1/5 absolute pin-t pin-r text-5xl text-center h-screen lg:z-50"><i class="fas fa-arrow-right"></i></button'});
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.css"/><script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script><script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script><script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script><script type="text/javascript">$('.slider-house-photos').slick({arrows:true, dots: false,infinite:true, speed:1000, slidesToShow:1, slidesToScroll:1, lazyLoad: 'ondemand', prevArrow: '<button class="w-px lg:w-1/5 absolute pin-t pin-l text-5xl h-screen text-center lg:z-50"><i class="fas fa-arrow-left"></i></button', nextArrow: '<button class="w-px lg:w-1/5 absolute pin-t pin-r text-5xl text-center h-screen lg:z-50"><i class="fas fa-arrow-right"></i></button', asNavFor: '.slider-controls'});
 
 </script>
 
-<script type="text/javascript">$('.slider-nav').slick({arrows:false, dots: false,infinite:false, speed:1000, slidesToShow:4, slidesToScroll:1, lazyLoad: 'ondemand', prevArrow: '<button class="bg-white w-px lg:w-12 mt-10 absolute pin-t pin-l text-3xl text-center lg:z-50 opacity-75"><i class="fas fa-arrow-left"></i></button', nextArrow: '<button class="bg-white w-px lg:w-12 mt-10 absolute pin-t pin-r text-3xl text-center lg:z-50 opacity-75"><i class="fas fa-arrow-right"></i></button', draggable:false});$('.controls-image').click(function() {$('.slider-house-photos').slick('slickGoTo',$(this).index());});
+<script type="text/javascript">$('.slider-controls').slick({arrows:true, dots: false,infinite:false, speed:1000, slidesToShow:7, slidesToScroll:6, lazyLoad: 'ondemand', prevArrow: '<button class="bg-white w-px lg:w-12 mt-10 absolute pin-t pin-l text-3xl text-center lg:z-50 opacity-75"><i class="fas fa-arrow-left"></i></button', nextArrow: '<button class="bg-white w-px lg:w-12 mt-10 absolute pin-t pin-r text-3xl text-center lg:z-50 opacity-75"><i class="fas fa-arrow-right"></i></button', asNavFor: '.slider-house-photos', focusOnSelect: true, draggable:false});
 
 $(function() {
   $(".controls-image").click(function() {
@@ -20,23 +20,11 @@ $(function() {
     $('.big-slide').addClass("h-px w-px opacity-0"); 
   });
 });
-$(function() {
-    $(".load-more-images").click(function() {
-    $('.big-slide').addClass("w-100 h-100 opacity-100 sticky pin-t");
-    $('.page-inner-container').addClass("lg:w-full");
-    $('body').addClass("overflow-hidden");
-    $('.page-inner-container').removeClass("container");
-    $('.big-slide').removeClass("h-px w-px opacity-0"); 
-  });
-});
 
 $(".controls-image").click(function() {$('html,body').animate({
 scrollTop: $(".big-slide").offset().top},'slow');});
 
 $(".close-this").click(function() {$('html,body').animate({
-scrollTop: $(".slider-nav").offset().top},'slow');});
-
-$(".load-more-images").click(function() {$('html,body').animate({
-scrollTop: $(".big-slide").offset().top},'slow');});
+scrollTop: $(".slider-controls").offset().top},'slow');});
   
 </script>
