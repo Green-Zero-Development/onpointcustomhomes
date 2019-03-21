@@ -78,7 +78,7 @@
             </div>
             <div class="bg-grey-lighter w-full py-5 mb-5 w-px h-px opacity-0 big-slide">
                 <div class="w-full items-center text-5xl text-color-333 hover:text-color-818e9c hover:cursor-pointer close-this">Close<i class="text-4xl fas fa-times-circle"></i></div>
-                <div class='slider'>
+                <div class='slider slider-house-photos'>
                 {{ range index .Page.Params.gallery_images }}
                 <div class="py-5 z-0"><div class="w-full lg:w-3/5 mx-auto h-full slider-box" style="background-image:url('https://res.cloudinary.com/animated-eagle/image/upload{{ . }}');"></div></div>
                     {{ end }}
@@ -111,7 +111,7 @@
     </a>
 </section>
 
-{{ partial "slider-code" . }}
+{{ partial "slider-code-homes" . }}
 {{ partial "social-media-icons.html" . }}
 
 </div>
