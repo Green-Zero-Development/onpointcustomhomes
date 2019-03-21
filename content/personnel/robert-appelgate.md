@@ -5,6 +5,7 @@ page_kind = "team"
 slug = "/robert-appelgate"
 title = "ROBERT APPELGATE"
 type = "page"
+pageImage = 'https://res.cloudinary.com/animated-eagle/image/upload/v1552861317/OnPoint%20Custom%20Homes/vbg_8.jpg'
 [featured_image]
 team_featured_image = "https://res.cloudinary.com/animated-eagle/image/upload/v1553045458/OnPoint%20Custom%20Homes/robert.jpg"
 [team_info]

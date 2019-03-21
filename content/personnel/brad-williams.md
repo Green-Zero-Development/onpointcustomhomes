@@ -5,6 +5,7 @@ page_kind = "team"
 slug = "/brad-williams"
 title = "BRAD WILLIAMS"
 type = "page"
+pageImage = 'https://res.cloudinary.com/animated-eagle/image/upload/v1552861317/OnPoint%20Custom%20Homes/vbg_8.jpg'
 [featured_image]
 team_featured_image = "https://res.cloudinary.com/animated-eagle/image/upload/v1553045786/OnPoint%20Custom%20Homes/Brad-933x1400.jpg"
 [team_info]

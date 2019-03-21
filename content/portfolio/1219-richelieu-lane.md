@@ -22,6 +22,7 @@ bedrooms = 4
 how_many_cars_garage = 2
 lot_square_feet = "7,320"
 square_feet = "4,079"
+description_of_home = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
 [location]
 city = "Houston"
 neighboorhood = "OAK FOREST"
