@@ -137,3 +137,4 @@ email = "example@example.com"
 [params.tracking]
 google_analytics = ""
 enableInlineShortcodes = true
+cloudinary_url = "https://res.cloudinary.com/animated-eagle/image/upload"
