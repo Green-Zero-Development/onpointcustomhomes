@@ -4,7 +4,7 @@ layout: collection
 title: 'Modern Luxury'
 params:
 page-status: 'modern-luxury'
-pageImage: 'https://res.cloudinary.com/animated-eagle/image/upload/v1552523176/OnPoint%20Custom%20Homes/emomedia.net-2.jpg'
+pageImage: '/v1552523176/OnPoint%20Custom%20Homes/emomedia.net-2.jpg'
 pageTitle: 'MODERN LUXURY'
 ---
 

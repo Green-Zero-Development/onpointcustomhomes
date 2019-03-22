@@ -5,9 +5,9 @@ page_kind = "team"
 slug = "/dana-walker"
 title = "DANA WALKER"
 type = "page"
-pageImage = 'https://res.cloudinary.com/animated-eagle/image/upload/v1552861317/OnPoint%20Custom%20Homes/vbg_8.jpg'
+pageImage = '/v1552861317/OnPoint%20Custom%20Homes/vbg_8.jpg'
 [featured_image]
-team_featured_image = "https://res.cloudinary.com/animated-eagle/image/upload/v1553045954/OnPoint%20Custom%20Homes/Dana-Walker-933x1400.jpg"
+team_featured_image = "/v1553045954/OnPoint%20Custom%20Homes/Dana-Walker-933x1400.jpg"
 [team_info]
 title = "SELECTIONS COORDINATOR"
 

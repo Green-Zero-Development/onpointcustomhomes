@@ -36,7 +36,7 @@
             {{ range (where .Site.Pages "Params.page_kind" "award") }}
             <a href="{{ if .Params.award_link }}{{ .Params.award_link }}{{ else }}{{ end }}{{ if .Params.award_pdf }}{{ .Params.award_pdf }}{{ else }}{{ end }}" target="_blank" class="w-full md:w-1/2 lg:w-1/3 mx-auto text-center no-underline p-5">
                 {{ if .Params.award_photo }}
-                    <img src="{{ .Params.award_photo }}" width="50%">
+                    <img src="{{ .Site.Params.tracking.cloudinary_url }}{{ .Params.award_photo }}" width="50%">
                     {{ else }}
                 {{ end }}
                 <h3 class="pb-4 font-muli text-color-333333 text-xl font-thin">{{ .Title }}</h3>
@@ -47,7 +47,7 @@
             {{ range (where .Site.Pages "Params.page_kind" "old_award") }}
             <a href="{{ if .Params.award_link }}{{ .Params.award_link }}{{ else }}{{ end }}{{ if .Params.award_pdf }}{{ .Params.award_pdf }}{{ else }}{{ end }}" target="_blank" class="w-full md:w-1/4 lg:w-1/5 mx-auto text-center no-underline p-5 opacity-50 hover:opacity-100">
                 {{ if .Params.award_photo }}
-                    <img src="{{ .Params.award_photo }}" width="70%">
+                    <img src="{{ .Site.Params.tracking.cloudinary_url }}{{ .Params.award_photo }}" width="70%">
                     {{ else }}
                 {{ end }}
             </a>

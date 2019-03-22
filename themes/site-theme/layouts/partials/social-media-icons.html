@@ -1,9 +1,19 @@
 <div class="w-48 text-2xl mx-auto py-12 header-social-links">
   <div class="py-2 mx-auto text-center text-white">
-    <i class="fab fa-facebook-f pr-2 hover:text-black hover:cursor-pointer" title="Facebook"></i>
-    <i class="fab fa-instagram pr-2 hover:text-black hover:cursor-pointer" title="Instagram"></i>
-    <i class="fab fa-houzz pr-2 hover:text-black hover:cursor-pointer" title="Houzz"></i>
-    <i class="fab fa-linkedin-in pr-2 hover:text-black hover:cursor-pointer" title="Linkedin"></i>
-    <i class="fab fa-pinterest hover:text-black hover:cursor-pointer" title="Pinterest"></i>
+    <a class="text-white no-underline hover:opacity-75" href="{{ .Site.Params.social_links.facebook}}" target="_blank">
+      <i class="fab fa-facebook-f pr-2 hover:cursor-pointer" title="Facebook"></i>
+    </a>
+    <a class="text-white no-underline hover:opacity-75" href="{{ .Site.Params.social_links.insta}}" target="_blank">
+      <i class="fab fa-instagram pr-2 hover:cursor-pointer" title="Instagram"></i>
+    </a>
+    <a class="text-white no-underline hover:opacity-75" href="{{ .Site.Params.social_links.houzz}}" target="_blank">
+      <i class="fab fa-houzz pr-2 hover:cursor-pointer" title="Houzz"></i>
+    </a>
+    <a class="text-white no-underline hover:opacity-75" href="{{ .Site.Params.social_links.linkedin}}" target="_blank">
+      <i class="fab fa-linkedin-in pr-2 hover:cursor-pointer" title="Linkedin"></i>
+    </a>
+    <a class="text-white no-underline hover:opacity-75" href="{{ .Site.Params.social_links.pinterest}}" target="_blank">
+      <i class="fab fa-pinterest hover:cursor-pointer" title="Pinterest"></i>
+      </a>
   </div>
 </div>

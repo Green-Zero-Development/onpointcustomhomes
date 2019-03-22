@@ -9,7 +9,7 @@ title = "Design Trends Straight from the International Builder, Kitchen + Bath S
 type = "page"
 [featured_image]
 alt_text = ""
-blog_featured_image = "https://res.cloudinary.com/animated-eagle/image/upload/v1553280454/OnPoint%20Custom%20Homes/IMG_4286-768x1024.jpg"
+blog_featured_image = "/v1553280454/OnPoint%20Custom%20Homes/IMG_4286-768x1024.jpg"
 
 +++
 In Part II of our IBS design trends blog series, we’re sharing the feedback and highlights surrounding your home’s finishes. From countertop and tile materials to sinks and faucets, here’s what to expect in 2018.

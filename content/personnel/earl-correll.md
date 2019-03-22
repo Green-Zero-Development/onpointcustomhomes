@@ -5,9 +5,9 @@ page_kind = "team"
 slug = "/earl-correll"
 title = "EARL CORRELL"
 type = "page"
-pageImage = 'https://res.cloudinary.com/animated-eagle/image/upload/v1552861317/OnPoint%20Custom%20Homes/vbg_8.jpg'
+pageImage = '/v1552861317/OnPoint%20Custom%20Homes/vbg_8.jpg'
 [featured_image]
-team_featured_image = "https://res.cloudinary.com/animated-eagle/image/upload/v1552863292/OnPoint%20Custom%20Homes/earl.jpg"
+team_featured_image = "/v1552863292/OnPoint%20Custom%20Homes/earl.jpg"
 [team_info]
 title = "PRESIDENT & CEO"
 

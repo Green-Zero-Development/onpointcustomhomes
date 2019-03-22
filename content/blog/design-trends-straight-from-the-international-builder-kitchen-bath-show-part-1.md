@@ -9,7 +9,7 @@ title = "Design Trends Straight from the International Builder, Kitchen + Bath S
 type = "page"
 [featured_image]
 alt_text = ""
-blog_featured_image = "https://res.cloudinary.com/animated-eagle/image/upload/v1553279528/OnPoint%20Custom%20Homes/IMG_5507-1400x1050.jpg"
+blog_featured_image = "/v1553279528/OnPoint%20Custom%20Homes/IMG_5507-1400x1050.jpg"
 
 +++
 At [On Point Custom Homes](https://onpointcustomhomes.com/), we truly believe in exploring new ideas and staying ahead of the curve when it comes to [architectural design](https://onpointcustomhomes.com/about-us/design-build/), product integration, and building science. We make it a point to attend a variety of industry shows across the county throughout the year in order to keep our [team](https://onpointcustomhomes.com/about-us/team/) apart of conversations in the building space and in front of the latest and greatest products. Most recently our [CEO](https://onpointcustomhomes.com/personnel/john-legget/), [President](https://onpointcustomhomes.com/personnel/earl-correll/), [Selections Coordinator](https://onpointcustomhomes.com/personnel/tiffany-trask/), [Purchasing Manager](https://onpointcustomhomes.com/personnel/garrett-nance/) and [Marketing Director](https://onpointcustomhomes.com/personnel/ashley-tucker/) took a trip to Orlando to attend the National Association of Home Builders International Builder Show as well as the Kitchen and Bath Show.

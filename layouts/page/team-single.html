@@ -22,7 +22,7 @@
             {{ .Content }}
         </div>
         <div class="w-full lg:w-1/3 mx-auto">
-            <img src="{{ .Params.Featured_image.team_featured_image }}">
+            <img src="{{ .Site.Params.tracking.cloudinary_url }}{{ .Params.Featured_image.team_featured_image }}">
         </div>
     </div>
 </section>

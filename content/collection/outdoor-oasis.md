@@ -4,14 +4,18 @@ layout: collection
 title: 'OUTDOOR OASIS'
 params:
 page-status: 'outdoor-oasis'
-pageImage: 'https://res.cloudinary.com/animated-eagle/image/upload/v1552960273/OnPoint%20Custom%20Homes/DSC_8531-1400x927.jpg'
+pageImage: '/v1552960273/OnPoint%20Custom%20Homes/DSC_8531-1400x927.jpg'
 pageTitle: 'OUTDOOR OASIS'
 ---
 
-<div class='slider bg-grey-lighter w-full py-5 mb-5 h-auto'>
-{{< outdoor-oasis-photo-slider data="outdoor_oasis_photos" >}}
+<div class="bg-grey-lighter w-full py-5 mb-5 big-slide-collection">
+    <div class='slider slider-collection'>
+        {{< outdoor-oasis-photo-slider data="outdoor_oasis_photos" >}}
+    </div>
 </div>
 
-<div class='flex flex-wrap slider-nav'>
-{{< outdoor-oasis-photo-slider-controls data="outdoor_oasis_photos" >}}
+<div class="flex flex-wrap w-full">
+    <div class='slider-controls flex flex-wrap w-full items-center z-50'>
+        {{< outdoor-oasis-photo-slider-controls data="outdoor_oasis_photos" >}}
+    </div>
 </div>
