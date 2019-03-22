@@ -65,16 +65,6 @@ sections:
   label: Collections
   create: documents
   match: "**/*"
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-- type: directory
-  path: content/pages
-  label: Pages
-  create: all
-  match: "**/*"
 upload_dir: OnPoint Custom Homes
 public_path: https://res.cloudinary.com/animated-eagle/image/upload
 front_matter_path: ''
