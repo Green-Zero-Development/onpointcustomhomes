@@ -37,6 +37,8 @@ sections:
   label: Old Awards
   create: documents
   match: "**/*"
+  templates:
+  - old-award
 - type: directory
   path: content/personnel
   label: Team
