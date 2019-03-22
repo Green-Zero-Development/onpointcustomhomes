@@ -26,7 +26,7 @@ Smart thermostats like Ecobees and Nests are still one of the top smart devices 
 
 Steam ovens and speed ovens are rising in popularity and many appliance brands now have apps that allow homeowners to register the product, get alerts when maintenance is needed and monitor/control from an app or voice activation.
 
-![](https://res.cloudinary.com/animated-eagle/image/upload/v1553280823/OnPoint%20Custom%20Homes/blog-21-768x479.png)
+![](https://res.cloudinary.com/{{ CLOUD_NAME }}/image/upload/v1553280823/OnPoint%20Custom%20Homes/blog-21-768x479.png)
 
 For example, we love Lutron’s Casada lighting which allows you to pair lighting, speakers and even window coverings to set “Scenes” for your home. Imagine saying “Alexa, set morning scene” and your shades open, bedroom and bathroom lights come on and good morning playlist starts playing. From morning to party scenes, these pre-set scenes create an amazing experience for the homeowner.
 
