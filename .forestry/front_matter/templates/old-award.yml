@@ -2,33 +2,30 @@
 label: Old Award
 hide_body: true
 fields:
-- name: title
-  label: Title
-  type: text
-  hidden: false
-  default: ''
-- name: date
-  label: Date
-  type: datetime
-  hidden: false
-  default: ''
+- type: file
+  name: award_photo
+  label: Award Photo
+  config:
+    maxSize: '2'
 - name: award_link
   label: Award link
   type: textarea
   hidden: false
   default: ''
-- name: award_pdf
-  label: Award pdf
-  type: text
-  hidden: false
-  default: ''
-- name: award_photo
-  label: Award photo
-  type: textarea
+- type: file
+  name: award_pdf
+  label: Award PDF
+  config:
+    maxSize: '2'
+- name: date
+  label: Date
+  type: datetime
   hidden: false
   default: ''
 - name: page_kind
   label: Page kind
   type: text
-  hidden: false
-  default: ''
+  hidden: true
+  default: old_award
+  config:
+    required: true
