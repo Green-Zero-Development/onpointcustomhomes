@@ -66,9 +66,9 @@ sections:
   create: documents
   match: "**/*"
 upload_dir: OnPoint Custom Homes
-public_path: {{ .Site.Params.tracking.cloudinary_url }}
+public_path: https://res.cloudinary.com/{{ CLOUD_NAME }}/image/upload
 front_matter_path: ''
-use_front_matter_path: 
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_command: hugo -E -F -D -b $DEPLOY_URL -d public
