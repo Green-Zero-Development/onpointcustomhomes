@@ -13,6 +13,7 @@ fields:
   label: Price
   config:
     required: false
+  description: Leave BLANK if SOLD
 - type: text
   name: slug
   label: Slug
