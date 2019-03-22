@@ -66,11 +66,7 @@ sections:
   create: documents
   match: "**/*"
 upload_dir: OnPoint Custom Homes
-<<<<<<< HEAD
-public_path: ''
-=======
 public_path: https://res.cloudinary.com/{{ CLOUD_NAME }}/image/upload
->>>>>>> f1cefa63dcfb9631cfb9a7ebeaa1b2c223b8e6fe
 front_matter_path: ''
 use_front_matter_path: true
 file_template: ":filename:"
