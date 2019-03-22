@@ -4,6 +4,6 @@ award_pdf = ""
 award_photo = "https://res.cloudinary.com/animated-eagle/image/upload/v1553047169/OnPoint%20Custom%20Homes/Star-Awards_WinnerLogo_2017-300x243.png"
 title = "Custom Builder of the Year"
 date = "2019-03-20T01:59:50+00:00"
-page_kind = "award"
+page_kind = "old_award"
 
 +++

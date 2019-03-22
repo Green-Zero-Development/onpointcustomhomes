@@ -1,5 +1,5 @@
 +++
-date = "2019-03-19T21:38:22+00:00"
+date = "2019-03-22T10:00:17+00:00"
 gallery_images = ["/v1553031192/OnPoint%20Custom%20Homes/P2270123-1.jpg", "/v1553031484/OnPoint%20Custom%20Homes/6510-Haskell_Sales_3rd-Floor.jpg", "/v1553031484/OnPoint%20Custom%20Homes/6510-Haskell_Sales_2nd-Floor.jpg", "/v1553031484/OnPoint%20Custom%20Homes/6510-Haskell_Sales_1st-Floor.jpg"]
 is_on_sale = true
 is_pending = false

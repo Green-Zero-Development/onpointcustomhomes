@@ -4,6 +4,6 @@ award_pdf = ""
 award_photo = "https://res.cloudinary.com/animated-eagle/image/upload/v1553047114/OnPoint%20Custom%20Homes/bptw-best-places-to-work-logo-2017-300.jpg"
 title = "2017 Best Places to Work"
 date = "2019-03-20T01:58:47+00:00"
-page_kind = "award"
+page_kind = "old_award"
 
 +++

@@ -1,5 +1,5 @@
 +++
-date = "2019-03-20T01:36:44+00:00"
+date = "2019-03-22T05:00:17+00:00"
 layout = "team-single"
 page_kind = "team"
 slug = "/brad-williams"

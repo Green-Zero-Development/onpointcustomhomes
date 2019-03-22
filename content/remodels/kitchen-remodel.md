@@ -4,7 +4,7 @@ gallery_images = ["/v1553044796/OnPoint%20Custom%20Homes/DSCF2313.jpg", "/v15530
 layout = "remodel"
 page_kind = "remodel"
 slug = "/remodel-2"
-title = "Kitchen Remodel 2"
+title = "Kitchen Remodel"
 type = "page"
 [before_image]
 remodel_before_image = "/v1553043580/OnPoint%20Custom%20Homes/DSCF6315.jpg"

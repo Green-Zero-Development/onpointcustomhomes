@@ -1,5 +1,5 @@
 +++
-date = "2019-03-20T01:37:50+00:00"
+date = "2019-03-22T04:00:17+00:00"
 layout = "team-single"
 page_kind = "team"
 slug = "/albert-aguirre"

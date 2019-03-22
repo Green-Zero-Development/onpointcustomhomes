@@ -1,5 +1,5 @@
 +++
-date = "2019-03-19T23:32:30+00:00"
+date = "2019-03-22T07:00:17+00:00"
 gallery_images = ["/v1553038346/OnPoint%20Custom%20Homes/P2270015.jpg", "/v1553038346/OnPoint%20Custom%20Homes/P2270012.jpg", "/v1553038346/OnPoint%20Custom%20Homes/1634-Ronson-Sales-Plan-Level-2-1.jpg", "/v1553038346/OnPoint%20Custom%20Homes/1634-Ronson-Sales-Plan-Level-1-1.jpg", "/v1553038340/OnPoint%20Custom%20Homes/P2270017.jpg"]
 is_on_sale = true
 is_pending = false

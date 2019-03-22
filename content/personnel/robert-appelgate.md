@@ -1,5 +1,5 @@
 +++
-date = "2019-03-20T01:31:18+00:00"
+date = "2019-03-22T10:00:17+00:00"
 layout = "team-single"
 page_kind = "team"
 slug = "/robert-appelgate"

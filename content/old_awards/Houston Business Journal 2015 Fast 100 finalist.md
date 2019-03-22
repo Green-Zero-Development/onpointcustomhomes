@@ -4,6 +4,6 @@ award_pdf = ""
 award_photo = "https://res.cloudinary.com/animated-eagle/image/upload/v1553046397/OnPoint%20Custom%20Homes/fast100.png"
 title = "Houston Business Journal 2015 Fast 100 finalist"
 date = "2019-03-20T01:47:10+00:00"
-page_kind = "award"
+page_kind = "old_award"
 
 +++

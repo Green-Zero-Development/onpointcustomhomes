@@ -1,5 +1,5 @@
 +++
-date = "2019-03-20T01:27:35+00:00"
+date = "2019-03-22T11:00:17+00:00"
 layout = "team-single"
 page_kind = "team"
 slug = "/earl-correll"

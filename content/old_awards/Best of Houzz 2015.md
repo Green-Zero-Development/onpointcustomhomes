@@ -4,6 +4,6 @@ award_pdf = ""
 award_photo = "https://res.cloudinary.com/animated-eagle/image/upload/v1553046153/OnPoint%20Custom%20Homes/houzz.png"
 title = "Best of Houzz 2015"
 date = "2019-03-20T01:43:09+00:00"
-page_kind = "award"
+page_kind = "old_award"
 
 +++

@@ -1,5 +1,5 @@
 +++
-date = "2019-03-20T00:11:39+00:00"
+date = "2019-03-21T20:00:17+00:00"
 gallery_images = ["/v1553040695/OnPoint%20Custom%20Homes/P2270324-3.jpg", "/v1553040695/OnPoint%20Custom%20Homes/P2270322-3.jpg", "/v1553040695/OnPoint%20Custom%20Homes/P2270321-3.jpg", "/v1553040695/OnPoint%20Custom%20Homes/P2270318-3.jpg", "/v1553040695/OnPoint%20Custom%20Homes/P2270314-3.jpg", "/v1553040695/OnPoint%20Custom%20Homes/P2270311-3.jpg", "/v1553040695/OnPoint%20Custom%20Homes/P2270306-3.jpg", "/v1553040695/OnPoint%20Custom%20Homes/P2270305-3.jpg", "/v1553040695/OnPoint%20Custom%20Homes/P2270303-3.jpg", "/v1553040695/OnPoint%20Custom%20Homes/P2270300-3.jpg", "/v1553040695/OnPoint%20Custom%20Homes/P2270283-3.jpg", "/v1553040687/OnPoint%20Custom%20Homes/2202-DRISCOLL-Sales-Plan-Level-3.jpg", "/v1553040687/OnPoint%20Custom%20Homes/2202-DRISCOLL-Sales-Plan-Level-2.jpg", "/v1553040687/OnPoint%20Custom%20Homes/2202-DRISCOLL-Sales-Plan-Level-1.jpg"]
 is_on_sale = true
 is_pending = false

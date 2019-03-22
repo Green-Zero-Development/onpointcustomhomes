@@ -43,17 +43,26 @@
             </a>
             {{ end }}
         </div>
+        <div class="flex flex-wrap w-full text-center pt-12">
+            {{ range (where .Site.Pages "Params.page_kind" "old_award") }}
+            <a href="{{ if .Params.award_link }}{{ .Params.award_link }}{{ else }}{{ end }}{{ if .Params.award_pdf }}{{ .Params.award_pdf }}{{ else }}{{ end }}" target="_blank" class="w-full md:w-1/4 lg:w-1/5 mx-auto text-center no-underline p-5 opacity-50 hover:opacity-100">
+                {{ if .Params.award_photo }}
+                    <img src="{{ .Params.award_photo }}" width="70%">
+                    {{ else }}
+                {{ end }}
+            </a>
+            {{ end }}
+        </div>
         <div class="flex flex-wrap w-full text-center py-12">
             <h2 class="w-full pb-5 px-5 lg:px-0 font-muli text-color-818e9c text-xl uppercase font-normal border-b-4">Press</h2>
             {{ range (where .Site.Pages "Params.page_kind" "press") }}
-                <a href="{{ .Params.press_link }}" target="_blank" class="flex flex-wrap w-full md:w-1/2 lg:w-1/4 mx-auto relative border-8 border-white h-home hover:opacity-95 hover:cursor-pointer" {{ if .Params.press_photo }} style="background-image: url('https://res.cloudinary.com/animated-eagle/image/upload{{ .Params.press_photo }}');background-size: cover;background-repeat:no-repeat;"{{ else }}{{ end }}>
-                    <div class="w-full shadow-lg overlay-black-homes">
-                        <div class="bg-color-333333 w-full font-muli text-left text-white absolute pin-b p-2">
-                            <h2 class="text-lg font-normal">{{ .Title }}</h2>
-                            <h3 class="font-normal uppercase text-xs opacity-75">{{ .Params.name_of_publication }}</h3>
-                        </div>
-                    </div>
+            <div class="w-3/4 lg:w-1/2 mx-auto text-center py-5 lg:py-16 lg:px-12">
+                <a href="{{ .Params.press_link }}" target="_blank" class="mx-auto no-underline h-home hover:cursor-pointer">
+                <h2 class="pb-0 font-muli text-color-818e9c text-2xl roman font-normal">{{ .Title }}</h2>
+                <p class="pt-0 font-muli text-color-4f5052 text-base font-thin leading-normal">{{ .Params.name_of_publication }}</p>
+                <button class="font-muli text-sm text-grey hover:text-white font-bold uppercase text-center py-3 px-5 mt-5 border-2 hover:bg-grey hover:border-grey collections-button">Read Article</button>
                 </a>
+            </div>
             {{ end }}
         </div>
     </div>
