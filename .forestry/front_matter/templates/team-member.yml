@@ -31,6 +31,11 @@ fields:
     label: Employee Title
     config:
       required: true
+- type: datetime
+  name: date
+  label: Date
+  description: Use this for page order if needed (dates that are closer to today will
+    be further up the page)
 - type: text
   name: layout
   label: Layout
