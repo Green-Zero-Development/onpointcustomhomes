@@ -83,6 +83,13 @@ fields:
     name: how_many_cars_garage
     label: Size of Garage
     description: How many cars can the garage hold?
+  - type: textarea
+    name: description_of_home
+    label: Description of Home
+    config:
+      wysiwyg: false
+      schema:
+        format: markdown
 - type: boolean
   name: is_on_sale
   label: Is on Sale
@@ -97,8 +104,21 @@ fields:
   label: Video Tour Link
   description: Paste the URL of video tours here.
 - type: image_gallery
+  label: Floor Plans
+  name: floor_plans
+- type: image_gallery
+  label: Progress Images
+  name: progress_images
+- type: image_gallery
   name: gallery_images
-  label: Gallery Images
+  label: Other Images
+- type: datetime
+  name: date
+  label: Date
+  config:
+    required: true
+  description: Use this for page order if needed (dates that are closer to today will
+    be further up the page)
 - type: text
   name: type
   label: type
