@@ -5,11 +5,6 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: content/old_awards
-  label: Old Awards
-  create: documents
-  match: "**/*"
-- type: directory
   path: content/blog
   label: Posts
   create: documents
@@ -37,6 +32,11 @@ sections:
   match: "**/*"
   templates:
   - award
+- type: directory
+  path: content/old_awards
+  label: Old Awards
+  create: documents
+  match: "**/*"
 - type: directory
   path: content/personnel
   label: Team
