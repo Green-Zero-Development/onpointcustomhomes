@@ -15,10 +15,6 @@
 <section id="page-details" class="flex flex-wrap text-center">
     <div class="container bg-white flex flex-wrap w-full lg:w-5/6 text-center mx-auto flex-col-reverse lg:flex-row">
         <div class="w-full mx-auto blog-featured-image">
-            {{ if .Params.Featured_image.blog_featured_image }}
-            <img class="text-center" src="https://res.cloudinary.com/animated-eagle/image/upload{{ .Params.Featured_image.blog_featured_image }}" width="50%">
-            {{ else }}
-            {{ end }}
         <div class="w-5/6 lg:w-3/4 mx-auto font-muli text-color-4f5052 text-base lg:text-lg font-thin text-left py-12 leading-normal blog-content">
             {{ .Content }}
         </div>
