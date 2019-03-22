@@ -66,7 +66,7 @@ sections:
   create: documents
   match: "**/*"
 upload_dir: OnPoint Custom Homes
-public_path: {{ .Site.Params.tracking.cloudinary_url }}
+public_path: ''
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
