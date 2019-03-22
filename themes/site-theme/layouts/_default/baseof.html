@@ -70,7 +70,7 @@
 
 </head>
 
-    <body class="background-image {{ .Param "page-status" }} {{ if eq .Page.Params.page_kind "home" }}home-portfolio-background{{ else }}{{ end }} {{ if eq .Page.Params.Layout "blog" }}blog-background-image{{ else }}{{ end }}">
+    <body class="background-image {{ .Param "page-status" }} {{ if eq .Page.Params.page_kind "home" }}home-portfolio-background{{ else }}{{ end }} {{ if eq .Page.Params.Layout "blog" }}blog-background-image{{ else }}{{ end }} {{ if eq .Page.Params.page_kind "remodel" }}remodel-background-image{{ else }}{{ end }} ">
 
     {{ block "header" . }}{{ partial "header.html" .}}{{ end }}
     <main role="main">
