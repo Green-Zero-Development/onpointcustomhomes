@@ -9,7 +9,7 @@ title = "Design Trends Straight from the International Builder, Kitchen + Bath S
 type = "page"
 [featured_image]
 alt_text = ""
-blog_featured_image = "https://res.cloudinary.com/animated-eagle/image/upload/v1553280823/OnPoint%20Custom%20Homes/blog-21-768x479.png"
+blog_featured_image = "{{ .Site.Params.tracking.cloudinary_url }}/v1553280823/OnPoint%20Custom%20Homes/blog-21-768x479.png"
 
 +++
 Trend alert – the smart home is getting even smarter! In this week’s blog post, we’re sharing some of the smartest and techy savvy products we discovered at the International Builder Show.
