@@ -67,6 +67,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/blog/design-trends-straight-from-the-international-builder-kitchen-bath-show-part-1.md
 - content/blog/what-defines-a-houston-modern-home.md
 - content/blog/is-there-a-particular-type-of-home-that-best-suits-houston-modern-furniture-styles.md
 - content/blog/all-i-see-in-houston-is-one-story-ranch-style-houses-are-there-any-modern-inner-city-patio-homes.md
