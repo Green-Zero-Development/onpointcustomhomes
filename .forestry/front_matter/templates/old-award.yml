@@ -22,6 +22,8 @@ fields:
   type: datetime
   hidden: false
   default: ''
+  description: Use this for page order if needed (dates that are closer to today will
+    be further up the page)
 - name: page_kind
   label: Page kind
   type: text
