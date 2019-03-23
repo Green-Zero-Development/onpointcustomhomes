@@ -67,6 +67,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/blog/new-products-from-thermador-bosch.md
 - content/blog/basics-of-building-foundation-fundamentals-part-3.md
 - content/blog/basics-of-building-foundation-fundamentals-part-2.md
 - content/blog/basics-of-building-foundation-fundamentals-part-1.md
