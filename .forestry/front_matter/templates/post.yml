@@ -67,6 +67,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/blog/basics-of-building-foundation-fundamentals-part-2.md
 - content/blog/basics-of-building-foundation-fundamentals-part-1.md
 - content/blog/the-perfect-party-ready-backyard.md
 - content/blog/bringing-together-the-perfect-modern-farmhouse-design.md
