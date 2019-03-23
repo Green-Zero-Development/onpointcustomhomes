@@ -67,6 +67,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/blog/designing-your-perfect-built-ins-cabinets.md
 - content/blog/basics-of-building-insulation.md
 - content/blog/join-the-team-now-hiring-for-an-architectural-designer.md
 - content/blog/new-awards-from-the-texas-association-of-builders.md
