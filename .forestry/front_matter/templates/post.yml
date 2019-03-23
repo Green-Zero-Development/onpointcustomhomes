@@ -67,6 +67,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/blog/the-perfect-party-ready-backyard.md
 - content/blog/bringing-together-the-perfect-modern-farmhouse-design.md
 - content/blog/briargrove-southern-charm-remodel-part-4.md
 - content/blog/briargrove-southern-charm-remodel-part-3.md
