@@ -67,6 +67,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/blog/national-women-in-construction-week.md
 - content/blog/2015-2016-flood-victims-rebuild-meyerland-modern-5-feet-up.md
 - content/blog/design-trends-straight-from-the-international-builder-kitchen-bath-show-part-2.md
 - content/blog/ghba-best-custom-home-elevation-winner.md
