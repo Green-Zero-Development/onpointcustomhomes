@@ -12,6 +12,6 @@ alt_text = ""
 blog_featured_image = ""
 
 +++
-<iframe src="https://www.youtube.com/embed/-dHVNXxZ3Zg?feature=player_embedded" width="640" height="360" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/-dHVNXxZ3Zg?feature=player_embedded" width="100%" height="360" frameborder="0"></iframe>
 
 Review of our latest smarthome at 2424 Hazard by KTRH connected reporter, Michelle Merhar!
