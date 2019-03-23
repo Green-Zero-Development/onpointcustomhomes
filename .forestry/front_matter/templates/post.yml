@@ -67,18 +67,19 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/blog/basics-of-building-housewrap-rainscreens.md
+- content/blog/basics-of-building-foundation-fundamentals-part-2.md
+- content/blog/bringing-together-the-perfect-modern-farmhouse-design.md
+- content/blog/basics-of-building-foundation-fundamentals-part-1.md
+- content/blog/briargrove-southern-charm-remodel-part-3.md
+- content/blog/2015-2016-flood-victims-rebuild-meyerland-modern-5-feet-up.md
+- content/blog/briargrove-southern-charm-remodel-part-1.md
 - content/blog/new-products-from-thermador-bosch.md
 - content/blog/basics-of-building-foundation-fundamentals-part-3.md
-- content/blog/basics-of-building-foundation-fundamentals-part-2.md
-- content/blog/basics-of-building-foundation-fundamentals-part-1.md
-- content/blog/the-perfect-party-ready-backyard.md
-- content/blog/bringing-together-the-perfect-modern-farmhouse-design.md
 - content/blog/briargrove-southern-charm-remodel-part-4.md
-- content/blog/briargrove-southern-charm-remodel-part-3.md
 - content/blog/briargrove-southern-charm-remodel-part-2.md
-- content/blog/briargrove-southern-charm-remodel-part-1.md
+- content/blog/the-perfect-party-ready-backyard.md
 - content/blog/national-women-in-construction-week.md
-- content/blog/2015-2016-flood-victims-rebuild-meyerland-modern-5-feet-up.md
 - content/blog/design-trends-straight-from-the-international-builder-kitchen-bath-show-part-2.md
 - content/blog/ghba-best-custom-home-elevation-winner.md
 - content/blog/design-trends-straight-from-the-international-builder-kitchen-bath-show-part-3.md
