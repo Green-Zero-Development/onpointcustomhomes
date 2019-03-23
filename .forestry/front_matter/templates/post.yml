@@ -67,6 +67,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/blog/briargrove-southern-charm-remodel-part-2.md
 - content/blog/briargrove-southern-charm-remodel-part-1.md
 - content/blog/national-women-in-construction-week.md
 - content/blog/2015-2016-flood-victims-rebuild-meyerland-modern-5-feet-up.md
