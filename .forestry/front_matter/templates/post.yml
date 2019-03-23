@@ -67,6 +67,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/blog/introducing-dec-my-room.md
 - content/blog/basics-of-building-windows.md
 - content/blog/basics-of-building-housewrap-rainscreens.md
 - content/blog/designing-in-3d-why-it-makes-a-difference.md
