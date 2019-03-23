@@ -67,9 +67,10 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/blog/2015-2016-flood-victims-rebuild-meyerland-modern-5-feet-up.md
+- content/blog/design-trends-straight-from-the-international-builder-kitchen-bath-show-part-2.md
 - content/blog/ghba-best-custom-home-elevation-winner.md
 - content/blog/design-trends-straight-from-the-international-builder-kitchen-bath-show-part-3.md
-- content/blog/design-trends-straight-from-the-international-builder-kitchen-bath-show-part-2.md
 - content/blog/design-trends-straight-from-the-international-builder-kitchen-bath-show-part-1.md
 - content/blog/what-defines-a-houston-modern-home.md
 - content/blog/is-there-a-particular-type-of-home-that-best-suits-houston-modern-furniture-styles.md
