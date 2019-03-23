@@ -67,8 +67,8 @@ fields:
   hidden: false
   default: ''
 pages:
-- content/blog/designing-in-3d-why-it-makes-a-difference.md
 - content/blog/basics-of-building-housewrap-rainscreens.md
+- content/blog/designing-in-3d-why-it-makes-a-difference.md
 - content/blog/basics-of-building-foundation-fundamentals-part-2.md
 - content/blog/bringing-together-the-perfect-modern-farmhouse-design.md
 - content/blog/basics-of-building-foundation-fundamentals-part-1.md

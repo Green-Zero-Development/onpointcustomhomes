@@ -22,7 +22,7 @@ Like mentioned earlier, we do everything in our power to create a strong water d
 
 The second phase of creating a solid drainage plan is the addition of a rainscreen. A rainscreen comes in a variety of shapes and styles and is used to add an additional layer of drainage between your façade material and your home. Check out this video from Construction Instruction on a rainscreen appliation.
 
-<iframe src="https://player.vimeo.com/video/236747796?app_id=122963" width="640" height="360" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/236747796?app_id=122963" width="100%" height="360" frameborder="0"></iframe>
 
 We install a rainscreen on all of our custom homes that have siding, stucco or stone in order to create airflow between the sheathing and siding material. It’s not needed for brick because the brick ledge creates a 6-inch air gap and additional weep holes provide enough ventilation on their own. Inevitably water will get through your siding material – thank you, Houston for the jungle-like humidity in the middle of the city! The rainscreen accelerates the drying process allowing for cross ventilation meaning airflow moves both vertically and horizontally to resolve the moisture.
 
