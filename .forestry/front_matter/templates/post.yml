@@ -67,6 +67,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/blog/ghba-best-custom-home-elevation-winner.md
 - content/blog/design-trends-straight-from-the-international-builder-kitchen-bath-show-part-3.md
 - content/blog/design-trends-straight-from-the-international-builder-kitchen-bath-show-part-2.md
 - content/blog/design-trends-straight-from-the-international-builder-kitchen-bath-show-part-1.md
@@ -77,7 +78,6 @@ pages:
 - content/blog/why-are-nahb-designations-important.md
 - content/blog/why-is-quartz-gaining-popularity-in-houston-homes.md
 - content/blog/why-a-houston-patio-home.md
-- content/blog/ghba-best-custom-home-elevation-winner.md
 - content/blog/do-you-build-modern-homes-in-houston.md
 - content/blog/does-on-point-custom-homes-use-green-building.md
 - content/blog/are-there-several-options-with-regards-to-houston-modern-luxury-homes-and-residences.md
