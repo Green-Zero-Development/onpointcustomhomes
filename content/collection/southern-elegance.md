@@ -6,6 +6,7 @@ params:
 page-status: 'southern-elegance'
 pageImage: '/v1552959717/OnPoint%20Custom%20Homes/DSCF9770.jpg'
 pageTitle: 'SOUTHERN ELEGANCE'
+meta_description: 'collection of Southern Elegance designs'
 ---
 
 <div class="bg-grey-lighter w-full py-5 mb-5 big-slide-collection">

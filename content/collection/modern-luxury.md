@@ -6,6 +6,7 @@ params:
 page-status: 'modern-luxury'
 pageImage: '/v1552523176/OnPoint%20Custom%20Homes/emomedia.net-2.jpg'
 pageTitle: 'MODERN LUXURY'
+meta_description: 'collection of Modern Luxury designs'
 ---
 
 <div class="bg-grey-lighter w-full py-5 mb-5 big-slide-collection">

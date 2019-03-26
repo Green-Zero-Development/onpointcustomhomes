@@ -6,6 +6,7 @@ params:
 page-status: 'urban-contemporary'
 pageImage: '/v1552959236/OnPoint%20Custom%20Homes/DSC_1672.jpg'
 pageTitle: 'URBAN CONTEMPORARY'
+meta_description: 'collection of Urban Contemporary designs'
 ---
 
 <div class="bg-grey-lighter w-full py-5 mb-5 big-slide-collection">

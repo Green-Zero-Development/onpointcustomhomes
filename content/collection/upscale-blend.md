@@ -6,6 +6,7 @@ params:
 page-status: 'upscale-blend'
 pageImage: '/v1552958709/OnPoint%20Custom%20Homes/DSC_7432.jpg'
 pageTitle: 'UPSCALE BLEND'
+meta_description: 'collection of Upscale Designs designs'
 ---
 
 <div class="bg-grey-lighter w-full py-5 mb-5 big-slide-collection">

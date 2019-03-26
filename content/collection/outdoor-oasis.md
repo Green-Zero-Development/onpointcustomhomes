@@ -6,6 +6,7 @@ params:
 page-status: 'outdoor-oasis'
 pageImage: '/v1552960273/OnPoint%20Custom%20Homes/DSC_8531-1400x927.jpg'
 pageTitle: 'OUTDOOR OASIS'
+meta_description: 'collection of Outdoor Oasis designs'
 ---
 
 <div class="bg-grey-lighter w-full py-5 mb-5 big-slide-collection">

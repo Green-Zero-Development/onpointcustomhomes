@@ -6,6 +6,7 @@ params:
 page-status: 'timeless-traditional'
 pageImage: '/v1552441075/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00065-1400x1080.jpg'
 pageTitle: 'TIMELESS TRADITIONAL'
+meta_description: 'collection of Timeless Traditional designs'
 ---
 
 <div class="bg-grey-lighter w-full py-5 mb-5 big-slide-collection">
