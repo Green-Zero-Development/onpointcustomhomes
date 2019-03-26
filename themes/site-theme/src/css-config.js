@@ -573,6 +573,7 @@ module.exports = {
     'team': '20rem',
     'home': '23rem',
     'home-single': '30rem',
+    'homes-available-inner': '50rem',
     'full': '100%',
     'screen': '100vh',
   },

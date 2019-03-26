@@ -1,7 +1,9 @@
 {{ define "main" }}
 
 <style>
-
+.blog-featured-image {
+    max-height: 300px;
+}
 </style>
 
 <div class="overlay-black">
@@ -27,7 +29,7 @@
             {{ if .Params.Featured_image.Blog_featured_image }}
             <div class="w-1/2 lg:w-1/3 py-5 lg:py-0 mx-auto">
                 <a href="/blog{{ .Slug }}" class="hover:opacity-75">
-                    <img class="rounded" src="{{ .Site.Params.tracking.cloudinary_url }}{{ .Params.Featured_image.Blog_featured_image }}">
+                    <img class="rounded blog-featured-image" src="{{ .Site.Params.tracking.cloudinary_url }}{{ .Params.Featured_image.Blog_featured_image }}">
                 </a>
             </div>
             {{ else }}{{ end }}

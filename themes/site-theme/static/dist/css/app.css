@@ -3386,6 +3386,10 @@ table {
   height: 30rem;
 }
 
+.h-homes-available-inner {
+  height: 50rem;
+}
+
 .h-full {
   height: 100%;
 }
@@ -11026,6 +11030,10 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
     height: 30rem;
   }
 
+  .sm\:h-homes-available-inner {
+    height: 50rem;
+  }
+
   .sm\:h-full {
     height: 100%;
   }
@@ -17191,6 +17199,10 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
 
   .md\:h-home-single {
     height: 30rem;
+  }
+
+  .md\:h-homes-available-inner {
+    height: 50rem;
   }
 
   .md\:h-full {
@@ -23360,6 +23372,10 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
     height: 30rem;
   }
 
+  .lg\:h-homes-available-inner {
+    height: 50rem;
+  }
+
   .lg\:h-full {
     height: 100%;
   }
@@ -29527,6 +29543,10 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
     height: 30rem;
   }
 
+  .xl\:h-homes-available-inner {
+    height: 50rem;
+  }
+
   .xl\:h-full {
     height: 100%;
   }
@@ -35692,6 +35712,10 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
 
   .xxl\:h-home-single {
     height: 30rem;
+  }
+
+  .xxl\:h-homes-available-inner {
+    height: 50rem;
   }
 
   .xxl\:h-full {
