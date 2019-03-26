@@ -1,8 +1,8 @@
 baseURL = "https://onpointcustomhomes.netlify.com/"
-description = "This domain is established to be used for illustrative examples in documents. You may use this domain in examples without prior coordination or asking for permission."
+description = "Houston's Luxury Custom Builder"
 languageCode = "en-us"
 theme = "site-theme"
-title = "Example"
+title = "On Point Custom Homes"
 [[menu.desktop]]
 identifier = "architectural-design"
 name = "Architectural Design"
@@ -133,7 +133,7 @@ street = "3939 Essex Lane"
 suite = "100"
 zip = 77027
 [params.email]
-email = "example@example.com"
+email = "sales@onpointcustomhomes.com"
 [params.tracking]
 google_analytics = "UA-8425540-16"
 enableInlineShortcodes = true
