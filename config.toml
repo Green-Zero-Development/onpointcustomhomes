@@ -135,9 +135,10 @@ zip = 77027
 [params.email]
 email = "example@example.com"
 [params.tracking]
-google_analytics = ""
+google_analytics = "UA-8425540-16"
 enableInlineShortcodes = true
 cloudinary_url = "https://res.cloudinary.com/onpointcustomhomes/image/upload"
+facebook_pixel = "1452219241523154"
 [params.social_links]
 facebook = "https://www.facebook.com/OnPointCustomHomes"
 insta = "https://www.instagram.com/onpointcustomhomes/"

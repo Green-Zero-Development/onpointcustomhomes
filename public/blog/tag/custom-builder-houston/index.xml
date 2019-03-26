@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Custom Builder Houston on Example</title>
+    <link>https://onpointcustomhomes.netlify.com/blog/tag/custom-builder-houston/</link>
+    <description>Recent content in Custom Builder Houston on Example</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Jun 2018 04:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://onpointcustomhomes.netlify.com/blog/tag/custom-builder-houston/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Basics of Building: Foundation Fundamentals Part 1</title>
+      <link>https://onpointcustomhomes.netlify.com/blog/basics-of-building-foundation-fundamentals-part-1/</link>
+      <pubDate>Tue, 19 Jun 2018 04:00:00 +0000</pubDate>
+      
+      <guid>https://onpointcustomhomes.netlify.com/blog/basics-of-building-foundation-fundamentals-part-1/</guid>
+      <description>Ever wonder exactly how your home is being put together – what techniques, products and systems are being used? And what makes one technique better than another? We’re breaking down the basics of building science to help you understand how your home is actually being constructed and sharing what we do differently from other builders. Without bogging you down with too much minutiae, we’ll explain various techniques and share the differences, pros and cons of each.</description>
+    </item>
+    
+  </channel>
+</rss>

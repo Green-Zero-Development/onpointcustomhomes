@@ -57,13 +57,13 @@
 <script src="https://cdn.jsdelivr.net/npm/vue"></script>
 
 
-<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-8425540-16"></script>
 <script>
  window.dataLayer = window.dataLayer || [];
  function gtag(){dataLayer.push(arguments);}
  gtag('js', new Date());
 
- gtag('config', '');
+ gtag('config', 'UA-8425540-16');
 </script>
 
 </head>
@@ -71,6 +71,9 @@
     <body class="background-image   ">
 
     <style>
+a {
+  color: #818e9c;
+}
 .mobile-menu-block {
   display: block !important;
 }
@@ -86,7 +89,7 @@
 .background-image {
   background-size: cover;
   background-attachment: fixed;
-  background-position: bottom;
+  background-position: top;
 }
 .overlay-black {
   background-color: rgba(34,34,34,0.6);
@@ -100,21 +103,50 @@
   transition: .2s;
 }
 .page-specifics-icon-box {
-  background-color: rgba(70, 74, 78, 0.50);
+  
 }
 .background-image {
-    background-image: url("");
+    background-image: url("https://res.cloudinary.com/onpointcustomhomes/image/upload");
 }
 .home-portfolio-background {
-    background-image: url("https://res.cloudinary.com/animated-eagle/image/upload");
+    background-image: url("https://res.cloudinary.com/onpointcustomhomes/image/upload");
+    background-position-y: top;
+}
+.remodel-background-image {
+    background-image: url("https://res.cloudinary.com/onpointcustomhomes/image/upload");
     background-position-y: top;
 }
 .blog-background-image {
-    background-image: url("https://res.cloudinary.com/animated-eagle/image/upload");
+    background-image: url("https://res.cloudinary.com/onpointcustomhomes/image/upload");
     background-position-y: top;
 }
 .inner-video {
   height: 300px;
+}
+.big-slide {
+    transition: .2s;
+}
+.slider-box {
+background-size:contain;
+height:300px;
+background-repeat:no-repeat;
+background-position-y:center;
+background-position-x: center;
+}
+.controls-image {
+  transition: .2s;
+}
+.big-slide-collection .slick-arrow {
+  display: none !important;
+}
+.contain-background {
+  background-size: contain !important;
+}
+@media screen and (min-width: 992px) {
+.slider-box {
+    height:500px;
+    background-position-y:bottom;
+}
 }
 @media screen and (min-width: 768px) {
     .inner-video {
@@ -176,7 +208,7 @@
 <section id="header" class="bg-color-header header-container">
         <div class="container flex items-center py-4 px-8 sm:px-16 lg:px-0 lg:py-0 header-box">
 <a id="logo" class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-48 mr-auto" href="/">
-  <img class="" src="https://res.cloudinary.com/animated-eagle/image/upload/v1552086461/OnPoint%20Custom%20Homes/logo.png">
+  <img class="" src="https://res.cloudinary.com/onpointcustomhomes/image/upload/v1552086461/OnPoint%20Custom%20Homes/logo.png">
 </a>
 <nav id="navigation-wrapper" class="w-1/3 lg:w-2/3 ml-auto lg:ml-0 lg:mx-auto text-right">
 
@@ -185,7 +217,7 @@
   
   <a class=" inline w-1/6 py-1 px-2 font-muli text-xxs xl:text-xs text-white no-underline uppercase desktop-menu-item architectural-design-menu" href="/our-portfolio"><span class="mx-auto">Architectural Design</span><i class='fas fa-caret-down pl-1'></i></a>
   
-  <a class=" inline w-1/6 py-1 px-2 font-muli text-xxs xl:text-xs text-white no-underline uppercase desktop-menu-item homes--available-now-menu" href="/portfolio"><span class="mx-auto">Homes – Available Now</span></a>
+  <a class=" inline w-1/6 py-1 px-2 font-muli text-xxs xl:text-xs text-white no-underline uppercase desktop-menu-item available-homes-menu" href="/portfolio"><span class="mx-auto">Available Homes</span></a>
   
   <a class=" inline w-1/6 py-1 px-2 font-muli text-xxs xl:text-xs text-white no-underline uppercase desktop-menu-item luxury-home-remodels-menu" href="/remodels"><span class="mx-auto">Luxury Home Remodels</span></a>
   
@@ -254,11 +286,21 @@
 </nav>
 <div class="hidden lg:inline-flex w-48 hover:text-2xl header-social-links">
   <div class="py-2 mx-auto text-white">
-    <i class="fab fa-houzz pr-2 hover:text-color-e1e9ba hover:cursor-pointer" title="Houzz"></i>
-    <i class="fab fa-facebook-f pr-2 hover:text-color-e1e9ba hover:cursor-pointer" title="Facebook"></i>
-    <i class="fab fa-instagram pr-2 hover:text-color-e1e9ba hover:cursor-pointer" title="Instagram"></i>
-    <i class="fab fa-pinterest pr-2 hover:text-color-e1e9ba hover:cursor-pointer" title="Pinterest"></i>
-    <i class="fab fa-linkedin-in hover:text-color-e1e9ba hover:cursor-pointer" title="Linkedin"></i>
+    <a class="text-white no-underline hover:opacity-75" href="https://www.facebook.com/OnPointCustomHomes" target="_blank">
+      <i class="fab fa-facebook-f pr-2 hover:cursor-pointer" title="Facebook"></i>
+    </a>
+    <a class="text-white no-underline hover:opacity-75" href="https://www.instagram.com/onpointcustomhomes/" target="_blank">
+      <i class="fab fa-instagram pr-2 hover:cursor-pointer" title="Instagram"></i>
+    </a>
+    <a class="text-white no-underline hover:opacity-75" href="https://www.houzz.com/pro/onpointcustomhomes-/on-point-custom-homes" target="_blank">
+      <i class="fab fa-houzz pr-2 hover:cursor-pointer" title="Houzz"></i>
+    </a>
+    <a class="text-white no-underline hover:opacity-75" href="https://www.linkedin.com/company/on-point-custom-homes" target="_blank">
+      <i class="fab fa-linkedin-in pr-2 hover:cursor-pointer" title="Linkedin"></i>
+    </a>
+    <a class="text-white no-underline hover:opacity-75" href="https://www.pinterest.com/OnPointCustom/" target="_blank">
+      <i class="fab fa-pinterest hover:cursor-pointer" title="Pinterest"></i>
+      </a>
   </div>
 </div>
 </div>
@@ -268,7 +310,7 @@
   <div class="mobile-menu-container">
   <div class="container flex flex-wrap lg:flex-no-wrap items-center px-8 sm:px-16 lg:px-0 py-4">
   <a id="mobile-menu-logo" class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-48 mr-auto" href="/">
-    <img class="" src="https://res.cloudinary.com/animated-eagle/image/upload/v1552086461/OnPoint%20Custom%20Homes/logo.png">
+    <img class="" src="https://res.cloudinary.com/onpointcustomhomes/image/upload/v1552086461/OnPoint%20Custom%20Homes/logo.png">
   </a>
   <a class="ml-auto text-3xl md:text-4xl text-white text-center close-menu" v-on:click="menuToggle = !menuToggle"><i class="fas fa-times"></i></a>
   </div>
@@ -277,7 +319,7 @@
     
     <li class="pt-8 pb-5 mobile-menu-item" v-on:click="architecturaltoggle = !architecturaltoggle"><a class=" text-white no-underline font-bold" href="#architectural-design-dropdown">Architectural Design</a></li>
     
-    <li class="pt-8 pb-5 mobile-menu-item" v-on:click=""><a class=" text-white no-underline font-bold" href="/portfolio">Homes – Available Now</a></li>
+    <li class="pt-8 pb-5 mobile-menu-item" v-on:click=""><a class=" text-white no-underline font-bold" href="/portfolio">Available Homes</a></li>
     
     <li class="pt-8 pb-5 mobile-menu-item" v-on:click=""><a class=" text-white no-underline font-bold" href="/remodels">Luxury Home Remodels</a></li>
     
@@ -338,11 +380,21 @@
   </div>
   <div class="lg:hidden w-full py-8 text-center header-social-links">
     <div class="py-2 mx-auto text-4xl text-white">
-      <i class="fab fa-houzz pr-4"></i>
-      <i class="fab fa-facebook-f pr-4"></i>
-      <i class="fab fa-instagram pr-4"></i>
-      <i class="fab fa-pinterest pr-4"></i>
-      <i class="fab fa-linkedin-in"></i>
+        <a class="text-white no-underline hover:opacity-75" href="https://www.facebook.com/OnPointCustomHomes" target="_blank">
+          <i class="fab fa-facebook-f pr-2 hover:cursor-pointer" title="Facebook"></i>
+        </a>
+        <a class="text-white no-underline hover:opacity-75" href="https://www.instagram.com/onpointcustomhomes/" target="_blank">
+          <i class="fab fa-instagram pr-2 hover:cursor-pointer" title="Instagram"></i>
+        </a>
+        <a class="text-white no-underline hover:opacity-75" href="https://www.houzz.com/pro/onpointcustomhomes-/on-point-custom-homes" target="_blank">
+          <i class="fab fa-houzz pr-2 hover:cursor-pointer" title="Houzz"></i>
+        </a>
+        <a class="text-white no-underline hover:opacity-75" href="https://www.linkedin.com/company/on-point-custom-homes" target="_blank">
+          <i class="fab fa-linkedin-in pr-2 hover:cursor-pointer" title="Linkedin"></i>
+        </a>
+        <a class="text-white no-underline hover:opacity-75" href="https://www.pinterest.com/OnPointCustom/" target="_blank">
+          <i class="fab fa-pinterest hover:cursor-pointer" title="Pinterest"></i>
+        </a>
     </div>
   </div>
 </div>
@@ -377,7 +429,7 @@
   </div>
     </main>
     <footer class="flex flex-wrap font-muli  bg-color-4f5052 flex flex-wrap pt-5 pb-5 px-5 text-center mx-auto">
-  <h6 class="w-full text-sm text-white text-center"><span class="font-thin">&copy; 2019 - Mar 20, 2019</span><span class="font-bold"> On Point Custom Homes </span></h6>
+  <h6 class="w-full text-sm text-white text-center"><span class="font-thin">&copy; 2019 - Mar 26, 2019</span><span class="font-bold"> On Point Custom Homes </span></h6>
 </footer>
     
 

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team Events on Example</title>
+    <link>https://onpointcustomhomes.netlify.com/blog/tag/team-events/</link>
+    <description>Recent content in Team Events on Example</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Aug 2018 04:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://onpointcustomhomes.netlify.com/blog/tag/team-events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducing Dec My Room</title>
+      <link>https://onpointcustomhomes.netlify.com/blog/introducing-dec-my-room/</link>
+      <pubDate>Wed, 01 Aug 2018 04:00:00 +0000</pubDate>
+      
+      <guid>https://onpointcustomhomes.netlify.com/blog/introducing-dec-my-room/</guid>
+      <description>As you guys know, On Point makes it a point to support our community and give back both with time and charitable contributions. Throughout our history, we’ve worked with a variety of local and national organizations to give back in different ways. We have a longstanding history with Habitat for Humanity, Houston Food Bank and Candlelighters and last year had the amazing opportunity to work with the Ronald McDonald House of Houston to design + build a custom playhouse for the residents of the home.</description>
+    </item>
+    
+  </channel>
+</rss>
