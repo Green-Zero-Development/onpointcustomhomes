@@ -1,12 +1,14 @@
 +++
 date = "2019-03-22T11:00:17+00:00"
+floor_plans = []
 gallery_images = ["/v1553031192/OnPoint%20Custom%20Homes/P2270123-1.jpg"]
 is_on_sale = false
 is_pending = true
 is_sold = false
 layout = "home-single"
 page_kind = "home"
-price = "1,400,000"
+price = ""
+progress_images = []
 slug = "/6508-haskell"
 title = "6508 HASKELL"
 type = "page"
@@ -17,6 +19,7 @@ home_featured_image = "/v1553031121/OnPoint%20Custom%20Homes/Haskell_Render_Rect
 [home_specifics]
 bathrooms = 3.5
 bedrooms = 4
+description_of_home = ""
 how_many_cars_garage = 2
 lot_square_feet = ""
 square_feet = "3,754"
