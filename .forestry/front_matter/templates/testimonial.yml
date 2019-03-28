@@ -21,6 +21,7 @@ fields:
 - type: text
   name: testimonial_video
   label: Testimonial Video
+  description: 'NOTE: This must be a Youtube link.'
 - type: text
   name: page_kind
   label: page_kind
