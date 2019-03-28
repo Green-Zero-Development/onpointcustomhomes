@@ -46,7 +46,7 @@
             </div>
         </div>
         <iframe src="https://www.google.com/maps/embed/v1/place?q={{ .Site.Params.address.street }}{{ .Site.Params.address.city }}{{ .Site.Params.address.state }}{{ .Site.Params.address.zip }}&key=AIzaSyAydxmpE5AxaJOyuTb8T6VdDg-TZWpyhqA" class="w-full mx-auto pb-12 h-home-single" frameborder="0" allowfullscreen></iframe>
-        <form id="contact-us" class="w-5/6 lg:w-1/2 mx-auto" name="contact-form" action="/thank-you" method="POST" netlify="true" data-netlify-honeypot="field-for-coolguys">
+        <form id="contact-us" class="w-5/6 lg:w-1/2 mx-auto" action="/thank-you" method="POST" netlify netlify-honeypot="field-for-coolguys">
             <input type="hidden" name="subject" value="New Form Submission from Main Contact Form" />
             <div class="flex flex-wrap">
                 <div class="pb-5 w-full text-left">
