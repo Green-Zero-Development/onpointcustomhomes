@@ -13,6 +13,7 @@ fields:
   config:
     required: true
   default: "/"
+  description: 'WARNING: Do not leave this blank. Please put something after the "/"'
 - type: field_group
   name: featured_image
   label: Featured Image
@@ -34,8 +35,8 @@ fields:
 - type: datetime
   name: date
   label: Date
-  description: Use this for page order if needed (dates that are closer to today will
-    be further up the page)
+  description: For sorting of content. Dates closer to today will be listed further
+    up the page.
 - type: text
   name: layout
   label: Layout
