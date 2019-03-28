@@ -12,7 +12,7 @@ progress_images = []
 slug = "/2108-dunlavy-st"
 title = "2106 +2108 DUNLAVY STREET"
 type = "page"
-video_tour_link = "https://www.youtube.com/watch?v=lpZrNwQUZ9c"
+video_tour_link = "https://www.youtube.com/watch?v=lpZrNwQUZ9c&t=2s"
 [featured_image]
 alt_text = ""
 home_featured_image = "/v1553038607/OnPoint%20Custom%20Homes/Emomedia.net-53-frt-3.jpg"
