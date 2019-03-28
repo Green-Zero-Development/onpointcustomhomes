@@ -60,6 +60,7 @@ fields:
     required: true
   default: page
 pages:
+- content/personnel/test-team-memer.md
 - content/personnel/earl-correll.md
 - content/personnel/evan-darr.md
 - content/personnel/brad-williams.md
