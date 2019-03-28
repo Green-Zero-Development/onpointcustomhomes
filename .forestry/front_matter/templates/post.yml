@@ -35,6 +35,7 @@ fields:
   default: "/"
   config:
     required: true
+  description: 'WARNING: Do not leave this blank. Please put something after the "/"'
 - name: blog/category
   label: Categories
   type: list
