@@ -1,12 +1,14 @@
 +++
 date = "2019-03-22T10:00:17+00:00"
-gallery_images = ["/v1553031192/OnPoint%20Custom%20Homes/P2270123-1.jpg", "/v1553031484/OnPoint%20Custom%20Homes/6510-Haskell_Sales_3rd-Floor.jpg", "/v1553031484/OnPoint%20Custom%20Homes/6510-Haskell_Sales_2nd-Floor.jpg", "/v1553031484/OnPoint%20Custom%20Homes/6510-Haskell_Sales_1st-Floor.jpg"]
+floor_plans = []
+gallery_images = ["/v1553802876/OnPoint%20Custom%20Homes/P3250249.jpg", "/v1553031192/OnPoint%20Custom%20Homes/P2270123-1.jpg"]
 is_on_sale = true
 is_pending = false
 is_sold = false
 layout = "home-single"
 page_kind = "home"
 price = "1,400,000"
+progress_images = ["/v1553284727/OnPoint%20Custom%20Homes/6510-Haskell_Sales_1st-Floor.jpg", "/v1553284729/OnPoint%20Custom%20Homes/6510-Haskell_Sales_3rd-Floor.jpg", "/v1553284728/OnPoint%20Custom%20Homes/6510-Haskell_Sales_2nd-Floor.jpg", "/v1553285000/OnPoint%20Custom%20Homes/Haskell_Render_Rectangular.jpg"]
 slug = "/6510-haskell"
 title = "6510 HASKELL"
 type = "page"
@@ -17,6 +19,7 @@ home_featured_image = "/v1553031121/OnPoint%20Custom%20Homes/Haskell_Render_Rect
 [home_specifics]
 bathrooms = 3.5
 bedrooms = 4
+description_of_home = ""
 how_many_cars_garage = 2
 lot_square_feet = ""
 square_feet = "3,754"
