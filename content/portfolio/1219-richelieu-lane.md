@@ -19,7 +19,7 @@ home_featured_image = "/v1553040158/OnPoint%20Custom%20Homes/1219-Richelieu-Fron
 [home_specifics]
 bathrooms = 3.5
 bedrooms = 4
-description_of_home = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+description_of_home = ""
 how_many_cars_garage = 2
 lot_square_feet = "7,320"
 square_feet = "4,079"
