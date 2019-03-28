@@ -4,6 +4,9 @@
 .team-member-content p {
     padding: 15px 0 15px 0;
 }
+.blog-content p {
+    padding: 15px 0 15px 0;
+}
 </style>
 
 <div class="overlay-black">
@@ -22,12 +25,12 @@
         <div class="bg-color-48525d flex flex-wrap w-full py-16 font-muli text-xl">
             <div class="w-full lg:w-1/2 mx-auto pb-12 lg:pb-0">
                 {{ with .PrevInSection }}
-                <a class="text-white no-underline opacity-75 hover:opacity-100" href="/portfolio/{{ .Slug }}"><-- {{ .Title }}</a>
+                <a class="text-white no-underline opacity-75 hover:opacity-100" href="/blog/{{ .Slug }}"><-- {{ .Title }}</a>
                 {{ end }}
             </div>
             <div class="w-full lg:w-1/2 mx-auto">
                 {{ with .NextInSection }}
-                <a class="text-white no-underline opacity-75 hover:opacity-100" href="/portfolio/{{ .Slug }}">{{ .Title }} --></a>
+                <a class="text-white no-underline opacity-75 hover:opacity-100" href="/blog/{{ .Slug }}">{{ .Title }} --></a>
                 {{ end }}
             </div>
         </div>
