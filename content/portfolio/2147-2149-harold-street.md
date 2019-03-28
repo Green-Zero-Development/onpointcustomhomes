@@ -1,12 +1,14 @@
 +++
 date = "2019-03-22T04:00:17+00:00"
-gallery_images = ["/v1553039038/OnPoint%20Custom%20Homes/P2270382.jpg", "/v1553039033/OnPoint%20Custom%20Homes/2149-Harold-Sales-Plan-Level-3.jpg", "/v1553039033/OnPoint%20Custom%20Homes/2149-Harold-Sales-Plan-Level-2.jpg", "/v1553039033/OnPoint%20Custom%20Homes/2149-Harold-Sales-Plan-Level-1.jpg"]
+floor_plans = ["/v1553284722/OnPoint%20Custom%20Homes/2149-Harold-Sales-Plan-Level-2.jpg", "/v1553284722/OnPoint%20Custom%20Homes/2149-Harold-Sales-Plan-Level-3.jpg", "/v1553284722/OnPoint%20Custom%20Homes/2149-Harold-Sales-Plan-Level-1.jpg"]
+gallery_images = []
 is_on_sale = true
 is_pending = false
 is_sold = false
 layout = "home-single"
 page_kind = "home"
 price = "929,999"
+progress_images = ["/v1553285208/OnPoint%20Custom%20Homes/P2270382.jpg"]
 slug = "/2149-harold-st"
 title = "2147 + 2149 HAROLD STREET"
 type = "page"
@@ -17,6 +19,7 @@ home_featured_image = "/v1553038968/OnPoint%20Custom%20Homes/Harold_Combined-Ren
 [home_specifics]
 bathrooms = 3.5
 bedrooms = 4
+description_of_home = ""
 how_many_cars_garage = 2
 lot_square_feet = ""
 square_feet = "3,634"
