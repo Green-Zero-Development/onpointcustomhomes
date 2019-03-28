@@ -22,6 +22,12 @@ fields:
   config:
     maxSize: '2'
   description: Does not work with an "Award Link"
+- type: datetime
+  label: Date
+  name: date
+  description: For sorting of content. Dates closer to today will be listed further
+    up the page.
+  default: 2019-03-26 04:00:00 +0000
 - type: text
   name: page_kind
   label: page_kind

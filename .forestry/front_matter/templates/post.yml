@@ -67,16 +67,16 @@ fields:
   hidden: false
   default: ''
 pages:
-- content/blog/basics-of-building-pre-wiring-smart-home-tech.md
-- content/blog/new-awards-from-the-ghba.md
-- content/blog/designing-your-perfect-built-ins-cabinets.md
 - content/blog/basics-of-building-insulation.md
-- content/blog/join-the-team-now-hiring-for-an-architectural-designer.md
-- content/blog/new-awards-from-the-texas-association-of-builders.md
-- content/blog/introducing-dec-my-room.md
-- content/blog/basics-of-building-windows.md
-- content/blog/basics-of-building-housewrap-rainscreens.md
 - content/blog/designing-in-3d-why-it-makes-a-difference.md
+- content/blog/designing-your-perfect-built-ins-cabinets.md
+- content/blog/new-awards-from-the-ghba.md
+- content/blog/basics-of-building-windows.md
+- content/blog/new-awards-from-the-texas-association-of-builders.md
+- content/blog/join-the-team-now-hiring-for-an-architectural-designer.md
+- content/blog/basics-of-building-pre-wiring-smart-home-tech.md
+- content/blog/basics-of-building-housewrap-rainscreens.md
+- content/blog/introducing-dec-my-room.md
 - content/blog/basics-of-building-foundation-fundamentals-part-2.md
 - content/blog/bringing-together-the-perfect-modern-farmhouse-design.md
 - content/blog/basics-of-building-foundation-fundamentals-part-1.md
