@@ -30,3 +30,10 @@ fields:
   default: old_award
   config:
     required: true
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+  hidden: true
+  default: Award won by On Point Custom Homes
