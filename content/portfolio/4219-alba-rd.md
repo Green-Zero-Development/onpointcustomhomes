@@ -1,12 +1,14 @@
 +++
 date = "2019-03-22T00:00:17+00:00"
-gallery_images = ["/v1553040080/OnPoint%20Custom%20Homes/4219-Alba_Site-View.jpg", "/v1553040076/OnPoint%20Custom%20Homes/4219-Alba_Sales-Plan_2nd-Floor-2.jpg", "/v1553040076/OnPoint%20Custom%20Homes/4219-Alba_Sales-Plan_1st-FLoor-2.jpg", "/v1553040071/OnPoint%20Custom%20Homes/4219-Alba_Backyard.jpg"]
+floor_plans = ["/v1553284725/OnPoint%20Custom%20Homes/4219-Alba_Sales-Plan_1st-FLoor-2.jpg", "/v1553284725/OnPoint%20Custom%20Homes/4219-Alba_Sales-Plan_2nd-Floor-2.jpg", "/v1553284727/OnPoint%20Custom%20Homes/4219-Alba_Rendering_FINAL.jpg", "/v1553284727/OnPoint%20Custom%20Homes/4219-Alba_Backyard.jpg", "/v1553284725/OnPoint%20Custom%20Homes/4219-Alba_Site-View.jpg"]
+gallery_images = []
 is_on_sale = true
 is_pending = false
 is_sold = false
 layout = "home-single"
 page_kind = "home"
 price = "1,299,999"
+progress_images = []
 slug = "/4219-alba-rd"
 title = "4219 ALBA RD"
 type = "page"
@@ -17,6 +19,7 @@ home_featured_image = "/v1553039991/OnPoint%20Custom%20Homes/4219-Alba_Rendering
 [home_specifics]
 bathrooms = 3.5
 bedrooms = 4
+description_of_home = ""
 how_many_cars_garage = 2
 lot_square_feet = "9,938"
 square_feet = "4,238"
