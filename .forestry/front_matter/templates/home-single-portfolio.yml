@@ -17,10 +17,10 @@ fields:
 - type: text
   name: slug
   label: Slug
-  description: Enter the URL were the single portfolio can be accessed (don't forget
-    to include the slash)
+  description: 'WARNING: Do not leave this blank. Please put something after the "/"'
   config:
     required: true
+  default: "/"
 - type: field_group
   name: featured_image
   label: Featured Image
@@ -103,7 +103,7 @@ fields:
 - type: text
   name: video_tour_link
   label: Video Tour Link
-  description: Paste the URL of video tours here.
+  description: 'NOTE: This must be a Youtube link.'
 - type: image_gallery
   label: Floor Plans
   name: floor_plans
@@ -116,10 +116,9 @@ fields:
 - type: datetime
   name: date
   label: Date
-  config:
-    required: true
-  description: Use this for page order if needed (dates that are closer to today will
-    be further up the page)
+  description: For sorting of content. Dates closer to today will be listed further
+    up the page.
+  default: 2019-03-26 04:00:00 +0000
 - type: text
   name: type
   label: type
