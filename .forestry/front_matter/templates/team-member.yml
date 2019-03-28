@@ -37,6 +37,7 @@ fields:
   label: Date
   description: For sorting of content. Dates closer to today will be listed further
     up the page.
+  default: 2019-03-26 04:00:00 +0000
 - type: text
   name: layout
   label: Layout
