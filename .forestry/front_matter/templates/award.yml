@@ -36,7 +36,6 @@ fields:
     required: true
   default: award
 pages:
-- content/awards/test-award.md
 - content/awards/Best of Houzz 2019.md
 - content/awards/Texas Association of Builders Excellence under 45 Award.md
 - content/awards/2018 Houston Prism.md
