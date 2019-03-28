@@ -37,5 +37,3 @@ fields:
     required: true
   hidden: true
   default: Award won by On Point Custom Homes
-pages:
-- content/old_awards/award-won-by-on-point-custom-homes.md
