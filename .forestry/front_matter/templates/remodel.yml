@@ -12,7 +12,8 @@ fields:
   label: Slug
   config:
     required: true
-  default: "/test"
+  default: "/"
+  description: 'WARNING: Do not leave this blank. Please put something after the "/"'
 - type: field_group
   name: featured_image
   label: Featured Image
