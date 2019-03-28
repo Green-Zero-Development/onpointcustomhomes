@@ -61,7 +61,6 @@ fields:
     required: true
   default: page
 pages:
-- content/remodels/test-remodel-1.md
 - content/remodels/kitchen-remodel.md
 - content/remodels/master-bath-remodel.md
 - content/remodels/hall-bath-remodel.md
