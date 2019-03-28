@@ -17,13 +17,12 @@ fields:
   label: Award PDF
   config:
     maxSize: '2'
-- name: date
+- type: datetime
+  name: date
   label: Date
-  type: datetime
-  hidden: false
-  default: ''
-  description: Use this for page order if needed (dates that are closer to today will
-    be further up the page)
+  description: For sorting of content. Dates closer to today will be listed further
+    up the page.
+  default: 2019-03-26 04:00:00 +0000
 - name: page_kind
   label: Page kind
   type: text
