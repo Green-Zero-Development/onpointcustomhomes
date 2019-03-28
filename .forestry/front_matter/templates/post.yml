@@ -68,6 +68,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/blog/test-post.md
 - content/blog/basics-of-building-insulation.md
 - content/blog/designing-in-3d-why-it-makes-a-difference.md
 - content/blog/designing-your-perfect-built-ins-cabinets.md
