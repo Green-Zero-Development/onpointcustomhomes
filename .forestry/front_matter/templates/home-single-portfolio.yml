@@ -141,6 +141,7 @@ fields:
     required: true
   default: home
 pages:
+- content/portfolio/test-home.md
 - content/portfolio/1516-blair-st.md
 - content/portfolio/1219-richelieu-lane.md
 - content/portfolio/12463-pinerock-lane.md
