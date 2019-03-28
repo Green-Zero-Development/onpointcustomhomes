@@ -30,7 +30,6 @@ fields:
     required: true
   default: testimonial
 pages:
-- content/testimonials/test-client.md
 - content/testimonials/lynda-t.md
 - content/testimonials/the-midlo-s.md
 - content/testimonials/the-bradshaw-s.md
