@@ -141,6 +141,7 @@ fields:
     required: true
   default: home
 pages:
+- content/portfolio/1516-blair-st.md
 - content/portfolio/2202-2204-driscoll-street.md
 - content/portfolio/2147-2149-harold-street.md
 - content/portfolio/816-knox-st.md
@@ -148,7 +149,6 @@ pages:
 - content/portfolio/2626-2628-greenbriar-dr.md
 - content/portfolio/2622-2624-greenbriar-dr.md
 - content/portfolio/2016-bolsover-st.md
-- content/portfolio/1516-blair-st.md
 - content/portfolio/1409-chamboard-ln.md
 - content/portfolio/12463-pinerock-lane.md
 - content/portfolio/4532-sunburst-st.md
