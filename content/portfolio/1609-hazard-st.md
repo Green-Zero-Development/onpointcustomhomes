@@ -1,7 +1,7 @@
 +++
 date = "2019-03-22T06:00:17+00:00"
-floor_plans = ["/v1553284719/OnPoint%20Custom%20Homes/1609-Hazard-1st-Floor-1.jpg", "/v1553284720/OnPoint%20Custom%20Homes/1609-Hazard-2nd-floor-1.jpg"]
-gallery_images = ["/v1553284720/OnPoint%20Custom%20Homes/1609-Hazard-4x3.jpg"]
+floor_plans = ["/v1553284719/OnPoint%20Custom%20Homes/1609-Hazard-1st-Floor-1.jpg", "/v1553284720/OnPoint%20Custom%20Homes/1609-Hazard-2nd-floor-1.jpg", "/v1553284720/OnPoint%20Custom%20Homes/1609-Hazard-4x3.jpg"]
+gallery_images = []
 is_on_sale = true
 is_pending = false
 is_sold = false
