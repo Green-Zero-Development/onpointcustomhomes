@@ -1,5 +1,5 @@
 +++
-date = "2019-03-21T15:00:17+00:00"
+date = "2019-03-29T10:00:17-05:00"
 floor_plans = ["/v1553285335/OnPoint%20Custom%20Homes/Sales-Plan-Level-2.jpg", "/v1553285333/OnPoint%20Custom%20Homes/Sales-Plan-Level-1.jpg"]
 gallery_images = ["/v1552966825/OnPoint%20Custom%20Homes/DSC_1782.jpg", "/v1553801089/OnPoint%20Custom%20Homes/DSC_1485.jpg", "/v1553801119/OnPoint%20Custom%20Homes/DSC_1600.jpg", "/v1553801104/OnPoint%20Custom%20Homes/DSC_1556.jpg", "/v1553801143/OnPoint%20Custom%20Homes/DSC_1725.jpg", "/v1553801140/OnPoint%20Custom%20Homes/DSC_1706.jpg"]
 is_on_sale = false
