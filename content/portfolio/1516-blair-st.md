@@ -1,6 +1,6 @@
 +++
 date = "2019-03-21T22:00:17+00:00"
-floor_plans = ["/v1553801261/OnPoint%20Custom%20Homes/Sales%20Plan%20-%20Level%201.jpg", "/v1553801261/OnPoint%20Custom%20Homes/Sales%20Plan%20-%20Level%202.jpg", "/v1553801287/OnPoint%20Custom%20Homes/Sales%20Plan%20-%20Level%203.jpg", "/v1553284719/OnPoint%20Custom%20Homes/1516-Blair_Plan-Cut.jpg"]
+floor_plans = ["/v1553801261/OnPoint%20Custom%20Homes/Sales%20Plan%20-%20Level%201.jpg", "/v1553801287/OnPoint%20Custom%20Homes/Sales%20Plan%20-%20Level%203.jpg", "/v1553801261/OnPoint%20Custom%20Homes/Sales%20Plan%20-%20Level%202.jpg", "/v1553284719/OnPoint%20Custom%20Homes/1516-Blair-Stair-View-10am.jpg", "/v1553284719/OnPoint%20Custom%20Homes/1516-Blair_Dining-Table.jpg", "/v1553284719/OnPoint%20Custom%20Homes/1516-Blair_Living-Space.jpg", "/v1553284719/OnPoint%20Custom%20Homes/1516-Blair_Plan-Cut.jpg"]
 gallery_images = ["/v1553040376/OnPoint%20Custom%20Homes/1516-Blair-Stair-View-10am.jpg", "/v1553040376/OnPoint%20Custom%20Homes/1516-Blair_Living-Space.jpg", "/v1553040376/OnPoint%20Custom%20Homes/1516-Blair_Dining-Table.jpg"]
 is_on_sale = true
 is_pending = false
