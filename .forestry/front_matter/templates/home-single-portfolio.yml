@@ -141,6 +141,7 @@ fields:
     required: true
   default: home
 pages:
+- content/portfolio/6255-inwood-drive.md
 - content/portfolio/4042-dumbarton-st.md
 - content/portfolio/1516-blair-st.md
 - content/portfolio/2202-2204-driscoll-street.md
@@ -157,7 +158,6 @@ pages:
 - content/portfolio/1609-hazard-st.md
 - content/portfolio/407-pinehaven-dr.md
 - content/portfolio/818-knox-st.md
-- content/portfolio/6255-inwood-drive.md
 - content/portfolio/2105-2107-park-st.md
 - content/portfolio/506-fargo-st.md
 - content/portfolio/2106-2108-dunlavy-street.md
