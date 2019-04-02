@@ -1,6 +1,6 @@
 +++
 date = "2019-03-21T23:00:17+00:00"
-floor_plans = ["/v1553040233/OnPoint%20Custom%20Homes/Sales-Plan-Level-2-w-SQFT.jpg", "/v1553040233/OnPoint%20Custom%20Homes/Sales-Plan-Level-1-w-SQFT.jpg"]
+floor_plans = ["/v1553040233/OnPoint%20Custom%20Homes/Sales-Plan-Level-2-w-SQFT.jpg", "/v1553040233/OnPoint%20Custom%20Homes/Sales-Plan-Level-1-w-SQFT.jpg", "/v1553284714/OnPoint%20Custom%20Homes/1219-Richelieu-Front-Exterior-Left-WHITE-GARAGE-DOOR.jpg"]
 gallery_images = []
 is_on_sale = true
 is_pending = false
