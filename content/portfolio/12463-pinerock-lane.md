@@ -15,7 +15,7 @@ type = "page"
 video_tour_link = ""
 [featured_image]
 alt_text = ""
-home_featured_image = "/v1553040924/OnPoint%20Custom%20Homes/DSC_8791.jpg"
+home_featured_image = "/v1554261716/OnPoint%20Custom%20Homes/DSC_8791.jpg"
 [home_specifics]
 bathrooms = 4.5
 bedrooms = 5
