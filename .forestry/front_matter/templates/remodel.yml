@@ -23,7 +23,7 @@ fields:
     name: remodel_featured_image
     label: Remodel Featured Image
     config:
-      maxSize: '2'
+      maxSize: ".5"
   - type: text
     name: alt_text
     label: Alt Text
