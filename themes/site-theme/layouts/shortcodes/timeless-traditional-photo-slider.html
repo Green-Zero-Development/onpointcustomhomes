@@ -1,6 +1,6 @@
 {{ if .IsNamedParams }}
 {{ $data := index $.Site.Data.collections.timeless_traditional_photos $.Params.data }}
 {{ range $data }}
-<div class="py-5 z-0"><div class="w-full mx-auto h-full slider-box" style="background-image:url('https://res.cloudinary.com/onpointcustomhomes/image/upload{{ .photo.photo_image }}');" aria-label="{{ if .photo.alt_text }}{{ .photo.alt_text }}{{ else }}Timeless Traditional{{ end }}"></div></div>
+<div class="py-5 z-0"><div class="w-full mx-auto h-full slider-box" style="background-image:url('https://res.cloudinary.com/onpointcustomhomes/image/upload/w_850,h_500,c_limit{{ .photo.photo_image }}');" aria-label="{{ if .photo.alt_text }}{{ .photo.alt_text }}{{ else }}Timeless Traditional{{ end }}"></div></div>
 {{ end }}
 {{- end -}}
