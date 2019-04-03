@@ -15,7 +15,7 @@ type = "page"
 video_tour_link = "https://www.youtube.com/embed/M9MUxeoUzs8?rel=0"
 [featured_image]
 alt_text = ""
-home_featured_image = "/v1553799877/OnPoint%20Custom%20Homes/emomedia.net-20.jpg"
+home_featured_image = "/v1554261401/OnPoint%20Custom%20Homes/emomedia.net-20.jpg"
 [home_specifics]
 bathrooms = 3.5
 bedrooms = 5
