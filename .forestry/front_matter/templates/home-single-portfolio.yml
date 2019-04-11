@@ -141,8 +141,8 @@ fields:
     required: true
   default: home
 pages:
-- content/portfolio/6255-inwood-drive.md
 - content/portfolio/2016-bolsover-st.md
+- content/portfolio/6255-inwood-drive.md
 - content/portfolio/4042-dumbarton-st.md
 - content/portfolio/1516-blair-st.md
 - content/portfolio/2202-2204-driscoll-street.md

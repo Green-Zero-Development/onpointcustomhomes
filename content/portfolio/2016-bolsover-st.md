@@ -15,7 +15,7 @@ type = "page"
 video_tour_link = ""
 [featured_image]
 alt_text = ""
-home_featured_image = "/v1553039229/OnPoint%20Custom%20Homes/Bolsover_Rendering_Front-Exterior_JPG.jpg"
+home_featured_image = "/v1555014651/OnPoint%20Custom%20Homes/DSC_7831%20%281%29.jpg"
 [home_specifics]
 bathrooms = 4.5
 bedrooms = 5
