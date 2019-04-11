@@ -1,7 +1,7 @@
 +++
 date = "2019-02-07T22:00:17-06:00"
 floor_plans = ["/v1553284737/OnPoint%20Custom%20Homes/Bolsover_Rendering_Front-Exterior_JPG.jpg", "/v1553284737/OnPoint%20Custom%20Homes/Bolsover_Rendering_Courtyard-2_Final_JPG.jpg", "/v1553284736/OnPoint%20Custom%20Homes/Bolsover_Rendering_Courtyard-1_Final_JPG.jpg", "/v1553284722/OnPoint%20Custom%20Homes/2016-Bolsover-Sales-Plan-Level-1-SF.jpg", "/v1553284721/OnPoint%20Custom%20Homes/2016-Bolsover-Sales-Plan-Level-2-SF.jpg"]
-gallery_images = ["/v1553039321/OnPoint%20Custom%20Homes/PB050347.jpg", "/v1553039321/OnPoint%20Custom%20Homes/PB050340.jpg", "/v1553039321/OnPoint%20Custom%20Homes/PB050338.jpg", "/v1553039321/OnPoint%20Custom%20Homes/PB050335.jpg", "/v1553039321/OnPoint%20Custom%20Homes/PB050329.jpg", "/v1553039321/OnPoint%20Custom%20Homes/PB050325.jpg", "/v1553039321/OnPoint%20Custom%20Homes/PB050318.jpg", "/v1553039321/OnPoint%20Custom%20Homes/PB050315.jpg", "/v1553039321/OnPoint%20Custom%20Homes/PB050311.jpg", "/v1553039311/OnPoint%20Custom%20Homes/PB050307.jpg", "/v1553039311/OnPoint%20Custom%20Homes/PB050305.jpg", "/v1553039311/OnPoint%20Custom%20Homes/PB050303.jpg"]
+gallery_images = []
 is_on_sale = false
 is_pending = false
 is_sold = true
