@@ -141,6 +141,7 @@ fields:
     required: true
   default: home
 pages:
+- content/portfolio/2626-2628-greenbriar-dr.md
 - content/portfolio/2016-bolsover-st.md
 - content/portfolio/6255-inwood-drive.md
 - content/portfolio/4042-dumbarton-st.md
@@ -149,7 +150,6 @@ pages:
 - content/portfolio/2147-2149-harold-street.md
 - content/portfolio/816-knox-st.md
 - content/portfolio/4219-alba-rd.md
-- content/portfolio/2626-2628-greenbriar-dr.md
 - content/portfolio/2622-2624-greenbriar-dr.md
 - content/portfolio/1409-chamboard-ln.md
 - content/portfolio/12463-pinerock-lane.md
