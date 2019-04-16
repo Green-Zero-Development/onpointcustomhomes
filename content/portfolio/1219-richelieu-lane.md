@@ -10,7 +10,7 @@ page_kind = "home"
 price = "1,100,000"
 progress_images = ["/v1553040224/OnPoint%20Custom%20Homes/P2270018.jpg", "/v1553040224/OnPoint%20Custom%20Homes/P2270032.jpg", "/v1553040233/OnPoint%20Custom%20Homes/P2270041.jpg", "/v1553040224/OnPoint%20Custom%20Homes/P2270034.jpg", "/v1553040233/OnPoint%20Custom%20Homes/P2270039.jpg", "/v1553040233/OnPoint%20Custom%20Homes/P2270069.jpg", "/v1553040233/OnPoint%20Custom%20Homes/P2270054.jpg", "/v1553040233/OnPoint%20Custom%20Homes/P2270052.jpg", "/v1553040233/OnPoint%20Custom%20Homes/P2270047.jpg"]
 slug = "/1219-richelieu-lane"
-title = "1219 RICHELIEU LANEe"
+title = "1219 RICHELIEU LANE"
 type = "page"
 video_tour_link = ""
 [featured_image]
@@ -27,7 +27,7 @@ square_feet = "4,079"
 city = "Houston"
 neighboorhood = "OAK FOREST"
 state = "TX"
-street_address = "1219 RICHELIEU LANEe"
+street_address = "1219 RICHELIEU LANE"
 zip_code = 77018
 
 +++
