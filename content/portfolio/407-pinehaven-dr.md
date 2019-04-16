@@ -10,7 +10,7 @@ page_kind = "home"
 price = ""
 progress_images = []
 slug = "/407-pinehaven-dr"
-title = "407 PINEHAVEN DR"
+title = "407 PINEHAVEN DRR"
 type = "page"
 video_tour_link = ""
 [featured_image]
@@ -27,7 +27,7 @@ square_feet = "8,450"
 city = "Houston"
 neighboorhood = "MEMORIAL"
 state = "TX"
-street_address = "407 PINEHAVEN DR"
+street_address = "407 PINEHAVEN DRR"
 zip_code = 77024
 
 +++
