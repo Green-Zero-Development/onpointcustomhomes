@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News on Example</title>
-    <link>https://onpointcustomhomes.netlify.com/blog/category/news/</link>
-    <description>Recent content in News on Example</description>
+    <title>News on On Point Custom Homes</title>
+    <link>https://onpointcustomhomes.com/blog/category/news/</link>
+    <description>Recent content in News on On Point Custom Homes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jul 2013 04:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://onpointcustomhomes.netlify.com/blog/category/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://onpointcustomhomes.com/blog/category/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GHBA Best Custom Home Elevation Winner</title>
-      <link>https://onpointcustomhomes.netlify.com/blog/ghba-best-custom-home-elevation-winner/</link>
+      <link>https://onpointcustomhomes.com/blog/ghba-best-custom-home-elevation-winner/</link>
       <pubDate>Fri, 12 Jul 2013 04:00:00 +0000</pubDate>
       
-      <guid>https://onpointcustomhomes.netlify.com/blog/ghba-best-custom-home-elevation-winner/</guid>
+      <guid>https://onpointcustomhomes.com/blog/ghba-best-custom-home-elevation-winner/</guid>
       <description>On Point Custom Homes is proud to share the news of our 2009 GHBA award for Houston’s Best Custom Home Elevation for our recently completed design at 2246 Branard!! Earl recently accepted this award on 9/12/09 at a formal event hosted by the GHBA. We are truly excited and honored to be the 2009 recipient of this prestigious local award!</description>
     </item>
     
     <item>
       <title>2424 Hazard Review</title>
-      <link>https://onpointcustomhomes.netlify.com/blog/2424-hazard-review/</link>
+      <link>https://onpointcustomhomes.com/blog/2424-hazard-review/</link>
       <pubDate>Sat, 22 Jun 2013 04:00:00 +0000</pubDate>
       
-      <guid>https://onpointcustomhomes.netlify.com/blog/2424-hazard-review/</guid>
+      <guid>https://onpointcustomhomes.com/blog/2424-hazard-review/</guid>
       <description>Review of our latest smarthome at 2424 Hazard by KTRH connected reporter, Michelle Merhar!</description>
     </item>
     
