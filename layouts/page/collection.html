@@ -8,13 +8,13 @@
 
 <section id="top-title" class="flex text-center pt-20 pb-12">
     <div class="w-2/3 mx-auto">
-        <h1 class="pb-3 font-roboto uppercase text-3xl lg:text-7xl text-white font-thin tracking-wide top-title">{{ .Page.Params.pageTitle }}</h1>
+        <h1 class="pb-3 font-roboto uppercase text-3xl lg:text-7xl text-white font-thin tracking-wide top-title">{{ .Params.pageTitle }}</h1>
     </div>
 </section>
 
 <section id="page-details" class="flex flex-wrap text-center">
     <div class="bg-white flex flex-wrap w-5/6 lg:w-3/4 text-center mx-auto py-10 page-inner-container">
-        <h2 class="w-full tracking-wide pb-4 font-muli text-grey font-thin text-xl uppercase">{{ .Page.Params.pageTitle }}</h2>
+        <h2 class="w-full tracking-wide pb-4 font-muli text-grey font-thin text-xl uppercase">{{ .Params.pageTitle }}</h2>
         <a class="w-full lg:w-1/3 mx-auto" href="/collection">
         <button class="font-muli font-sm text-grey hover:text-white font-bold uppercase text-center py-3 px-5 mb-10 border-2 hover:bg-grey hover:border-grey collections-button"><i class="fas fa-long-arrow-alt-left"></i> All Collections</button>
         </a>
