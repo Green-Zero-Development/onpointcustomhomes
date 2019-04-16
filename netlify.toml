@@ -3,10 +3,10 @@ publish = "public"
 command = "hugo"
 
 [context.production.environment]
-HUGO_VERSION = "0.55.0"
-GO_VERSION = "1.12.2"
+HUGO_VERSION = "0.55.0-4333CC77"
+GO_VERSION = "go1.12.2"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.55.0"
+HUGO_VERSION = "0.55.0-4333CC77"
