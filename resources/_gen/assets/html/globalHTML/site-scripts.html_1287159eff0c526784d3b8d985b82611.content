@@ -1,0 +1,1 @@
+<script defer src=http://localhost:1313/dist/js/app.cb5dda52c09e6d0272b5.js></script><script>var siteFunctions=new Vue({el:'#header-functions',data:{menuToggle:false,architecturaltoggle:false,abouttoggle:false},});</script>

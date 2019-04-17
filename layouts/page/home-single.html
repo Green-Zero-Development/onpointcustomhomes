@@ -8,7 +8,7 @@
 
 <section id="page-details" class="flex flex-wrap text-center pt-24">
     <div class="container bg-white flex flex-wrap w-full lg:w-5/6 text-center mx-auto page-inner-container">
-                <div class="flex flex-wrap w-full mx-auto relative h-homes-available-inner" style="background-image: url('{{ .Site.Params.tracking.cloudinary_url }}/{{ .Params.Featured_image.Home_featured_image }}');background-size: cover;background-repeat:no-repeat;background-position-y:center;">
+                <div class="flex flex-wrap w-full mx-auto relative h-homes-available-inner" style="background-image: url('{{ .Site.Params.tracking.cloudinary_url }}/w_1053,h_800{{ .Params.Featured_image.Home_featured_image }}');background-size: cover;background-repeat:no-repeat;background-position-y:center;">
                     <div class="flex w-full h-homes-available-inner items-center overlay-black-homes">
                 {{ if eq .Params.Is_sold true }}
                     <img class="absolute pin-r pin-t -mt-1 -mr-1" src="{{ .Site.Params.tracking.cloudinary_url }}/v1552594741/OnPoint%20Custom%20Homes/sold-flag.png" width="100px">
@@ -151,8 +151,8 @@
     </a>
 </section>
 
-{{ partial "slider-code-homes" . }}
-{{ partial "social-media-icons.html" . }}
+{{ partial "utilities/slider-code-homes" . }}
+{{ partial "utilities/social-media-icons.html" . }}
 
 </div>
 
