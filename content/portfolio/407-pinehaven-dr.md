@@ -27,7 +27,7 @@ square_feet = "8,450"
 city = "Houston"
 neighboorhood = "MEMORIAL"
 state = "TX"
-street_address = "407 PINEHAVEN DRr"
+street_address = "407 PINEHAVEN DR"
 zip_code = 77024
 
 +++
