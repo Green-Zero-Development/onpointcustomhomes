@@ -2,8 +2,9 @@
 
     <body class="background-image {{ .Param "page-status" }} {{ if eq .Params.page_kind "home" }}home-portfolio-background{{ else }}{{ end }} {{ if eq .Params.Layout "blog" }}blog-background-image{{ else }}{{ end }}">
 
-    {{ block "header" . }}{{ partial "header.html" .}}{{ end }}
+    {{ block "header" . }}{{ $headerHTML := resources.Get "globalhtml/header.html" | resources.ExecuteAsTemplate "miniHead.html" . }}{{ $miniHead := $headerHTML | resources.Minify }}{{ $miniHead.Content | safeHTML }}{{ end }}
     <main role="main">
+    {{ partial "utilities/backgroundImages.html" . }}
 <div class="flex flex-wrap">
   {{ range .Pages }}
   <div class="w-5/6 lg:w-2/3 mx-auto text-left py-5 lg:py-16 lg:px-12 border-b-4">
@@ -24,7 +25,7 @@
   {{ end }}
   </div>
     </main>
-    {{ block "footer" . }}{{ partial "footer.html" . }}{{ end }}
-    {{ block "scripts" . }}{{ partial "site-scripts.html" . }}{{ end }}
+    {{ block "footer" . }}{{ $footerHTML := resources.Get "globalhtml/footer.html" | resources.ExecuteAsTemplate "miniFooter.html" . }}{{ $miniFooter := $footerHTML | resources.Minify }}{{ $miniFooter.Content | safeHTML }}{{ end }}
+    {{ block "scripts" . }}{{ $scriptsHTML := resources.Get "globalhtml/site-scripts.html" | resources.ExecuteAsTemplate "miniScripts.html" . }}{{ $miniScripts := $scriptsHTML | resources.Minify }}{{ $miniScripts.Content | safeHTML }}{{ end }}
   </body>
 </html>
