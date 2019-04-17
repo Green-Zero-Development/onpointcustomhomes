@@ -9,7 +9,7 @@
 <a id="logo" class="w-1/2 md:w-1/3 lg:w-1/4 xl:w-48 mr-auto" href="/">
   <img class="" src="{{ .Site.Params.logos.logo }}">
 </a>
-{{ $navHTML := resources.Get "globalHTML/site-navigation.html" | resources.ExecuteAsTemplate "mininav.html" . }}{{ $miniNav := $navHTML | resources.Minify }}{{ $miniNav.Content | safeHTML }}
+{{ $navHTML := resources.Get "site-navigation.html" | resources.ExecuteAsTemplate "mininav.html" . }}{{ $miniNav := $navHTML | resources.Minify }}{{ $miniNav.Content | safeHTML }}
 <div class="hidden lg:inline-flex w-48 hover:text-2xl header-social-links">
   <div class="py-2 mx-auto text-white">
     <a class="text-white no-underline hover:opacity-75" href="{{ .Site.Params.social_links.facebook}}" target="_blank">
