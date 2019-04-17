@@ -1,14 +1,14 @@
 +++
 date = "2019-03-02T16:00:17-06:00"
 floor_plans = ["/v1553284723/OnPoint%20Custom%20Homes/2626-GREENBRIAR-Sales-Plan-Level-2.jpg", "/v1553284724/OnPoint%20Custom%20Homes/2626-GREENBRIAR-Sales-Plan-Level-3.jpg", "/v1553284724/OnPoint%20Custom%20Homes/2626-GREENBRIAR-Sales-Plan-Level-1.jpg"]
-gallery_images = ["/v1553037778/OnPoint%20Custom%20Homes/P2270378.jpg", "/v1553037778/OnPoint%20Custom%20Homes/P2270373.jpg", "/v1553037777/OnPoint%20Custom%20Homes/P2270367.jpg", "/v1553037777/OnPoint%20Custom%20Homes/P2270364.jpg", "/v1553037777/OnPoint%20Custom%20Homes/P2270362.jpg", "/v1553037777/OnPoint%20Custom%20Homes/P2270361.jpg", "/v1553037777/OnPoint%20Custom%20Homes/P2270355.jpg", "/v1553037777/OnPoint%20Custom%20Homes/P2270348.jpg", "/v1553037777/OnPoint%20Custom%20Homes/P2270344.jpg", "/v1553037777/OnPoint%20Custom%20Homes/P2270342.jpg", "/v1553037778/OnPoint%20Custom%20Homes/P2270335.jpg", "/v1553037777/OnPoint%20Custom%20Homes/P2270333.jpg"]
+gallery_images = []
 is_on_sale = true
 is_pending = false
 is_sold = false
 layout = "home-single"
 page_kind = "home"
 price = "899,999"
-progress_images = []
+progress_images = ["/v1555524394/OnPoint%20Custom%20Homes/IMG_6632.jpg", "/v1555524394/OnPoint%20Custom%20Homes/IMG_6637.jpg", "/v1555524392/OnPoint%20Custom%20Homes/IMG_6659.jpg", "/v1555524392/OnPoint%20Custom%20Homes/IMG_6651.jpg", "/v1555524392/OnPoint%20Custom%20Homes/IMG_6645.jpg", "/v1555524392/OnPoint%20Custom%20Homes/IMG_6649.jpg", "/v1555524392/OnPoint%20Custom%20Homes/IMG_6644.jpg", "/v1555524392/OnPoint%20Custom%20Homes/IMG_6653.jpg", "/v1555524391/OnPoint%20Custom%20Homes/IMG_6685.jpg", "/v1555524392/OnPoint%20Custom%20Homes/IMG_6682.jpg", "/v1555524391/OnPoint%20Custom%20Homes/IMG_6677.jpg", "/v1555524392/OnPoint%20Custom%20Homes/IMG_6669.jpg", "/v1555524392/OnPoint%20Custom%20Homes/IMG_6662.jpg", "/v1555524392/OnPoint%20Custom%20Homes/IMG_6654.jpg"]
 slug = "/2626-greenbriar-dr"
 title = "2626 + 2628 GREENBRIAR DR"
 type = "page"
