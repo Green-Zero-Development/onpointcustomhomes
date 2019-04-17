@@ -1,14 +1,14 @@
 +++
 date = "2019-03-19T20:00:17-05:00"
 floor_plans = ["/v1553805538/OnPoint%20Custom%20Homes/818%20Knox%20-%20Sales%20Plan%20-%20Level%201.jpg", "/v1553805537/OnPoint%20Custom%20Homes/818%20Knox%20-%20Sales%20Plan%20-%20Level%202.jpg", "/v1553805537/OnPoint%20Custom%20Homes/818%20Knox%20-%20Sales%20Plan%20-%20Level%203.jpg"]
-gallery_images = ["/v1553039504/OnPoint%20Custom%20Homes/P2270208.jpg", "/v1553039503/OnPoint%20Custom%20Homes/P2270205.jpg", "/v1553039503/OnPoint%20Custom%20Homes/P2270167.jpg", "/v1553039503/OnPoint%20Custom%20Homes/P2270126.jpg"]
+gallery_images = []
 is_on_sale = true
 is_pending = false
 is_sold = false
 layout = "home-single"
 page_kind = "home"
 price = "749,999"
-progress_images = []
+progress_images = ["/v1555525234/OnPoint%20Custom%20Homes/IMG_6435.jpg", "/v1555525076/OnPoint%20Custom%20Homes/IMG_6445.jpg", "/v1555525233/OnPoint%20Custom%20Homes/IMG_6446.jpg", "/v1555525230/OnPoint%20Custom%20Homes/IMG_6476.jpg", "/v1555525231/OnPoint%20Custom%20Homes/IMG_6474.jpg", "/v1555525231/OnPoint%20Custom%20Homes/IMG_6470.jpg", "/v1555525229/OnPoint%20Custom%20Homes/IMG_6465.jpg", "/v1555525231/OnPoint%20Custom%20Homes/IMG_6463.jpg", "/v1555525228/OnPoint%20Custom%20Homes/IMG_6482.jpg", "/v1555525229/OnPoint%20Custom%20Homes/IMG_6491.jpg", "/v1555525229/OnPoint%20Custom%20Homes/IMG_6487.jpg"]
 slug = "/818-knox-st"
 title = "818 KNOX ST"
 type = "page"
