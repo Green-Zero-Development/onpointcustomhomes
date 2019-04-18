@@ -145,3 +145,5 @@ insta = "https://www.instagram.com/onpointcustomhomes/"
 houzz = "https://www.houzz.com/pro/onpointcustomhomes-/on-point-custom-homes"
 linkedin = "https://www.linkedin.com/company/on-point-custom-homes"
 pinterest = "https://www.pinterest.com/OnPointCustom/"
+[params.publishing_settings]
+site_in_production = true

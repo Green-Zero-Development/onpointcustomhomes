@@ -1,0 +1,71 @@
+<style>
+
+</style>
+
+<div class="overlay-black">
+
+<section id="top-title" class="flex text-center pt-20 pb-12">
+    <div class="w-2/3 mx-auto">
+        <h1 class="pb-3 font-roboto uppercase text-3xl lg:text-7xl text-white font-thin tracking-wide top-title">{{ .Params.pageTitle }}</h1>
+    </div>
+</section>
+
+<section id="page-details" class="flex flex-wrap text-center">
+    <div class="container bg-white flex flex-wrap w-5/6 lg:w-3/4 mx-auto">
+        <div class="hidden bg-grey lg:flex flex-wrap w-full font-muli text-white">
+            <a href="/about-us" class="w-1/5 mx-auto text-center py-6 text-white no-underline hover:bg-grey-dark hover:cursor-pointer">
+                <p>About</p>
+            </a>
+            <a href="/about-us/team" class="w-1/5 mx-auto text-center py-6 text-white no-underline hover:bg-grey-dark hover:cursor-pointer">
+                <p>Our Team</p>
+            </a>
+            <a href="/about-us/design-build" class="w-1/5 mx-auto text-center py-6 text-white no-underline hover:bg-grey-dark hover:cursor-pointer">
+                <p>Process</p>
+            </a>
+            <a href="/about-us/recognition" class="w-1/5 mx-auto text-center py-6 text-white no-underline hover:bg-grey-dark hover:cursor-pointer">
+                <p>Recognitions & Awards</p>
+            </a>
+            <a href="/about-us/testimonials" class="w-1/5 mx-auto text-center py-6 text-white no-underline hover:bg-grey-dark hover:cursor-pointer">
+                <p>Testimonials & Reviews</p>
+            </a>
+        </div>
+        <div class="flex flex-wrap w-full items-center text-center pt-12">
+            <h2 class="w-full pb-5 px-5 lg:px-0 font-muli text-color-818e9c text-xl uppercase font-normal border-b-4">AWARDS</h2>
+            {{ range (where .Site.Pages "Params.page_kind" "award") }}
+            <a href="{{ if .Params.award_link }}{{ .Params.award_link }}{{ else }}{{ end }}{{ if .Params.award_pdf }}{{ .Params.award_pdf }}{{ else }}{{ end }}" target="_blank" class="w-full md:w-1/2 lg:w-1/3 mx-auto text-center no-underline p-5">
+                {{ if .Params.award_photo }}
+                    <img src="{{ .Site.Params.tracking.cloudinary_url }}{{ .Params.award_photo }}" width="50%">
+                    {{ else }}
+                {{ end }}
+                <h3 class="pb-4 font-muli text-color-333333 text-xl font-thin">{{ .Title }}</h3>
+            </a>
+            {{ end }}
+        </div>
+        <div class="flex flex-wrap w-full text-center pt-12">
+            {{ range (where .Site.Pages "Params.page_kind" "old_award") }}
+            <a href="{{ if .Params.award_link }}{{ .Params.award_link }}{{ else }}{{ end }}{{ if .Params.award_pdf }}{{ .Params.award_pdf }}{{ else }}{{ end }}" target="_blank" class="w-full md:w-1/4 lg:w-1/5 mx-auto text-center no-underline p-5 opacity-50 hover:opacity-100">
+                {{ if .Params.award_photo }}
+                    <img src="{{ .Site.Params.tracking.cloudinary_url }}{{ .Params.award_photo }}" width="70%">
+                    {{ else }}
+                {{ end }}
+            </a>
+            {{ end }}
+        </div>
+        <div class="flex flex-wrap w-full text-center py-12">
+            <h2 class="w-full pb-5 px-5 lg:px-0 font-muli text-color-818e9c text-xl uppercase font-normal border-b-4">Press</h2>
+            {{ range (where .Site.Pages "Params.page_kind" "press") }}
+            <div class="w-3/4 lg:w-1/2 mx-auto text-center py-5 lg:py-16 lg:px-12">
+                <a href="{{ .Params.press_link }}" target="_blank" class="mx-auto no-underline h-home hover:cursor-pointer">
+                <h2 class="pb-0 font-muli text-color-818e9c text-2xl roman font-normal">{{ .Title }}</h2>
+                <p class="pt-0 font-muli text-color-4f5052 text-base font-thin leading-normal">{{ .Params.name_of_publication }}</p>
+                <button class="font-muli text-sm text-grey hover:text-white font-bold uppercase text-center py-3 px-5 mt-5 border-2 hover:bg-grey hover:border-grey collections-button">Read Article</button>
+                </a>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+{{ partial "utilities/social-media-icons.html" . }}
+
+</div>
