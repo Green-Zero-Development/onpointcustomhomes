@@ -10,38 +10,7 @@
   <img class="" src="{{ .Site.Params.logos.logo }}">
 </a>
 
-<nav id="navigation-wrapper" class="w-1/3 lg:w-2/3 ml-auto lg:ml-0 lg:mx-auto text-right">
-
-<div class="w-full text-left lg:text-center items-center desktop-menu">
-  {{ $currentNode := . }}
-  {{ range .Site.Menus.desktop }}
-  <a class="{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} active{{end}} inline w-1/6 py-1 px-2 font-muli text-xxs xl:text-xs text-white no-underline uppercase desktop-menu-item {{ lower .Name | urlize }}-menu" href="{{.URL}}"><span class="mx-auto">{{ .Name }}</span>{{ .Post }}</a>
-  {{ end }}
-  <div class="xl:ml-10 xxl:ml-32 text-left py-3 px-5 architectural-design-dropdown">
-    {{ $currentNode := . }}
-    {{ range .Site.Menus.architecturaldesign }}
-    <div class="block py-2">
-    <a class="{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} active{{end}} text-color-4f5052 no-underline hover:underline mx-auto desktop-menu-item" href="{{.URL}}">{{ .Name }}</a>
-    </div>
-    {{ end }}
-  </div>
-  <div class="ml-about-menu xl:ml-about-menu-xl xxl:ml-about-menu-final text-left py-3 px-5 about-us-dropdown">
-    {{ $currentNode := . }}
-    {{ range .Site.Menus.aboutus }}
-    <div class="block py-2">
-    <a class="{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} active{{end}} text-color-4f5052 no-underline hover:underline mx-auto desktop-menu-item" href="{{.URL}}">{{ .Name }}</a>
-    </div>
-    {{ end }}
-  </div>
-</div>
-
-<div id="mobile-menu" class="">
-  <div class="mobile-menu-button ml-auto text-3xl md:text-4xl">
-    <a class="" href="#"><button v-on:click="menuToggle = !menuToggle" class="text-white"><i class="fas fa-bars"></i></button></a>
-  </div>
-</div>
-
-</nav>
+{{ partial "siteNavi.html" . }}
 
 <div class="hidden lg:inline-flex w-48 hover:text-2xl header-social-links">
   <div class="py-2 mx-auto text-white">

@@ -1,9 +1,8 @@
 ---
 type: page
-layout: unique
+layout: recognitions-and-awards
 title: 'RECOGNITIONS & AWARDS'
 params:
-miniPath: '/pagehtml/recognitions-and-awards'
 page-status: 'recognitions-and-awards'
 pageImage: '/v1552866895/OnPoint%20Custom%20Homes/120-1400x788.jpg'
 pageTitle: 'RECOGNITIONS & AWARDS'

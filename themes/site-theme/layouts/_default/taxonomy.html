@@ -2,7 +2,7 @@
 
     <body class="background-image {{ .Param "page-status" }} {{ if eq .Params.page_kind "home" }}home-portfolio-background{{ else }}{{ end }} {{ if eq .Params.Layout "blog" }}blog-background-image{{ else }}{{ end }}">
 
-    {{ block "header" . }}{{ $headerHTML := resources.Get "globalhtml/header.html" | resources.ExecuteAsTemplate "miniHead.html" . }}{{ $miniHead := $headerHTML | resources.Minify }}{{ $miniHead.Content | safeHTML }}{{ end }}
+    {{ block "header" . }}{{ partial "header.html" . }}{{ end }}
     <main role="main">
     {{ partial "utilities/backgroundImages.html" . }}
 <div class="flex flex-wrap">
@@ -25,7 +25,7 @@
   {{ end }}
   </div>
     </main>
-    {{ block "footer" . }}{{ $footerHTML := resources.Get "globalhtml/footer.html" | resources.ExecuteAsTemplate "miniFooter.html" . }}{{ $miniFooter := $footerHTML | resources.Minify }}{{ $miniFooter.Content | safeHTML }}{{ end }}
-    {{ block "scripts" . }}{{ $scriptsHTML := resources.Get "globalhtml/site-scripts.html" | resources.ExecuteAsTemplate "miniScripts.html" . }}{{ $miniScripts := $scriptsHTML | resources.Minify }}{{ $miniScripts.Content | safeHTML }}{{ end }}
+    {{ block "footer" . }}{{ partial "footer.html" . }}{{ end }}
+    {{ block "scripts" . }}{{ partial "siteScripts.html" . }}{{ end }}
   </body>
 </html>
