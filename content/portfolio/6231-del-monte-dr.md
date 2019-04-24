@@ -7,7 +7,7 @@ is_pending = false
 is_sold = false
 layout = "home-single"
 page_kind = "home"
-price = "1,775,000"
+price = "1,749,000"
 progress_images = []
 slider_html = "&lt;div class='flex flex-wrap pt-5 slider-nav'&gt;{{&lt; home-portfolio-slider-controls data=\"gallery_images\" &gt;}}&lt;/div&gt;<br>&lt;div class='slider bg-grey-lighter w-full py-5 mb-5 h-auto'&gt;{{&lt; home-portfolio-slider data=\"gallery_images\" &gt;}}&lt;/div&gt;"
 slug = "/6231-del-monte-dr"
