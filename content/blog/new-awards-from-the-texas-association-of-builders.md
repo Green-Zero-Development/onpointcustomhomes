@@ -6,7 +6,7 @@ excerpt = "If you follow the adventures of On Point on Facebook and Instagram, y
 layout = "blog"
 slug = "/new-awards-from-the-texas-association-of-builders"
 title = "New Awards from the Texas Association of Builders"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = "/v1553366252/OnPoint%20Custom%20Homes/IMG_2361-1400x1050.jpg"

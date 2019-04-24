@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>3d renderings on On Point Custom Homes</title><link>https://onpointcustomhomes.com/blog/tag/3d-renderings/</link><description>Recent content in 3d renderings on On Point Custom Homes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 17 Jul 2018 04:00:00 +0000</lastBuildDate><atom:link href="https://onpointcustomhomes.com/blog/tag/3d-renderings/index.xml" rel="self" type="application/rss+xml"/><item><title>Designing in 3D Why it Makes a Difference</title><link>https://onpointcustomhomes.com/blog/designing-in-3d-why-it-makes-a-difference/</link><pubDate>Tue, 17 Jul 2018 04:00:00 +0000</pubDate><guid>https://onpointcustomhomes.com/blog/designing-in-3d-why-it-makes-a-difference/</guid><description>Too often people are surprised to hear we offer in-house architectural design services in addition to building and remodeling. Not only do we offer architecture services, but we utilize a 3D design software that most residential teams don’t take advantage of. Designing all of our plans in 3D is a win-win for everyone involved as it brings a set of plans to life before an ounce of dirt is moved.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3d renderings on On Point Custom Homes</title>
+    <link>https://onpointcustomhomes.com/blog/tag/3d-renderings/</link>
+    <description>Recent content in 3d renderings on On Point Custom Homes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Jul 2018 04:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://onpointcustomhomes.com/blog/tag/3d-renderings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Designing in 3D Why it Makes a Difference</title>
+      <link>https://onpointcustomhomes.com/blog/designing-in-3d-why-it-makes-a-difference/</link>
+      <pubDate>Tue, 17 Jul 2018 04:00:00 +0000</pubDate>
+      
+      <guid>https://onpointcustomhomes.com/blog/designing-in-3d-why-it-makes-a-difference/</guid>
+      <description>Too often people are surprised to hear we offer in-house architectural design services in addition to building and remodeling. Not only do we offer architecture services, but we utilize a 3D design software that most residential teams don’t take advantage of. Designing all of our plans in 3D is a win-win for everyone involved as it brings a set of plans to life before an ounce of dirt is moved.</description>
+    </item>
+    
+  </channel>
+</rss>

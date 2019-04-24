@@ -6,7 +6,7 @@ excerpt = "Our team is already thinking about how the emergence of 5G technology
 layout = "blog"
 slug = "/basics-of-building-pre-wiring-smart-home-tech"
 title = "Basics of Building: Pre-Wiring + Smart Home Tech"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = "/v1553369201/OnPoint%20Custom%20Homes/IMG_0925-1400x933.jpg"

@@ -6,7 +6,7 @@ excerpt = "You may have seen a builder with initials after their name on a busin
 layout = "blog"
 slug = "/why-are-nahb-designations-important"
 title = "Why are NAHB designations important?"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = ""

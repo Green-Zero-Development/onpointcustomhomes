@@ -6,7 +6,7 @@ excerpt = "In Part II of our IBS design trends blog series, we’re sharing the 
 layout = "blog"
 slug = "/design-trends-straight-international-builder-kitchen-bath-show-part-2"
 title = "Design Trends Straight from the International Builder, Kitchen + Bath Show: Part 2"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = "/v1553280454/OnPoint%20Custom%20Homes/IMG_4286-768x1024.jpg"

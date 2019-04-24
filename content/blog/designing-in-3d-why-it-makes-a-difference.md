@@ -6,7 +6,7 @@ excerpt = "Designing all of our plans in 3D is a win-win for everyone involved a
 layout = "blog"
 slug = "/designing-in-3d-why-it-makes-a-difference"
 title = "Designing in 3D Why it Makes a Difference"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = "/v1553364345/OnPoint%20Custom%20Homes/98137dcb-505b-4dad-bbab-33cc4d37c881-768x430.png"

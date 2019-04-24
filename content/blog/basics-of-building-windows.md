@@ -6,7 +6,7 @@ excerpt = "Windows play an important role in your home as their various styles, 
 layout = "blog"
 slug = "/basics-of-building-windows"
 title = "Basics of Building: Windows"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = "/v1553284735/OnPoint%20Custom%20Homes/Back-Elevation-3.jpg"

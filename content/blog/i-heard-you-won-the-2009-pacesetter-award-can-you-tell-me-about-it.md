@@ -6,7 +6,7 @@ excerpt = "On Point Custom Homes was the recipient of the 2009 Pacesetter Award 
 layout = "blog"
 slug = "/i-heard-you-won-the-2009-pacesetter-award-can-you-tell-me-about-it"
 title = "I heard you won the 2009 Pacesetter Award, can you tell me about it?"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = ""

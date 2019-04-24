@@ -6,7 +6,7 @@ excerpt = "On Point Custom Homes has built several Houston custom homes within t
 layout = "blog"
 slug = "/do-you-build-in-briargrove-neighborhood-in-houston-tx"
 title = "Do you build in Briargrove neighborhood in Houston, TX?"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = ""

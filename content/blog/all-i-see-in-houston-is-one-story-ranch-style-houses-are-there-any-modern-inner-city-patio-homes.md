@@ -6,7 +6,7 @@ excerpt = "There are a great number of different styles and architectural design
 layout = "blog"
 slug = "/all-i-see-in-houston-is-one-story-ranch-style-houses-are-there-any-modern-inner-city-patio-homes"
 title = "All I see in Houston is one story ranch style houses, are there any modern inner city Patio Homes?"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = ""

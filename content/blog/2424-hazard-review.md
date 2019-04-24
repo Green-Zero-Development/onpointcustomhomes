@@ -6,7 +6,7 @@ excerpt = "Review of our latest smarthome at 2424 Hazard by KTRH connected repor
 layout = "blog"
 slug = "/2424-hazard-review"
 title = "2424 Hazard Review"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = ""

@@ -6,7 +6,7 @@ excerpt = "On Point is known for our custom design + build program; however, we 
 layout = "blog"
 slug = "/briargrove-southern-charm-remodel-part-1"
 title = "Briargrove Southern Charm Remodel: Part 1"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = "/v1553355998/OnPoint%20Custom%20Homes/DSC_8451.jpg"

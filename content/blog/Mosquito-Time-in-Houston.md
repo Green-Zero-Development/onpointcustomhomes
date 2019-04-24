@@ -6,7 +6,7 @@ excerpt = "Wow, we have really had some rain in Houston this past week. With tha
 layout = "blog"
 slug = "/mosquito-time-in-houston"
 title = "Mosquito Time in Houston!"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = ""

@@ -6,7 +6,7 @@ excerpt = "On Point Custom Homes is proud to share the news of our 2009 GHBA awa
 layout = "blog"
 slug = "/ghba-best-custom-home-elevation-winner"
 title = "GHBA Best Custom Home Elevation Winner"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = ""

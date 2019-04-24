@@ -6,7 +6,7 @@ excerpt = "We all know about the Houston, TX heat!! The primary reason to instal
 layout = "blog"
 slug = "/what-is-a-radiant-barrier-on-residential-roof-decking"
 title = "What is a radiant barrier on residential roof decking?"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = ""

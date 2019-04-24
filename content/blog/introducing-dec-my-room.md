@@ -6,7 +6,7 @@ excerpt = "Throughout our history, we’ve worked with a variety of local and na
 layout = "blog"
 slug = "/introducing-dec-my-room"
 title = "Introducing Dec My Room"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = "/v1553365834/OnPoint%20Custom%20Homes/17201242_733044670203347_9198280239287779446_n.png"

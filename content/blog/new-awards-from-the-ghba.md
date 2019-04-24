@@ -6,7 +6,7 @@ excerpt = "The office is looking a bit shinier this week! As many of you know, O
 layout = "blog"
 slug = "/new-awards-from-the-ghba"
 title = "NEW AWARDS FROM THE GHBA!"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = "/v1553368858/OnPoint%20Custom%20Homes/Screen-Shot-2018-10-08-at-11.04.11-AM.jpg"

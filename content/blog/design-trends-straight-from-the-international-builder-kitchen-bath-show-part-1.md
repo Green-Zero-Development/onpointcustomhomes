@@ -6,7 +6,7 @@ excerpt = "At On Point Custom Homes, we truly believe in exploring new ideas and
 layout = "blog"
 slug = "/design-trends-straight-international-builder-kitchen-bath-show-part-1"
 title = "Design Trends Straight from the International Builder, Kitchen + Bath Show: Part 1"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = "/v1553279528/OnPoint%20Custom%20Homes/IMG_5507-1400x1050.jpg"

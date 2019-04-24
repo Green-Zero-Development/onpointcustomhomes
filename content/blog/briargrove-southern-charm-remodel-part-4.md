@@ -6,7 +6,7 @@ excerpt = "In our final reveal of this major remodel project, we’re talking al
 layout = "blog"
 slug = "/briargrove-southern-charm-remodel-part-4"
 title = "Briargrove Southern Charm Remodel: Part 4"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = "/v1553357953/OnPoint%20Custom%20Homes/DSC_8584.jpg"

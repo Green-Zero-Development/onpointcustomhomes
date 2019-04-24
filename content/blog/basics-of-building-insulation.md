@@ -6,7 +6,7 @@ excerpt = "We’ve officially gotten through the worst of Houston’s hot and hu
 layout = "blog"
 slug = "/basics-of-building-insulation"
 title = "Basics of Building: Insulation"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = "/v1553367688/OnPoint%20Custom%20Homes/spray-foam-insulation-min.jpg"

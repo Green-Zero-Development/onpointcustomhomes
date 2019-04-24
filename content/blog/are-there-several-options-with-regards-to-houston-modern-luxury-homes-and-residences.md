@@ -6,7 +6,7 @@ excerpt = "Houston modern luxury homes, townhomes, patio homes and condos offer 
 layout = "blog"
 slug = "/are-there-several-options-with-regards-to-houston-modern-luxury-homes-and-residences"
 title = "Are there several options with regards to Houston modern luxury homes and residences?"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = ""

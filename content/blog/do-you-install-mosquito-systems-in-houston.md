@@ -6,7 +6,7 @@ excerpt = "Summer in Houston usually brings homeowners outside to take in the pl
 layout = "blog"
 slug = "/do-you-install-mosquito-systems-in-houston"
 title = "Do you install mosquito systems in Houston?"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = ""

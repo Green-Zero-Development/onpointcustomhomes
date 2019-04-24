@@ -6,7 +6,7 @@ excerpt = "Houston itself is really a very old city, first founded in 1836 and t
 layout = "blog"
 slug = "/what-defines-a-houston-modern-home"
 title = "What defines a Houston modern home?"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = ""

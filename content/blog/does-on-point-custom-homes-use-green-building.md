@@ -6,7 +6,7 @@ excerpt = "On Point Custom Homes is proud to have a staff member, Earl Correll, 
 layout = "blog"
 slug = "/does-on-point-custom-homes-use-green-building"
 title = "Does On Point Custom Homes use green building?"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = ""

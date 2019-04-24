@@ -6,7 +6,7 @@ excerpt = "We’re continuing the great debate of foundations with everything yo
 layout = "blog"
 slug = "/basics-of-building-foundation-fundamentals-part-2"
 title = "Basics of Building: Foundation Fundamentals Part 2"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = "/v1553362376/OnPoint%20Custom%20Homes/IMG_2142-e1529337027315.jpg"

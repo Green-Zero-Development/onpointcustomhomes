@@ -6,7 +6,7 @@ excerpt = "The area surrounding the River Oaks Shopping Center is home to many O
 layout = "blog"
 slug = "/i-see-a-lot-of-your-signs-in-the-river-oaks-shopping-center-area-how-much-do-you-build-there"
 title = "I see a lot of your signs in the River Oaks Shopping Center area...how much do you build there?"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = ""

@@ -6,7 +6,7 @@ excerpt = "We recently hosted the most colorful backyard party anyone has ever s
 layout = "blog"
 slug = "/the-perfect-party-ready-backyard"
 title = "The Perfect Party Ready Backyard"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = "/v1553361431/OnPoint%20Custom%20Homes/e4aa8b1c-1fe1-44a4-9e90-73d4b54f76c6.jpg"

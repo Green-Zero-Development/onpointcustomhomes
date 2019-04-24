@@ -6,7 +6,7 @@ excerpt = "Who doesn’t love a kitchen makeover?! This Briargrove home had a go
 layout = "blog"
 slug = "/briargrove-southern-charm-remodel-part-2"
 title = "Briargrove Southern Charm Remodel: Part 2"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = "/v1553356518/OnPoint%20Custom%20Homes/DSC_8524.jpg"

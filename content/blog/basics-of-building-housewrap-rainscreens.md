@@ -6,7 +6,7 @@ excerpt = "In this week’s Basics of Building series, we’re diving into water
 layout = "blog"
 slug = "/basics-of-building-housewrap-rainscreens"
 title = "Basics of Building: Housewrap + Rainscreens"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = "/v1553363881/OnPoint%20Custom%20Homes/IMG_4382-e1530892758826.jpg"

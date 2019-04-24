@@ -6,7 +6,7 @@ excerpt = "Houston modern patio homes offer the “lock and leave” lifestyle."
 layout = "blog"
 slug = "/why-a-houston-patio-home"
 title = "Why a Houston Patio Home?"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = ""

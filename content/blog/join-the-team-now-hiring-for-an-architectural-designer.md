@@ -6,7 +6,7 @@ excerpt = "We are looking for an individual with a Bachelor’s of Architecture 
 layout = "blog"
 slug = "/join-team-now-hiring-architectural-designer-2"
 title = "Join the Team - Now Hiring for an Architectural Designer"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = ""

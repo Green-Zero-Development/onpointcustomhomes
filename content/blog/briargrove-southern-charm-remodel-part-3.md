@@ -6,7 +6,7 @@ excerpt = "The home featured a kid’s study nook with built-ins that we ripped 
 layout = "blog"
 slug = "/briargrove-southern-charm-remodel-part-3"
 title = "Briargrove Southern Charm Remodel: Part 3"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = "/v1553357298/OnPoint%20Custom%20Homes/DSC_8361-768x513.jpg"

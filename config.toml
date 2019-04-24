@@ -147,3 +147,26 @@ linkedin = "https://www.linkedin.com/company/on-point-custom-homes"
 pinterest = "https://www.pinterest.com/OnPointCustom/"
 [params.publishing_settings]
 site_in_production = true
+
+[sitemap]
+filename = "sitepages.xml"
+
+[outputFormats]
+    [outputFormats.sitemapindex]
+        baseName = "sitemapindex"
+        isPlainText = false
+        mediaType = "application/xml"
+        path = "/"
+    [outputFormats.sitepages]
+        baseName = "sitepages"
+        isPlainText = false
+        mediaType = "application/xml"
+        path = "/"
+    [outputFormats.blogposts]
+        baseName = "blogposts"
+        isPlainText = false
+        mediaType = "application/xml"
+        path = "/"
+
+[outputs]
+  home = ["HTML", "sitemapindex", "sitepages", "blogposts", "RSS"]

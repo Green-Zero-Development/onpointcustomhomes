@@ -6,7 +6,7 @@ excerpt = "We’re breaking down the basics of building science to help you unde
 layout = "blog"
 slug = "/basics-of-building-foundation-fundamentals-part-1"
 title = "Basics of Building: Foundation Fundamentals Part 1"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = "/v1553361767/OnPoint%20Custom%20Homes/IMG_9370-e1529336481157.jpg"

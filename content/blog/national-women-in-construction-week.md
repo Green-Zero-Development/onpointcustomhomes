@@ -6,7 +6,7 @@ excerpt = "Who runs the world? Girls! It’s officially National Women in Constr
 layout = "blog"
 slug = "/national-women-construction-week"
 title = "National Women in Construction Week!"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = ""

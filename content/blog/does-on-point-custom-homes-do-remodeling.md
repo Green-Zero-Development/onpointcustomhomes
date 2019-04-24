@@ -6,7 +6,7 @@ excerpt = "We are often asked about this by past clients and potential clients. 
 layout = "blog"
 slug = "/does-on-point-custom-homes-do-remodeling"
 title = "Does On Point Custom Homes do remodeling?"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = ""

@@ -6,7 +6,7 @@ excerpt = "One of the most common remodeling requests is the addition of built-i
 layout = "blog"
 slug = "/designing-your-perfect-built-ins-cabinets"
 title = "Designing Your Perfect Built-Ins & Cabinets"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = "/v1553285076/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00065-1400x1080.jpg"

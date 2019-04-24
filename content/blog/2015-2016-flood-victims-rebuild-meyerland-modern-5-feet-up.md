@@ -6,7 +6,7 @@ excerpt = "Located in the heart of Meyerland, this brand new custom home was des
 layout = "blog"
 slug = "/2015-2016-flood-victims-rebuild-meyerland-modern-5-feet"
 title = "2015 + 2016 Flood Victims Rebuild Meyerland Modern 5 Feet Up"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = "/v1553284761/OnPoint%20Custom%20Homes/DSC_3599.jpg"

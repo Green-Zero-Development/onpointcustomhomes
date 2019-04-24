@@ -6,7 +6,7 @@ excerpt = "In our final Foundation Fundamentals series, we’re talking about a 
 layout = "blog"
 slug = "/basics-of-building-foundation-fundamentals-part-3"
 title = "Basics of Building: Foundation Fundamentals Part 3"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = "/v1553362589/OnPoint%20Custom%20Homes/IMG_0605-e1529417317779.jpg"

@@ -6,7 +6,7 @@ excerpt = "Last week our Selections Coordinator extraordinaire, Tiffany, spent t
 layout = "blog"
 slug = "/new-products-from-thermador-bosch"
 title = "New Products from Thermador + Bosch"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = "/v1553363166/OnPoint%20Custom%20Homes/IMG_6117-e1530571131810.jpg"

@@ -6,7 +6,7 @@ excerpt = "On Point Custom Homes uses quartz in many of our modern Houston homes
 layout = "blog"
 slug = "/why-is-quartz-gaining-popularity-in-houston-homes"
 title = "Why is quartz gaining popularity in Houston homes?"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = ""

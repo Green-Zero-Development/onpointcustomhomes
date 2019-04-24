@@ -6,7 +6,7 @@ excerpt = "The home started as an inventory home but was purchased mid-construct
 layout = "blog"
 slug = "/bringing-together-the-perfect-modern-farmhouse-design"
 title = "Bringing Together the Perfect Modern Farmhouse Design"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = "/v1553358466/OnPoint%20Custom%20Homes/DSC_1782.jpg"

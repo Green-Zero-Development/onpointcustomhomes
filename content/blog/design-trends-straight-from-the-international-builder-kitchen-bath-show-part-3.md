@@ -6,7 +6,7 @@ excerpt = "Trend alert â€“ the smart home is getting even smarter! In this weekâ
 layout = "blog"
 slug = "/design-trends-straight-international-builder-kitchen-bath-show-part-3"
 title = "Design Trends Straight from the International Builder, Kitchen + Bath Show: Part 3"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = "/v1553280823/OnPoint%20Custom%20Homes/blog-21-768x479.png"

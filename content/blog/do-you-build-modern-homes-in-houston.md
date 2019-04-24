@@ -6,7 +6,7 @@ excerpt = "On Point Custom Homes considers itself one of the pioneers of Houston
 layout = "blog"
 slug = "/do-you-build-modern-homes-in-houston"
 title = "Do you build modern homes in Houston?"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = ""

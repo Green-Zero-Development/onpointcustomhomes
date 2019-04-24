@@ -6,7 +6,7 @@ excerpt = "With a great many changes in the way that home décor and home decora
 layout = "blog"
 slug = "/is-there-a-particular-type-of-home-that-best-suits-houston-modern-furniture-styles"
 title = "Is there a particular type of home that best suits Houston modern furniture styles?"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = ""
