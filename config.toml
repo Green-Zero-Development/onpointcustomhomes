@@ -3,6 +3,7 @@ description = "Houston's Luxury Custom Builder"
 languageCode = "en-us"
 theme = "site-theme"
 title = "On Point Custom Homes"
+enableRobotsTXT = true
 [[menu.desktop]]
 identifier = "architectural-design"
 name = "Architectural Design"
