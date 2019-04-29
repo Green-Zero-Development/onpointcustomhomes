@@ -141,6 +141,7 @@ fields:
     required: true
   default: home
 pages:
+- content/portfolio/1516-blair-st.md
 - content/portfolio/6231-del-monte-dr.md
 - content/portfolio/2626-2628-greenbriar-dr.md
 - content/portfolio/816-knox-st.md
@@ -149,7 +150,6 @@ pages:
 - content/portfolio/2016-bolsover-st.md
 - content/portfolio/6255-inwood-drive.md
 - content/portfolio/4042-dumbarton-st.md
-- content/portfolio/1516-blair-st.md
 - content/portfolio/2202-2204-driscoll-street.md
 - content/portfolio/2147-2149-harold-street.md
 - content/portfolio/4219-alba-rd.md
