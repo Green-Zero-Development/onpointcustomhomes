@@ -118,7 +118,7 @@ fields:
   label: Date
   description: For sorting of content. Dates closer to today will be listed further
     up the page.
-  default: 2019-03-26 04:00:00 +0000
+  default: '2019-03-26T04:00:00.000+00:00'
 - type: text
   name: type
   label: type
@@ -141,6 +141,7 @@ fields:
     required: true
   default: home
 pages:
+- content/portfolio/1634-ronson-rd.md
 - content/portfolio/1516-blair-st.md
 - content/portfolio/6231-del-monte-dr.md
 - content/portfolio/2626-2628-greenbriar-dr.md
@@ -162,6 +163,5 @@ pages:
 - content/portfolio/818-knox-st.md
 - content/portfolio/506-fargo-st.md
 - content/portfolio/2106-2108-dunlavy-street.md
-- content/portfolio/1634-ronson-rd.md
 - content/portfolio/6510-haskell.md
 - content/portfolio/6508-haskell.md
