@@ -68,6 +68,10 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/blog/designing-your-perfect-built-ins-cabinets.md
+- content/blog/basics-of-building-windows.md
+- content/blog/join-the-team-now-hiring-for-an-architectural-designer.md
+- content/blog/basics-of-building-housewrap-rainscreens.md
 - content/blog/new-products-from-thermador-bosch.md
 - content/blog/ghba-best-custom-home-elevation-winner.md
 - content/blog/design-trends-straight-from-the-international-builder-kitchen-bath-show-part-2.md
@@ -97,16 +101,12 @@ pages:
 - content/blog/briargrove-southern-charm-remodel-part-4.md
 - content/blog/basics-of-building-insulation.md
 - content/blog/new-awards-from-the-ghba.md
-- content/blog/designing-in-3d-why-it-makes-a-difference.md
-- content/blog/designing-your-perfect-built-ins-cabinets.md
-- content/blog/basics-of-building-windows.md
-- content/blog/join-the-team-now-hiring-for-an-architectural-designer.md
-- content/blog/basics-of-building-housewrap-rainscreens.md
-- content/blog/the-perfect-party-ready-backyard.md
-- content/blog/national-women-in-construction-week.md
 - content/blog/what-defines-a-houston-modern-home.md
 - content/blog/why-is-quartz-gaining-popularity-in-houston-homes.md
 - content/blog/do-you-build-in-briargrove-neighborhood-in-houston-tx.md
 - content/blog/2424-hazard-review.md
-- content/blog/does-on-point-custom-homes-do-remodeling.md
 - content/blog/do-you-install-mosquito-systems-in-houston.md
+- content/blog/does-on-point-custom-homes-do-remodeling.md
+- content/blog/designing-in-3d-why-it-makes-a-difference.md
+- content/blog/the-perfect-party-ready-backyard.md
+- content/blog/national-women-in-construction-week.md

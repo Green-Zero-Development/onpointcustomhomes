@@ -31,11 +31,11 @@ fields:
   default: testimonial
 pages:
 - content/testimonials/lynda-t.md
-- content/testimonials/the-midlo-s.md
-- content/testimonials/the-bradshaw-s.md
-- content/testimonials/the-hopkins.md
-- content/testimonials/the-merril-s.md
 - content/testimonials/joanne-g.md
-- content/testimonials/warren-s.md
+- content/testimonials/the-bradshaw-s.md
 - content/testimonials/ben-c.md
 - content/testimonials/Michael H..md
+- content/testimonials/the-merril-s.md
+- content/testimonials/warren-s.md
+- content/testimonials/the-midlo-s.md
+- content/testimonials/the-hopkins.md
