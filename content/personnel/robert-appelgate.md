@@ -1,11 +1,11 @@
 +++
-date = "2019-03-22T10:00:17+00:00"
+date = "2019-04-13T05:00:17-05:00"
 layout = "team-single"
+pageImage = "/v1552861317/OnPoint%20Custom%20Homes/vbg_8.jpg"
 page_kind = "team"
 slug = "/robert-appelgate"
 title = "ROBERT APPELGATE"
 type = "page"
-pageImage = '/v1552861317/OnPoint%20Custom%20Homes/vbg_8.jpg'
 [featured_image]
 team_featured_image = "/v1553045458/OnPoint%20Custom%20Homes/robert.jpg"
 [team_info]
