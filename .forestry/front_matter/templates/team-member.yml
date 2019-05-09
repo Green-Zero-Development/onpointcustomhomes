@@ -60,6 +60,7 @@ fields:
     required: true
   default: page
 pages:
+- content/personnel/albert-aguirre.md
 - content/personnel/brad-williams.md
 - content/personnel/will-hermann-aia.md
 - content/personnel/tiffany-trask.md
@@ -67,7 +68,6 @@ pages:
 - content/personnel/earl-correll.md
 - content/personnel/evan-darr.md
 - content/personnel/garrett-nance.md
-- content/personnel/albert-aguirre.md
 - content/personnel/dana-walker.md
 - content/personnel/robert-appelgate.md
 - content/personnel/test3.md

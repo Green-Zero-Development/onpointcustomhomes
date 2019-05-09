@@ -1,11 +1,11 @@
 +++
-date = "2019-03-22T04:00:17+00:00"
+date = "2019-03-23T23:00:17-05:00"
 layout = "team-single"
+pageImage = "/v1552861317/OnPoint%20Custom%20Homes/vbg_8.jpg"
 page_kind = "team"
 slug = "/albert-aguirre"
 title = "ALBERT AGUIRRE"
 type = "page"
-pageImage = '/v1552861317/OnPoint%20Custom%20Homes/vbg_8.jpg'
 [featured_image]
 team_featured_image = "/v1553045861/OnPoint%20Custom%20Homes/Albert_edited-1043x1400.jpg"
 [team_info]
