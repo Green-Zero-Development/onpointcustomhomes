@@ -1,11 +1,11 @@
 +++
-date = "2019-03-22T06:00:17+00:00"
+date = "2019-03-31T01:00:17-05:00"
 layout = "team-single"
+pageImage = "/v1552861317/OnPoint%20Custom%20Homes/vbg_8.jpg"
 page_kind = "team"
 slug = "/will-hermann"
 title = "WILL HERMANN, AIA"
 type = "page"
-pageImage = '/v1552861317/OnPoint%20Custom%20Homes/vbg_8.jpg'
 [featured_image]
 team_featured_image = "/v1553045735/OnPoint%20Custom%20Homes/WH2-2-937x1400.jpg"
 [team_info]
