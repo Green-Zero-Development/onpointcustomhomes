@@ -12,7 +12,7 @@ alt_text = ""
 blog_featured_image = "/v1557435076/OnPoint%20Custom%20Homes/encompass-master-builders13.jpg"
 
 +++
-![](https://www.encompasscayman.com/wp-content/uploads/2019/04/encompass-master-builders13-680x408.jpg =680x408)
+![](https://www.encompasscayman.com/wp-content/uploads/2019/04/encompass-master-builders13-680x408.jpg)
 
 [Earl](https://onpointcustomhomes.com/personnel/earl-correll/) and [Dana](https://onpointcustomhomes.com/personnel/dana-walker/) represented On Point for the Spring 2019 session of the Master Builders hosted by the enterprising owners and staff at Gradison Design-Build. Twice a year, a members invite-only group of construction industry leaders from the United States and Caribbean gather to share three days and nights of intensive sessions consisting of financial overviews, round-table discussions, best practices discussion forums, innovative construction techniques, the latest in applied technology and software, material sourcing and pricing, project reviews, site tours, vendor showcases and shared camaraderie. We look forward to these ongoing opportunities twice a year to not only help mentor, but be mentored and motivated by one another to strive for improved procedures and elevated goals. This particular session included the valuable addition of each company’s Selections Coordinator who engaged in their own simultaneous symposium of systems analysis, processes and procedures review, selections trends and vendor sourcing.
 
@@ -20,40 +20,40 @@ Local activities hosted by Team Gradison included a “Best Practices” discuss
 
 Presentations/Discussions
 
-![](https://www.encompasscayman.com/wp-content/uploads/2019/04/encompass-master-builders20.jpg =1000x600)
+![](https://www.encompasscayman.com/wp-content/uploads/2019/04/encompass-master-builders20.jpg)
 
-![](https://www.encompasscayman.com/wp-content/uploads/2019/04/encompass-master-builders-construct.jpg =1000x600)
+![](https://www.encompasscayman.com/wp-content/uploads/2019/04/encompass-master-builders-construct.jpg)
 
-![](https://www.encompasscayman.com/wp-content/uploads/2019/04/1000x600.jpg =1000x600)
+![](https://www.encompasscayman.com/wp-content/uploads/2019/04/1000x600.jpg)
 
 Ferguson Enterprises Happy Hour
 
-![](https://www.encompasscayman.com/wp-content/uploads/2019/04/encompass-master-builders10.jpg =1000x600)
+![](https://www.encompasscayman.com/wp-content/uploads/2019/04/encompass-master-builders10.jpg)
 
-![](https://www.encompasscayman.com/wp-content/uploads/2019/04/encompass-master-builders9.jpg =1000x600)
+![](https://www.encompasscayman.com/wp-content/uploads/2019/04/encompass-master-builders9.jpg)
 
-![](https://www.encompasscayman.com/wp-content/uploads/2019/04/encompass-master-builders11.jpg =1000x600)
+![](https://www.encompasscayman.com/wp-content/uploads/2019/04/encompass-master-builders11.jpg)
 
 Gradison Homes Tour – South Village
 
-![](https://www.encompasscayman.com/wp-content/uploads/2019/04/encompass-master-builders-construct2.jpg =1000x600)
+![](https://www.encompasscayman.com/wp-content/uploads/2019/04/encompass-master-builders-construct2.jpg)
 
-![](https://www.encompasscayman.com/wp-content/uploads/2019/04/encompass-master-builders24.jpg =1000x600)
+![](https://www.encompasscayman.com/wp-content/uploads/2019/04/encompass-master-builders24.jpg)
 
-![](https://www.encompasscayman.com/wp-content/uploads/2019/04/encompass-master-builders22.jpg =1000x600)
+![](https://www.encompasscayman.com/wp-content/uploads/2019/04/encompass-master-builders22.jpg)
 
-![](https://www.encompasscayman.com/wp-content/uploads/2019/04/encompass-master-builders21.jpg =1000x600)
+![](https://www.encompasscayman.com/wp-content/uploads/2019/04/encompass-master-builders21.jpg)
 
 Chatham Hills Site Tour
 
-![](https://www.encompasscayman.com/wp-content/uploads/2019/04/encompass-master-builders5.jpg =1000x600)
+![](https://www.encompasscayman.com/wp-content/uploads/2019/04/encompass-master-builders5.jpg)
 
 Maple Ridge Site Tour
 
-![](https://www.encompasscayman.com/wp-content/uploads/2019/04/encompass-master-builders13.jpg =1000x600)
+![](https://www.encompasscayman.com/wp-content/uploads/2019/04/encompass-master-builders13.jpg)
 
-![](https://www.encompasscayman.com/wp-content/uploads/2019/04/encompass-master-builders14.jpg =1000x600)
+![](https://www.encompasscayman.com/wp-content/uploads/2019/04/encompass-master-builders14.jpg)
 
 Mass Ave district
 
-![](https://www.encompasscayman.com/wp-content/uploads/2019/04/encompass-master-builders16.jpg =1000x600)
+![](https://www.encompasscayman.com/wp-content/uploads/2019/04/encompass-master-builders16.jpg)
