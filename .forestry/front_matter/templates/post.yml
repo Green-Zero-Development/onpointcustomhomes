@@ -6,7 +6,7 @@ fields:
   label: Type
   type: text
   hidden: true
-  default: page
+  default: post
   config:
     required: true
 - name: layout
