@@ -4,7 +4,7 @@
 date = "2019-05-08T00:00:00-05:00"
 excerpt = "Earl and Dana represented On Point for the Spring 2019 session of the Master Builders hosted by the enterprising owners and staff at Gradison Design-Build. Twice a year, a members invite-only group of construction industry leaders from the United States and Caribbean gather to share three days and nights of intensive sessions consisting of financial overviews, round-table discussions, best practices discussion forums, innovative construction techniques, the latest in applied technology and software, material sourcing and pricing, project reviews, site tours, vendor showcases and shared camaraderie."
 layout = "blog"
-slug = "/masterbuildingmeeting"
+slug = "/master-building-meeting"
 title = "Earl + Dana Visit Indy for Master Builder Meeting"
 type = "page"
 [featured_image]
