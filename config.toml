@@ -163,11 +163,11 @@ filename = "sitepages.xml"
         isPlainText = false
         mediaType = "application/xml"
         path = "/"
-    [outputFormats.blogposts]
-        baseName = "blogposts"
+    [outputFormats.siteposts]
+        baseName = "siteposts"
         isPlainText = false
         mediaType = "application/xml"
         path = "/"
 
 [outputs]
-  home = ["HTML", "sitemapindex", "sitepages", "blogposts", "RSS"]
+  home = ["HTML", "sitemapindex", "sitepages", "siteposts", "RSS"]

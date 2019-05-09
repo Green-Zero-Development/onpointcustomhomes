@@ -6,7 +6,7 @@ excerpt = "Earl and Dana represented On Point for the Spring 2019 session of the
 layout = "blog"
 slug = "/master-building-meeting/"
 title = "Earl + Dana Visit Indy for Master Builder Meeting"
-type = "page"
+type = "post"
 [featured_image]
 alt_text = ""
 blog_featured_image = "/v1557435076/OnPoint%20Custom%20Homes/encompass-master-builders13.jpg"
