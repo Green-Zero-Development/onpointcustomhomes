@@ -1,11 +1,11 @@
 +++
-date = "2019-03-22T03:00:17+00:00"
+date = "2019-03-20T22:00:17-05:00"
 layout = "team-single"
+pageImage = "/v1552861317/OnPoint%20Custom%20Homes/vbg_8.jpg"
 page_kind = "team"
 slug = "/evan-darr"
 title = "EVAN DARR"
 type = "page"
-pageImage = '/v1552861317/OnPoint%20Custom%20Homes/vbg_8.jpg'
 [featured_image]
 team_featured_image = "/v1553045919/OnPoint%20Custom%20Homes/Evan-Darr-2-887x1400.jpg"
 [team_info]
