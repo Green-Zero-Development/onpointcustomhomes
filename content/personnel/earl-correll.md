@@ -1,11 +1,11 @@
 +++
-date = "2019-03-22T11:00:17+00:00"
+date = "2019-04-20T06:00:17-05:00"
 layout = "team-single"
+pageImage = "/v1552861317/OnPoint%20Custom%20Homes/vbg_8.jpg"
 page_kind = "team"
 slug = "/earl-correll"
 title = "EARL CORRELL"
 type = "page"
-pageImage = '/v1552861317/OnPoint%20Custom%20Homes/vbg_8.jpg'
 [featured_image]
 team_featured_image = "/v1552863292/OnPoint%20Custom%20Homes/earl.jpg"
 [team_info]
