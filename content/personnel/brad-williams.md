@@ -1,11 +1,11 @@
 +++
-date = "2019-03-22T05:00:17+00:00"
+date = "2019-03-26T00:00:17-05:00"
 layout = "team-single"
+pageImage = "/v1552861317/OnPoint%20Custom%20Homes/vbg_8.jpg"
 page_kind = "team"
 slug = "/brad-williams"
 title = "BRAD WILLIAMS"
 type = "page"
-pageImage = '/v1552861317/OnPoint%20Custom%20Homes/vbg_8.jpg'
 [featured_image]
 team_featured_image = "/v1553045786/OnPoint%20Custom%20Homes/Brad-933x1400.jpg"
 [team_info]
