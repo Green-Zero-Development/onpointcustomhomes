@@ -1,6 +1,6 @@
 +++
 date = "2019-04-10T19:00:17-05:00"
-floor_plans = ["/v1556032069/OnPoint%20Custom%20Homes/4219%20Alba_Sales%20Plan_1st%20FLoor.jpg", "/v1556032069/OnPoint%20Custom%20Homes/4219%20Alba_Sales%20Plan_2nd%20Floor.jpg", "/v1553284727/OnPoint%20Custom%20Homes/4219-Alba_Backyard.jpg", "/v1558386722/OnPoint%20Custom%20Homes/4219%20Alba%20-%20Front%20Rendering%204x3.jpg", "/v1553284725/OnPoint%20Custom%20Homes/4219-Alba_Site-View.jpg"]
+floor_plans = ["/v1556032069/OnPoint%20Custom%20Homes/4219%20Alba_Sales%20Plan_1st%20FLoor.jpg", "/v1556032069/OnPoint%20Custom%20Homes/4219%20Alba_Sales%20Plan_2nd%20Floor.jpg", "/v1558386722/OnPoint%20Custom%20Homes/4219%20Alba%20-%20Front%20Rendering%204x3.jpg", "/v1553284727/OnPoint%20Custom%20Homes/4219-Alba_Backyard.jpg", "/v1553284725/OnPoint%20Custom%20Homes/4219-Alba_Site-View.jpg"]
 gallery_images = []
 is_on_sale = true
 is_pending = false
@@ -15,7 +15,7 @@ type = "page"
 video_tour_link = ""
 [featured_image]
 alt_text = ""
-home_featured_image = "/v1553039991/OnPoint%20Custom%20Homes/4219-Alba_Rendering_FINAL.jpg"
+home_featured_image = "/v1558386722/OnPoint%20Custom%20Homes/4219%20Alba%20-%20Front%20Rendering%204x3.jpg"
 [home_specifics]
 bathrooms = 3.5
 bedrooms = 4
