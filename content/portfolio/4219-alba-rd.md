@@ -15,7 +15,7 @@ type = "page"
 video_tour_link = ""
 [featured_image]
 alt_text = ""
-home_featured_image = "/v1558386722/OnPoint%20Custom%20Homes/4219%20Alba%20-%20Front%20Rendering%204x3.jpg"
+home_featured_image = "/v1560814640/OnPoint%20Custom%20Homes/4219%20Alba%20-%20Front%20Rendering%204x3PHOTORESIZERCROPRESIZEANDSHAREIMAGESINBATCH617201963445PM.jpg"
 [home_specifics]
 bathrooms = 3.5
 bedrooms = 4
