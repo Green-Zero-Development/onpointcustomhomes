@@ -22,7 +22,7 @@ bedrooms = 3
 description_of_home = ""
 how_many_cars_garage = 2
 lot_square_feet = ""
-square_feet = "2,900"
+square_feet = "2,913"
 [location]
 city = "Houston"
 neighboorhood = "HYDE PARK"
