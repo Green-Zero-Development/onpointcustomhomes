@@ -1,14 +1,14 @@
 +++
 date = "2019-03-12T17:00:17-05:00"
 floor_plans = ["/v1553285360/OnPoint%20Custom%20Homes/Sales-Plan-Level-3.jpg", "/v1553801261/OnPoint%20Custom%20Homes/Sales%20Plan%20-%20Level%201.jpg", "/v1553801261/OnPoint%20Custom%20Homes/Sales%20Plan%20-%20Level%202.jpg", "/v1553284719/OnPoint%20Custom%20Homes/1516-Blair-Stair-View-10am.jpg", "/v1553284719/OnPoint%20Custom%20Homes/1516-Blair_Dining-Table.jpg", "/v1553284719/OnPoint%20Custom%20Homes/1516-Blair_Living-Space.jpg", "/v1553284719/OnPoint%20Custom%20Homes/1516-Blair_Plan-Cut.jpg"]
-gallery_images = ["/v1553040376/OnPoint%20Custom%20Homes/1516-Blair-Stair-View-10am.jpg", "/v1553040376/OnPoint%20Custom%20Homes/1516-Blair_Living-Space.jpg", "/v1553040376/OnPoint%20Custom%20Homes/1516-Blair_Dining-Table.jpg"]
+gallery_images = ["/v1561734201/OnPoint%20Custom%20Homes/DSC_7905.jpg", "/v1561734203/OnPoint%20Custom%20Homes/DSC_7930.jpg", "/v1561734212/OnPoint%20Custom%20Homes/DSC_7554.jpg", "/v1561734274/OnPoint%20Custom%20Homes/DSC_7559.jpg", "/v1561734288/OnPoint%20Custom%20Homes/DSC_7587.jpg", "/v1561734285/OnPoint%20Custom%20Homes/DSC_7596.jpg", "/v1561734293/OnPoint%20Custom%20Homes/DSC_7629.jpg", "/v1561734245/OnPoint%20Custom%20Homes/DSC_7676.jpg", "/v1561734223/OnPoint%20Custom%20Homes/DSC_7695.jpg", "/v1561734238/OnPoint%20Custom%20Homes/DSC_7711.jpg", "/v1561734219/OnPoint%20Custom%20Homes/DSC_7638.jpg"]
 is_on_sale = false
 is_pending = false
 is_sold = true
 layout = "home-single"
 page_kind = "home"
 price = ""
-progress_images = ["/v1553285125/OnPoint%20Custom%20Homes/P2270077.jpg", "/v1553285126/OnPoint%20Custom%20Homes/P2270086.jpg", "/v1553285123/OnPoint%20Custom%20Homes/P2270089.jpg", "/v1553285125/OnPoint%20Custom%20Homes/P2270084.jpg", "/v1553285125/OnPoint%20Custom%20Homes/P2270094.jpg", "/v1553285124/OnPoint%20Custom%20Homes/P2270110.jpg", "/v1553285125/OnPoint%20Custom%20Homes/P2270119.jpg"]
+progress_images = []
 slug = "/1516-blair-st"
 title = "1516 BLAIR ST"
 type = "page"
