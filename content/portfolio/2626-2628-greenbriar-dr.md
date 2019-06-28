@@ -15,7 +15,7 @@ type = "page"
 video_tour_link = ""
 [featured_image]
 alt_text = ""
-home_featured_image = "/v1553037697/OnPoint%20Custom%20Homes/2626_Greenbriar-FRONT.jpg"
+home_featured_image = "/v1561733592/OnPoint%20Custom%20Homes/Greenbriar.jpg"
 [home_specifics]
 bathrooms = 3.5
 bedrooms = 4
