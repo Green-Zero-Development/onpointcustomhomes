@@ -15,7 +15,7 @@ type = "page"
 video_tour_link = ""
 [featured_image]
 alt_text = ""
-home_featured_image = "/v1553040319/OnPoint%20Custom%20Homes/Blair_Front-Rendering_Final.jpg"
+home_featured_image = "/v1561734201/OnPoint%20Custom%20Homes/DSC_7905.jpg"
 [home_specifics]
 bathrooms = 3.5
 bedrooms = 4
