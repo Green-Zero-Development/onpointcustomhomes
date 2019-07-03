@@ -15,7 +15,7 @@ type = "page"
 video_tour_link = ""
 [featured_image]
 alt_text = ""
-home_featured_image = "/v1553038439/OnPoint%20Custom%20Homes/1609-Hazard-4x3.jpg"
+home_featured_image = "/v1562185005/OnPoint%20Custom%20Homes/1609%20Hazard%20%20-%204x3.jpg"
 [home_specifics]
 bathrooms = 3.5
 bedrooms = 4
