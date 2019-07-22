@@ -12,7 +12,7 @@ progress_images = []
 slug = "/1219-richelieu-lane"
 title = "1219 RICHELIEU LANE"
 type = "page"
-video_tour_link = "https://www.youtube.com/watch?v=udWj6AKI-tw"
+video_tour_link = "www.youtube.com/watch?v=udWj6AKI-tw"
 [featured_image]
 alt_text = ""
 home_featured_image = "/v1563210028/OnPoint%20Custom%20Homes/0N8A7709.jpg"
