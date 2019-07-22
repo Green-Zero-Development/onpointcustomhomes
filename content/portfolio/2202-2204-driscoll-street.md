@@ -12,7 +12,7 @@ progress_images = []
 slug = "/2202-driscoll"
 title = "2202 + 2204 DRISCOLL STREET"
 type = "page"
-video_tour_link = ""
+video_tour_link = "https://www.youtube.com/watch?v=JQ7n23IQ6g0"
 [featured_image]
 alt_text = ""
 home_featured_image = "/v1561732609/OnPoint%20Custom%20Homes/6J3A5199PHOTORESIZERCROPRESIZEANDSHAREIMAGESINBATCH627201962406PM.jpg"
