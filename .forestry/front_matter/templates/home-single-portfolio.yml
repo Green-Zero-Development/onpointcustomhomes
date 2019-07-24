@@ -141,9 +141,9 @@ fields:
     required: true
   default: home
 pages:
+- content/portfolio/1609-hazard-st.md
 - content/portfolio/2105-2107-park-st.md
 - content/portfolio/6510-haskell.md
-- content/portfolio/1609-hazard-st.md
 - content/portfolio/2106-2108-dunlavy-street.md
 - content/portfolio/6231-del-monte-dr.md
 - content/portfolio/2105-2107-park-st-1.md
