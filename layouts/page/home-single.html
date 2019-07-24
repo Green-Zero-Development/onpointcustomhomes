@@ -4,7 +4,7 @@
 
 </style>
 
-<div class="overlay-black">
+<div class="overlay-black overflow-hidden">
 
 <section id="page-details" class="flex flex-wrap text-center pt-24">
     <div class="container bg-white flex flex-wrap w-full lg:w-5/6 text-center mx-auto page-inner-container">
@@ -80,7 +80,7 @@
                 </div>
             </div>
             <div class="bg-grey-lighter w-full mb-5 w-px h-px opacity-0 big-slide-floor-plans">
-                <div class="w-full items-center text-5xl text-color-333 hover:text-color-818e9c hover:cursor-pointer close-this-floor-plans">Close<i class="text-4xl fas fa-times-circle"></i></div>
+                <div class="w-full items-center text-xl text-color-333 hover:text-color-818e9c hover:cursor-pointer hover:opacity-50 close-this-floor-plans"><img src="https://res.cloudinary.com/onpointcustomhomes/image/upload/w_50/v1563994161/OnPoint%20Custom%20Homes/close-picture-gallery.png"></div>
                 <div class='slider slider-floor-plans'>
                 {{ range index .Params.floor_plans }}
                 <div class="py-5 z-0"><div class="w-full lg:w-3/5 mx-auto h-full slider-box" style="background-image:url('https://res.cloudinary.com/onpointcustomhomes/image/upload/w_768,h_500,c_limit{{ . }}');"></div></div>
@@ -98,7 +98,7 @@
                 </div>
             </div>
             <div class="bg-grey-lighter w-full mb-5 w-px h-px opacity-0 big-slide-progress">
-                <div class="w-full items-center text-5xl text-color-333 hover:text-color-818e9c hover:cursor-pointer close-this-progress">Close<i class="text-4xl fas fa-times-circle"></i></div>
+                <div class="w-full items-center text-xl text-color-333 hover:text-color-818e9c hover:cursor-pointer close-this-progress"><img src="https://res.cloudinary.com/onpointcustomhomes/image/upload/w_50/v1563994161/OnPoint%20Custom%20Homes/close-picture-gallery.png"></div>
                 <div class='slider slider-progress'>
                 {{ range index .Params.progress_images }}
                 <div class="py-5 z-0"><div class="w-full lg:w-3/5 mx-auto h-full slider-box" style="background-image:url('https://res.cloudinary.com/onpointcustomhomes/image/upload/w_768,h_500,c_limit{{ . }}');"></div></div>
@@ -115,11 +115,11 @@
                 {{ end }}
                 </div>
             </div>
-            <div class="bg-grey-lighter w-full mb-5 w-px h-px opacity-0 big-slide-gallery">
-                <div class="w-full items-center text-5xl text-color-333 hover:text-color-818e9c hover:cursor-pointer close-this-gallery">Close<i class="text-4xl fas fa-times-circle"></i></div>
+            <div class="bg-grey-lightest w-full mb-5 w-px h-px opacity-0 big-slide-gallery">
+                <div class="w-full items-center text-xl text-color-333 hover:text-color-818e9c hover:cursor-pointer close-this-gallery"><img src="https://res.cloudinary.com/onpointcustomhomes/image/upload/w_50/v1563994161/OnPoint%20Custom%20Homes/close-picture-gallery.png"></div>
                 <div class='slider slider-gallery'>
                 {{ range index .Params.gallery_images }}
-                <div class="py-5 z-0"><div class="w-full lg:w-3/5 mx-auto h-full slider-box" style="background-image:url('https://res.cloudinary.com/onpointcustomhomes/image/upload/w_768,h_500,c_limit{{ . }}');"></div></div>
+                <div class="py-5 z-0"><div class="w-full lg:w-4/5 mx-auto h-full slider-box" style="background-image:url('https://res.cloudinary.com/onpointcustomhomes/image/upload/w_768,h_500,c_limit{{ . }}');"></div></div>
                     {{ end }}
                 </div>
             </div>

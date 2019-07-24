@@ -46,6 +46,7 @@ let defaultConfig = require('tailwindcss/defaultConfig')()
 let colors = {
   /* custom colors */
 
+  'blk-overlay': 'rgba(0,0,0,0.5)',
   'color-656565': "#656565",
   'color-333333': "#333333",
   'color-4f5052': '#4f5052',
