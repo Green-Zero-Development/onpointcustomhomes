@@ -1,7 +1,7 @@
 +++
 date = "2019-04-06T05:00:17-05:00"
 floor_plans = []
-gallery_images = ["/v1562874606/OnPoint%20Custom%20Homes/P1010124.jpg", "/v1562874607/OnPoint%20Custom%20Homes/P1010110.jpg", "/v1562874606/OnPoint%20Custom%20Homes/P1010101.jpg", "/v1562874606/OnPoint%20Custom%20Homes/P1010098.jpg", "/v1562874607/OnPoint%20Custom%20Homes/P1010094.jpg", "/v1562874606/OnPoint%20Custom%20Homes/P1010126.jpg", "/v1559083823/OnPoint%20Custom%20Homes/IMG_8053.jpg"]
+gallery_images = ["/v1565105830/OnPoint%20Custom%20Homes/P1010091_czr4vx.jpg", "/v1565105834/OnPoint%20Custom%20Homes/P1010087_o4czne.jpg", "/v1565105834/OnPoint%20Custom%20Homes/P1010078_axi2f3.jpg", "/v1565105834/OnPoint%20Custom%20Homes/P1010074_jr8ts7.jpg", "/v1565105835/OnPoint%20Custom%20Homes/P1010092_phtogb.jpg", "/v1565105837/OnPoint%20Custom%20Homes/P1010070_p8wncs.jpg"]
 is_on_sale = true
 is_pending = false
 is_sold = false
