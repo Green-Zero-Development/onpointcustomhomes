@@ -141,6 +141,7 @@ fields:
     required: true
   default: home
 pages:
+- content/portfolio/816-knox-st.md
 - content/portfolio/818-knox-st.md
 - content/portfolio/6510-haskell.md
 - content/portfolio/4219-alba-rd.md
@@ -165,4 +166,3 @@ pages:
 - content/portfolio/6255-inwood-drive.md
 - content/portfolio/2016-bolsover-st.md
 - content/portfolio/506-fargo-st.md
-- content/portfolio/816-knox-st.md
