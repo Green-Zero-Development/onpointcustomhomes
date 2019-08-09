@@ -19,13 +19,13 @@ If you follow the adventures of On Point on [Facebook](https://www.facebook.com/
 
 Will and Evan spent the last half of last week in Dallas attending the Sunbelt Builders Show put on by the Texas Association of Builders. The highlight of the trip was the STAR Award Show, which recognizes excellence in all areas of the home building industry. With more than 500 entries, the STAR awards are the largest award show in the state and On Point was pleased to take home seven new awards! Take a look below to see what we won and browse photos from each project!
 
-**Best Architectural Design (FARGO)**
-
 **Best Master Bathroom Design (DEL MONTE)**
 
 **Best Overall Interior Design x2 (Sunburst, Dunlavy)**
 
-**Best MAster Bedroom (DUNLAVY)**
+**Best Master Bedroom (DUNLAVY)**
+
+**Best Architectural Design (FARGO)**
 
 **Best Special Promotion, Breakfast with Santa**
 
