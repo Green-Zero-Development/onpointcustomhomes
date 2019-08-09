@@ -1,11 +1,11 @@
 +++
 "blog/category" = ["Blog"]
 "blog/tag" = ["on point awards", "custom builder", "best architecture", "award"]
-date = "2018-08-13T04:00:00+00:00"
+date = "2019-08-12T00:00:00-05:00"
 draft = true
 excerpt = "If you follow the adventures of On Point on Facebook and Instagram, you’ve probably heard the news already, but if not, we’re excited to share that our team brought home some new hardware from the Texas Association of Builders!"
 layout = "blog"
-slug = "/new-awards-from-the-texas-association-of-builders"
+slug = "/2019-awards-from-the-texas-association-of-builders"
 title = "New Awards from the Texas Association of Builders"
 type = "post"
 [featured_image]
@@ -25,34 +25,6 @@ If you follow the adventures of On Point on [Facebook](https://www.facebook.com/
 
 **Best Architectural Design**
 
-![](https://res.cloudinary.com/onpointcustomhomes/image/upload/v1553366254/OnPoint%20Custom%20Homes/emomedia.net_edit.jpg)
-
-![](https://res.cloudinary.com/onpointcustomhomes/image/upload/v1553366253/OnPoint%20Custom%20Homes/emomedia.net-40.jpg)
-
-![](https://res.cloudinary.com/onpointcustomhomes/image/upload/v1553366253/OnPoint%20Custom%20Homes/emomedia.net-29.jpg)
-
-![](https://res.cloudinary.com/onpointcustomhomes/image/upload/v1553366252/OnPoint%20Custom%20Homes/emomedia.net-39.jpg)
-
-![](https://res.cloudinary.com/onpointcustomhomes/image/upload/v1553366261/OnPoint%20Custom%20Homes/emomedia.net-13-1.jpg)
-
-![](https://res.cloudinary.com/onpointcustomhomes/image/upload/v1553366256/OnPoint%20Custom%20Homes/emomedia.net-20.jpg)
-
-![](https://res.cloudinary.com/onpointcustomhomes/image/upload/v1553366255/OnPoint%20Custom%20Homes/emomedia.net-19.jpg)
-
-![](https://res.cloudinary.com/onpointcustomhomes/image/upload/v1553366257/OnPoint%20Custom%20Homes/emomedia.net-10.jpg)
-
-**Best Master Bedroom**
-
-![](https://res.cloudinary.com/onpointcustomhomes/image/upload/v1553366255/OnPoint%20Custom%20Homes/emomedia.net-12.jpg)
-
-![](https://res.cloudinary.com/onpointcustomhomes/image/upload/v1553366261/OnPoint%20Custom%20Homes/emomedia.net-13-1.jpg)
-
-![](https://res.cloudinary.com/onpointcustomhomes/image/upload/v1553366256/OnPoint%20Custom%20Homes/emomedia.net-16.jpg)
-
 **Best Special Promotion for our playhouse partnership with Ronald McDonald**
-
-![](https://res.cloudinary.com/onpointcustomhomes/image/upload/v1553366256/OnPoint%20Custom%20Homes/IMG_1779-768x512.jpg)
-
-![](https://res.cloudinary.com/onpointcustomhomes/image/upload/v1553366253/OnPoint%20Custom%20Homes/IMG_5247-e1495821597494-768x557.jpg)
 
 Many congrats and thanks to our awesome team for their hard work and success.
