@@ -141,12 +141,12 @@ fields:
     required: true
   default: home
 pages:
+- content/portfolio/1634-ronson-rd.md
 - content/portfolio/816-knox-st.md
 - content/portfolio/818-knox-st.md
 - content/portfolio/6510-haskell.md
 - content/portfolio/4219-alba-rd.md
 - content/portfolio/2147-2149-harold-street.md
-- content/portfolio/1634-ronson-rd.md
 - content/portfolio/1609-hazard-st.md
 - content/portfolio/2105-2107-park-st-1.md
 - content/portfolio/407-pinehaven-dr.md

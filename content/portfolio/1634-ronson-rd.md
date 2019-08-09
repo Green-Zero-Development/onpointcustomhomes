@@ -2,8 +2,8 @@
 date = "2019-04-01T02:00:17-05:00"
 floor_plans = ["/v1553284719/OnPoint%20Custom%20Homes/1634-Ronson-Sales-Plan-Level-1-1.jpg", "/v1553284720/OnPoint%20Custom%20Homes/1634-Ronson-Sales-Plan-Level-2-1.jpg", "/v1553285334/OnPoint%20Custom%20Homes/Ronson_Final-Rendering.jpg"]
 gallery_images = []
-is_on_sale = true
-is_pending = false
+is_on_sale = false
+is_pending = true
 is_sold = false
 layout = "home-single"
 page_kind = "home"
