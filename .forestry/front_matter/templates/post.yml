@@ -68,6 +68,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/blog/new-awards-from-the-texas-association-of-builders-1.md
 - content/blog/earl-dana-visit-indy-for-master-builder-meeting.md
 - content/blog/basics-of-building-pre-wiring-smart-home-tech.md
 - content/blog/basics-of-building-insulation.md
