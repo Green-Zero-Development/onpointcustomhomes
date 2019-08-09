@@ -17,14 +17,16 @@ If you follow the adventures of On Point on [Facebook](https://www.facebook.com/
 
 ![](https://res.cloudinary.com/onpointcustomhomes/image/upload/v1553366252/OnPoint%20Custom%20Homes/IMG_2361-1400x1050.jpg)
 
-![](https://res.cloudinary.com/onpointcustomhomes/image/upload/v1553366253/OnPoint%20Custom%20Homes/40096945_10156594204299913_4069555390692458496_n-214x300.jpg)![](https://res.cloudinary.com/onpointcustomhomes/image/upload/v1553366254/OnPoint%20Custom%20Homes/39984924_10156594205784913_3536127152678240256_n-214x300.jpg)
+Will and Evan spent the last half of last week in Dallas attending the Sunbelt Builders Show put on by the Texas Association of Builders. The highlight of the trip was the STAR Award Show, which recognizes excellence in all areas of the home building industry. With more than 500 entries, the STAR awards are the largest award show in the state and On Point was pleased to take home seven new awards! Take a look below to see what we won and browse photos from each project!
 
-![](https://res.cloudinary.com/onpointcustomhomes/image/upload/v1553366252/OnPoint%20Custom%20Homes/39962169_10156594205829913_2490846427681390592_o-300x214.jpg)
+**Best Architectural Design (FARGO)**
 
-[Garrett](https://onpointcustomhomes.com/personnel/garrett-nance/), [Tiffany](https://onpointcustomhomes.com/personnel/tiffany-trask/) and [Ashley](https://onpointcustomhomes.com/personnel/ashley-tucker/) spent the last half of last week in Dallas attending the Sunbelt Builders Show put on by the Texas Association of Builders. The highlight of the trip was the STAR Award Show, which recognizes excellence in all areas of the home building industry. With more than 500 entries, the STAR awards are the largest award show in the state and On Point was pleased to take home three new awards! Take a look below to see what we won and browse photos from each project!
+**Best Master Bathroom Design (DEL MONTE)**
 
-**Best Architectural Design**
+**Best Overall Interior Design x2 (Sunburst, Dunlavy)**
 
-**Best Special Promotion for our playhouse partnership with Ronald McDonald**
+**Best MAster Bedroom (DUNLAVY)**
+
+**Best Special Promotion, Breakfast with Santa**
 
 Many congrats and thanks to our awesome team for their hard work and success.
