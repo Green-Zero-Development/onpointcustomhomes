@@ -141,6 +141,7 @@ fields:
     required: true
   default: home
 pages:
+- content/portfolio/1409-chamboard-ln.md
 - content/portfolio/2626-2628-greenbriar-dr.md
 - content/portfolio/2626-2628-greenbriar-dr-1.md
 - content/portfolio/1219-richelieu-lane.md
@@ -162,7 +163,6 @@ pages:
 - content/portfolio/6231-del-monte-dr.md
 - content/portfolio/4532-sunburst-st.md
 - content/portfolio/6508-haskell.md
-- content/portfolio/1409-chamboard-ln.md
 - content/portfolio/12463-pinerock-lane.md
 - content/portfolio/6255-inwood-drive.md
 - content/portfolio/2016-bolsover-st.md
