@@ -11,7 +11,7 @@ page_kind = "home"
 price = "859,999"
 progress_images = []
 slug = "/2626-greenbriar-dr"
-title = "2626 + 2628 GREENBRIAR DR"
+title = "2626 GREENBRIAR DR"
 type = "page"
 video_tour_link = ""
 [featured_image]
@@ -28,7 +28,7 @@ square_feet = "3,214"
 city = "Houston"
 neighboorhood = "UPPER KIRBY"
 state = "TX"
-street_address = "2626 + 2628 GREENBRIAR DR"
+street_address = "2626 GREENBRIAR DR"
 zip_code = 77098
 
 +++
