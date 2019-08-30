@@ -1,14 +1,14 @@
 +++
 date = "2019-03-19T21:00:17-05:00"
 floor_plans = ["/v1553284713/OnPoint%20Custom%20Homes/816-Knox-Sales-Plan-Level-1.jpg", "/v1553284713/OnPoint%20Custom%20Homes/816-Knox-Sales-Plan-Level-2.jpg", "/v1553284713/OnPoint%20Custom%20Homes/816-Knox-Sales-Plan-Level-3.jpg", "/v1553284713/OnPoint%20Custom%20Homes/816-Knox_Courtyard-View.jpg", "/v1553284716/OnPoint%20Custom%20Homes/816-818-Knox-1.jpg"]
-gallery_images = []
+gallery_images = ["/v1567200204/OnPoint%20Custom%20Homes/0N8A4761_j9rjdy.jpg", "/v1567200197/OnPoint%20Custom%20Homes/0N8A4695_mkzgzd.jpg", "/v1567200198/OnPoint%20Custom%20Homes/0N8A4689_ryhbpc.jpg", "/v1567200196/OnPoint%20Custom%20Homes/0N8A4683_hykmck.jpg", "/v1567200197/OnPoint%20Custom%20Homes/0N8A4674_stu2yn.jpg", "/v1567200193/OnPoint%20Custom%20Homes/0N8A4671_twdqja.jpg", "/v1567200200/OnPoint%20Custom%20Homes/0N8A4665_yrafxn.jpg", "/v1567200192/OnPoint%20Custom%20Homes/0N8A4653_vawm8k.jpg", "/v1567200196/OnPoint%20Custom%20Homes/0N8A4647_lst8pe.jpg", "/v1567200201/OnPoint%20Custom%20Homes/0N8A4626_q8jwge.jpg", "/v1567200202/OnPoint%20Custom%20Homes/0N8A4614_gm6rw0.jpg"]
 is_on_sale = true
 is_pending = false
 is_sold = false
 layout = "home-single"
 page_kind = "home"
 price = "879,999"
-progress_images = ["/v1565106474/OnPoint%20Custom%20Homes/P1010154_jdqoyf.jpg", "/v1565106474/OnPoint%20Custom%20Homes/P1010151_zop1wy.jpg", "/v1565106470/OnPoint%20Custom%20Homes/P1010146_xpjfqj.jpg", "/v1565106474/OnPoint%20Custom%20Homes/P1010142_ugsjhy.jpg", "/v1565106470/OnPoint%20Custom%20Homes/P1010141_ik2fnh.jpg", "/v1565106474/OnPoint%20Custom%20Homes/P1010138_ffxpdy.jpg", "/v1565106471/OnPoint%20Custom%20Homes/P1010136_yovbd8.jpg", "/v1565106470/OnPoint%20Custom%20Homes/P1010134_iseamk.jpg", "/v1565106450/OnPoint%20Custom%20Homes/P1010133_qbucom.jpg", "/v1565106459/OnPoint%20Custom%20Homes/P1010101_d5ibp0.jpg"]
+progress_images = []
 slug = "/816-knox-st"
 title = "816 KNOX ST"
 type = "page"
