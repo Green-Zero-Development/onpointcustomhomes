@@ -2,7 +2,6 @@
 "blog/category" = []
 "blog/tag" = []
 date = "2019-08-30T00:00:00-05:00"
-draft = true
 excerpt = "We are in search of an enthusiastic accounting professional to oversee and manage all office accounting tasks including, but not limited to, accounts receivables/payables, analysis of financial statements and various financial reporting for multiple entities. Candidate must be extremely proficient in QuickBooks."
 layout = "blog"
 slug = "/AccountingSpecialist"
@@ -17,9 +16,7 @@ We are in search of an enthusiastic accounting professional to oversee and manag
 
 * Oversee Accounts Payables and Accounts Receivables
 * Update cash flow forecasts on a weekly basis
-
-· Work with Banks/Clients to create and manage Draw Schedules for multiple projects
-
+* Work with Banks/Clients to create and manage Draw Schedules for multiple projects
 * Perform weekly bank draws for multiple projects, provide the appropriate backup, and serve as the main point of contact for the multiple banks
 * Responsible for managing Variance Reporting
 * Responsible for managing all audits and reconciliations
