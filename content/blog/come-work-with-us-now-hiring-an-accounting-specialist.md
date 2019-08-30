@@ -1,0 +1,15 @@
++++
+"blog/category" = []
+"blog/tag" = []
+date = "2019-08-30T00:00:00-05:00"
+draft = true
+excerpt = "We are in search of an enthusiastic accounting professional to oversee and manage all office accounting tasks including, but not limited to, accounts receivables/payables, analysis of financial statements and various financial reporting for multiple entities. Candidate must be extremely proficient in QuickBooks. This position would be responsible for the following:\n\n•\tOversee Accounts Payables and Accounts Receivables \n•\tUpdate cash flow forecasts on a weekly basis\n•\tWork with Banks/Clients to create and manage Draw Schedules for multiple projects\n•\tPerform weekly bank draws for multiple projects, provide the appropriate backup, and serve as the main point of contact for the multiple banks\n•\tResponsible for managing Variance Reporting\n•\tResponsible for managing all audits and reconciliations\n•\tAnalyze and complete financial statements for multiple entities \n•\tCapable of both completing all transactions in QuickBooks for multiple entities including journal entries for month end and quarter end close.  Must be able to work independently and perform the prelim review of financial reports monthly.\n•\tTech savvy individual who is willing to jump into different systems like QuickBooks online and add-in Apps for bank feeds, credit card feeds, uploads, etc.\n•\tCapable of jumping between tasks, ensuring all items are finished in an effective and efficient manner\n•\tAbility to meet and exceed deadlines in a fast-paced environment\n•\tThe ability to offer suggestions on how to book journal entries, fix G/L accounts and correct issues in the ledger\n\nThe tasks described above require a high level of focus and attention to detail combined with an ability to prioritize and manage time efficiently. Ability to analyze data and problem solve effectively required. We expect this team member to be a self-starter with the drive and dedication to learn and continually grow within our fast-paced environment. \n\nQualifications:\n1.\tMinimum four years of recent experience with full cycle accounting\n2.\tBachelor’s Degree in Accounting and/or Finance\n3.\tProficient in QuickBooks Online & Microsoft Office with strong Excel skills (vlookups, pivot tables, advanced formulas)\n4.\tStrong communication skills\n5.\tOrganized, self-starter that can complete tasks without regular supervision\n6.\tMust be accustomed to owning their workload and handle multiple tasks with ease\n7.\tExperience dealing with multiple entities is a huge plus\n8.\tProcess improver, idea maker, problem solver, innovative, with a good personality\n\nPlease email your resume and cover letter to Ashley at at@opcustomhomes.com\t\n\nSubject reading: Accounting Specialist – Your Name. \n"
+layout = "blog"
+slug = "/AccountingSpecialist"
+title = "Come Work With Us! Now Hiring an Accounting Specialist"
+type = "post"
+[featured_image]
+alt_text = ""
+blog_featured_image = "/v1553285022/OnPoint%20Custom%20Homes/logo.png"
+
++++
