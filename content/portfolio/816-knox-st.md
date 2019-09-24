@@ -12,7 +12,7 @@ progress_images = []
 slug = "/816-knox-st"
 title = "816 KNOX ST"
 type = "page"
-video_tour_link = "https://www.youtube.com/embed/F8LtV0FSrA"
+video_tour_link = "https://www.youtube.com/embed/_F8LtV0FSrA"
 [featured_image]
 alt_text = ""
 home_featured_image = "/v1569332357/OnPoint%20Custom%20Homes/0N8A9211_190924083851_hzzuzm.jpg"
