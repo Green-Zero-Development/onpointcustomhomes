@@ -15,7 +15,7 @@ type = "page"
 video_tour_link = ""
 [featured_image]
 alt_text = ""
-home_featured_image = "/v1553039503/OnPoint%20Custom%20Homes/818-Knox-_Front-Corner-1.jpg"
+home_featured_image = "/v1569332450/OnPoint%20Custom%20Homes/0N8A9208_190924083839_mu0nnk.jpg"
 [home_specifics]
 bathrooms = 3.5
 bedrooms = 3
