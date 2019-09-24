@@ -15,7 +15,7 @@ type = "page"
 video_tour_link = ""
 [featured_image]
 alt_text = ""
-home_featured_image = "/v1553038262/OnPoint%20Custom%20Homes/Ronson_Final-Rendering.jpg"
+home_featured_image = "/v1569331855/OnPoint%20Custom%20Homes/DSC_6114_oxlezy.jpg"
 [home_specifics]
 bathrooms = 3.5
 bedrooms = 4
