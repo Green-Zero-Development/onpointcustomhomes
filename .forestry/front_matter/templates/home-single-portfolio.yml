@@ -141,6 +141,7 @@ fields:
     required: true
   default: home
 pages:
+- content/portfolio/1219-richelieu-lane.md
 - content/portfolio/6510-haskell.md
 - content/portfolio/1634-ronson-rd.md
 - content/portfolio/818-knox-st.md
@@ -151,7 +152,6 @@ pages:
 - content/portfolio/1409-chamboard-ln.md
 - content/portfolio/2626-2628-greenbriar-dr.md
 - content/portfolio/2626-2628-greenbriar-dr-1.md
-- content/portfolio/1219-richelieu-lane.md
 - content/portfolio/1516-blair-st.md
 - content/portfolio/2622-2624-greenbriar-dr.md
 - content/portfolio/4219-alba-rd.md
