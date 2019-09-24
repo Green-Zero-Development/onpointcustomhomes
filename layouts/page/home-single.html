@@ -125,7 +125,7 @@
             </div>
             {{ else }}{{ end }}
             {{ if .Params.video_tour_link }}
-            <iframe id="player" class="w-full lg:w-1/2 mx-auto py-5 h-home" type="text/html"
+            <iframe id="player" class="w-full lg:w-1/2 mx-auto py-5 z-50 h-home" type="text/html"
   src="{{ .Params.video_tour_link }}" frameborder="0"></iframe>
                 {{ else }}
             {{ end }}
