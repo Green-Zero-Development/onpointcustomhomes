@@ -1,5 +1,6 @@
 +++
 date = "2019-03-03T16:00:17-06:00"
+draft = true
 floor_plans = ["/v1553284723/OnPoint%20Custom%20Homes/2626-GREENBRIAR-Sales-Plan-Level-2.jpg", "/v1553284724/OnPoint%20Custom%20Homes/2626-GREENBRIAR-Sales-Plan-Level-3.jpg", "/v1553284724/OnPoint%20Custom%20Homes/2626-GREENBRIAR-Sales-Plan-Level-1.jpg"]
 gallery_images = ["/v1561733592/OnPoint%20Custom%20Homes/Greenbriar.jpg", "/v1561733705/OnPoint%20Custom%20Homes/Greenbriar%201.jpg", "/v1561733744/OnPoint%20Custom%20Homes/Greenbriar%203.jpg", "/v1561733744/OnPoint%20Custom%20Homes/Greenbriar%202.jpg", "/v1561733833/OnPoint%20Custom%20Homes/Greenbriar%205.jpg", "/v1561733831/OnPoint%20Custom%20Homes/Greenbriar%204.jpg", "/v1561733833/OnPoint%20Custom%20Homes/Greenbriar%206.jpg", "/v1561733833/OnPoint%20Custom%20Homes/Greenbriar%208.jpg", "/v1561733833/OnPoint%20Custom%20Homes/Greenbriar%207.jpg", "/v1561733830/OnPoint%20Custom%20Homes/Greenbriar%209.jpg", "/v1561733830/OnPoint%20Custom%20Homes/Greenbriar%2010.jpg", "/v1561733830/OnPoint%20Custom%20Homes/Greenbriar%2011.jpg", "/v1561733830/OnPoint%20Custom%20Homes/Greenbriar%2012.jpg", "/v1561733830/OnPoint%20Custom%20Homes/Greenbriar%2013.jpg"]
 is_on_sale = false
