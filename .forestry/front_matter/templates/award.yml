@@ -36,6 +36,7 @@ fields:
     required: true
   default: award
 pages:
+- content/awards/custom-builder-of-the-year-finalist-best-overall-interior-design-x2-best-master-bedroom-best-architectural-design-best-master-bathroom-1.md
 - content/awards/best-in-american-living-1.md
 - content/awards/custom-builder-of-the-year-finalist-best-overall-interior-design-x2-best-master-bedroom-best-architectural-design-best-master-bathroom.md
 - content/awards/Best of Houzz 2019.md
