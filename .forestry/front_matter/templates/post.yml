@@ -59,7 +59,7 @@ fields:
     name: blog_featured_image
     label: Blog Featured Image
     config:
-      maxSize: '2'
+      maxSize: '0.5'
   - name: alt_text
     label: Alt text
     type: text
