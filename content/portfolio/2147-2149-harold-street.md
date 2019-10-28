@@ -15,7 +15,7 @@ type = "page"
 video_tour_link = ""
 [featured_image]
 alt_text = ""
-home_featured_image = "/v1553038968/OnPoint%20Custom%20Homes/Harold_Combined-Rendering.jpg"
+home_featured_image = "/v1572277871/OnPoint%20Custom%20Homes/0N8A3458_frt_flbm8s.jpg"
 [home_specifics]
 bathrooms = 3.5
 bedrooms = 4
