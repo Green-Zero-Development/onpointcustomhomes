@@ -15,7 +15,7 @@ type = "page"
 video_tour_link = "https://www.youtube.com/embed/JQ7n23IQ6g0"
 [featured_image]
 alt_text = ""
-home_featured_image = "/v1561732609/OnPoint%20Custom%20Homes/6J3A5199PHOTORESIZERCROPRESIZEANDSHAREIMAGESINBATCH627201962406PM.jpg"
+home_featured_image = "/v1572280917/OnPoint%20Custom%20Homes/6J3A5196_small_doursl.jpg"
 [home_specifics]
 bathrooms = 3.5
 bedrooms = 4
