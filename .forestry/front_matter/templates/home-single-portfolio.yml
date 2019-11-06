@@ -141,6 +141,7 @@ fields:
     required: true
   default: home
 pages:
+- content/portfolio/818-knox-st.md
 - content/portfolio/816-knox-st.md
 - content/portfolio/2202-2204-driscoll-street.md
 - content/portfolio/2106-2108-dunlavy-street.md
@@ -151,7 +152,6 @@ pages:
 - content/portfolio/4219-alba-rd.md
 - content/portfolio/1609-hazard-st.md
 - content/portfolio/2626-2628-greenbriar-dr.md
-- content/portfolio/818-knox-st.md
 - content/portfolio/6508-haskell.md
 - content/portfolio/2626-2628-greenbriar-dr-1.md
 - content/portfolio/2622-2624-greenbriar-dr.md
