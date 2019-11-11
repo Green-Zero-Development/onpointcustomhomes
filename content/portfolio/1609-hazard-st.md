@@ -1,5 +1,5 @@
 +++
-date = "2019-04-09T01:00:17-05:00"
+date = 2019-04-09T06:00:17Z
 floor_plans = ["/v1562185005/OnPoint%20Custom%20Homes/1609%20Hazard%20%20-%204x3.jpg", "/v1562186045/OnPoint%20Custom%20Homes/1609%20Hazard%20-%20FIRST%20FLOOR-1.jpg", "/v1562186045/OnPoint%20Custom%20Homes/1609%20Hazard%20-%20SECOND%20FLOOR-1.jpg"]
 gallery_images = []
 is_on_sale = true
@@ -8,7 +8,7 @@ is_sold = false
 layout = "home-single"
 page_kind = "home"
 price = "1,749,999"
-progress_images = ["/v1570645024/OnPoint%20Custom%20Homes/P1010082_zei2yf.jpg", "/v1570644924/OnPoint%20Custom%20Homes/P1010106_fovgpt.jpg", "/v1570644924/OnPoint%20Custom%20Homes/P1010101_ntxmie.jpg", "/v1570644924/OnPoint%20Custom%20Homes/P1010099_ouijff.jpg", "/v1570644924/OnPoint%20Custom%20Homes/P1010098_szjpx5.jpg", "/v1570644924/OnPoint%20Custom%20Homes/P1010088_zonrbo.jpg", "/v1570644924/OnPoint%20Custom%20Homes/P1010079_l1nbui.jpg", "/v1570644924/OnPoint%20Custom%20Homes/P1010075_b2n8qb.jpg", "/v1570644925/OnPoint%20Custom%20Homes/P1010071_ph8esd.jpg", "/v1570644924/OnPoint%20Custom%20Homes/P1010066_gqox8a.jpg"]
+progress_images = ["/v1573481664/OnPoint%20Custom%20Homes/P1010086_nu0sdo.jpg", "/v1573481665/OnPoint%20Custom%20Homes/P1010083_rb53yx.jpg", "/v1573481665/OnPoint%20Custom%20Homes/P1010080_gh5bca.jpg", "/v1573481665/OnPoint%20Custom%20Homes/P1010077_rv75qe.jpg", "/v1573481665/OnPoint%20Custom%20Homes/P1010073_rljfjs.jpg", "/v1573481665/OnPoint%20Custom%20Homes/P1010072_gt116h.jpg", "/v1573481665/OnPoint%20Custom%20Homes/P1010071_owo1qg.jpg", "/v1573481665/OnPoint%20Custom%20Homes/P1010068_tr7pzw.jpg", "/v1573481665/OnPoint%20Custom%20Homes/P1010065_dvkcpr.jpg", "/v1573481663/OnPoint%20Custom%20Homes/P1010061_trvg1j.jpg"]
 slug = "/1609-hazard-st"
 title = "1609 HAZARD ST"
 type = "page"
