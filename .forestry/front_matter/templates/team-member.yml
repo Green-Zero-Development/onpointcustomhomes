@@ -60,14 +60,14 @@ fields:
     required: true
   default: page
 pages:
+- content/personnel/ashley-tucker.md
+- content/personnel/evan-darr.md
+- content/personnel/tiffany-trask.md
+- content/personnel/will-hermann-aia.md
+- content/personnel/brad-williams.md
+- content/personnel/albert-aguirre.md
+- content/personnel/earl-correll.md
 - content/personnel/test3.md
 - content/personnel/dana-walker.md
 - content/personnel/garrett-nance.md
-- content/personnel/earl-correll.md
-- content/personnel/ashley-tucker.md
-- content/personnel/albert-aguirre.md
-- content/personnel/evan-darr.md
-- content/personnel/brad-williams.md
 - content/personnel/robert-appelgate.md
-- content/personnel/will-hermann-aia.md
-- content/personnel/tiffany-trask.md
