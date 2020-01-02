@@ -28,6 +28,6 @@ city = "Houston"
 neighboorhood = "UPPER KIRBY"
 state = "TX"
 street_address = "2149 HAROLD STREET"
-zip_code = 77098
+zip_code = "77098"
 
 +++
