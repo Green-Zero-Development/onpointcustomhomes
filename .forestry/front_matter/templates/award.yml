@@ -36,11 +36,11 @@ fields:
     required: true
   default: award
 pages:
+- content/awards/2018 Houston Prism.md
+- content/awards/2018 taob star.md
+- content/awards/40 Under 40.md
+- content/awards/Best of Houzz 2019.md
+- content/awards/Texas Association of Builders Excellence under 45 Award.md
 - content/awards/best-in-american-living-1.md
 - content/awards/custom-builder-of-the-year-finalist-best-overall-interior-design-x2-best-master-bedroom-best-architectural-design-best-master-bathroom-1.md
 - content/awards/custom-builder-of-the-year-finalist-best-overall-interior-design-x2-best-master-bedroom-best-architectural-design-best-master-bathroom.md
-- content/awards/2018 taob star.md
-- content/awards/40 Under 40.md
-- content/awards/2018 Houston Prism.md
-- content/awards/Best of Houzz 2019.md
-- content/awards/Texas Association of Builders Excellence under 45 Award.md
