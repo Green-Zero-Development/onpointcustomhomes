@@ -1,5 +1,5 @@
 +++
-date = 2019-04-11T00:00:17Z
+date = 2020-01-14T01:00:17Z
 floor_plans = ["/v1556032069/OnPoint%20Custom%20Homes/4219%20Alba_Sales%20Plan_1st%20FLoor.jpg", "/v1556032069/OnPoint%20Custom%20Homes/4219%20Alba_Sales%20Plan_2nd%20Floor.jpg", "/v1560814640/OnPoint%20Custom%20Homes/4219%20Alba%20-%20Front%20Rendering%204x3PHOTORESIZERCROPRESIZEANDSHAREIMAGESINBATCH617201963445PM.jpg", "/v1553284727/OnPoint%20Custom%20Homes/4219-Alba_Backyard.jpg", "/v1553284725/OnPoint%20Custom%20Homes/4219-Alba_Site-View.jpg"]
 gallery_images = []
 is_on_sale = true
@@ -28,6 +28,6 @@ city = "Houston"
 neighboorhood = "GARDEN OAKS"
 state = "TX"
 street_address = "4219 ALBA RD"
-zip_code = 77018
+zip_code = "77018"
 
 +++
