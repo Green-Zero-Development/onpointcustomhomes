@@ -28,6 +28,6 @@ city = "Houston"
 neighboorhood = "RIVER OAKS SHOPPING CENTER"
 state = "TX"
 street_address = "1609 HAZARD ST"
-zip_code = 77019
+zip_code = "77019"
 
 +++
