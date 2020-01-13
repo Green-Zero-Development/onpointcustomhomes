@@ -9,8 +9,8 @@ layout = "home-single"
 page_kind = "home"
 price = "849,999"
 progress_images = []
-slug = "/2202-driscoll"
-title = "2202 + 2204 DRISCOLL STREET"
+slug = "/2204-driscoll"
+title = "2204 DRISCOLL STREET"
 type = "page"
 video_tour_link = "https://www.youtube.com/embed/JQ7n23IQ6g0"
 [featured_image]
@@ -27,7 +27,7 @@ square_feet = "3,330"
 city = "Houston"
 neighboorhood = "HYDE PARK"
 state = "TX"
-street_address = "2202 + 2204 DRISCOLL STREET"
-zip_code = 77019
+street_address = "2204 DRISCOLL STREET"
+zip_code = "77019"
 
 +++
