@@ -2,8 +2,7 @@
 "blog/category" = []
 "blog/tag" = []
 date = 2020-01-17T06:00:00Z
-draft = true
-excerpt = ""
+excerpt = "We are looking for an individual for a marketing + sales associate position with a desire to learn more about the residential real estate industry to assist and support our sales + marketing team."
 layout = "blog"
 slug = "/hiringsales"
 title = "We're Hiring! Real Estate Marketing + Sales Associate"
