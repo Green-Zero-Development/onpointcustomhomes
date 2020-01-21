@@ -3,8 +3,8 @@ date = 2019-03-23T05:00:00Z
 floor_plans = []
 gallery_images = ["/v1553031192/OnPoint%20Custom%20Homes/P2270123-1.jpg"]
 is_on_sale = false
-is_pending = true
-is_sold = false
+is_pending = false
+is_sold = true
 layout = "home-single"
 page_kind = "home"
 price = ""
@@ -28,6 +28,6 @@ city = "Houston"
 neighboorhood = "MEMORIAL PARK"
 state = "TX"
 street_address = "6508 HASKELL"
-zip_code = 77007
+zip_code = "77007"
 
 +++
