@@ -1,7 +1,7 @@
 +++
 "blog/category" = []
 "blog/tag" = []
-date = "2019-08-30T00:00:00-05:00"
+date = 2019-08-30T05:00:00Z
 excerpt = "We are in search of an enthusiastic accounting professional to oversee and manage all office accounting tasks including, but not limited to, accounts receivables/payables, analysis of financial statements and various financial reporting for multiple entities. Candidate must be extremely proficient in QuickBooks."
 layout = "blog"
 slug = "/AccountingSpecialist"
