@@ -1,6 +1,5 @@
 +++
 date = 2019-03-26T04:00:00Z
-draft = true
 layout = "team-single"
 page_kind = "team"
 slug = "/le"
