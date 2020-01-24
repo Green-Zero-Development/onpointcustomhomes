@@ -7,7 +7,7 @@ is_pending = false
 is_sold = false
 layout = "home-single"
 page_kind = "home"
-price = "689,999"
+price = "679,999"
 progress_images = []
 slug = "/2108-dunlavy-st"
 title = "2106 +2108 DUNLAVY STREET"
@@ -28,6 +28,6 @@ city = "Houston"
 neighboorhood = "HYDE PARK"
 state = "TX"
 street_address = "2106 +2108 DUNLAVY STREET"
-zip_code = 77006
+zip_code = "77006"
 
 +++
