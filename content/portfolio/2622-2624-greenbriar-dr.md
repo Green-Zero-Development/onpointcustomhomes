@@ -1,6 +1,5 @@
 +++
-date = "2019-03-24T04:00:17-05:00"
-draft = true
+date = 2019-03-24T09:00:17Z
 floor_plans = ["/v1553801703/OnPoint%20Custom%20Homes/2622%20Greenbriar_Level%203.jpg", "/v1553801711/OnPoint%20Custom%20Homes/2622%20Greenbriar_Level%202.jpg", "/v1553801701/OnPoint%20Custom%20Homes/2622%20Greenbriar_Level%201.jpg"]
 gallery_images = ["/v1553801763/OnPoint%20Custom%20Homes/image-2019-03-28%20copy%202.jpg", "/v1553801789/OnPoint%20Custom%20Homes/image-2019-03-28%20copy%203.jpg", "/v1553802477/OnPoint%20Custom%20Homes/emomedia.net-37.jpg", "/v1553802477/OnPoint%20Custom%20Homes/emomedia.net-42.jpg", "/v1553802239/OnPoint%20Custom%20Homes/image-2019-03-28%20copy%202.jpg", "/v1553802260/OnPoint%20Custom%20Homes/image-2019-03-28%20copy%203.jpg", "/v1553802478/OnPoint%20Custom%20Homes/emomedia.net-52.jpg", "/v1553802478/OnPoint%20Custom%20Homes/Emomedia.net-57.jpg", "/v1553802478/OnPoint%20Custom%20Homes/emomedia.net-55.jpg", "/v1553802479/OnPoint%20Custom%20Homes/emomedia.net-54.jpg", "/v1553802476/OnPoint%20Custom%20Homes/emomedia.net-30.jpg", "/v1553802478/OnPoint%20Custom%20Homes/emomedia.net-29.jpg", "/v1553801828/OnPoint%20Custom%20Homes/image-2019-03-28%20copy%204.jpg", "/v1553802475/OnPoint%20Custom%20Homes/emomedia.net-28.jpg", "/v1553802477/OnPoint%20Custom%20Homes/emomedia.net-27.jpg", "/v1553802476/OnPoint%20Custom%20Homes/emomedia.net-26.jpg", "/v1553802479/OnPoint%20Custom%20Homes/emomedia.net-11.jpg"]
 is_on_sale = true
@@ -8,7 +7,7 @@ is_pending = false
 is_sold = false
 layout = "home-single"
 page_kind = "home"
-price = "859,999"
+price = "829,000"
 progress_images = []
 slug = "/2622-greenbriar"
 title = "2622 + 2624 GREENBRIAR DR"
@@ -29,6 +28,6 @@ city = "Houston"
 neighboorhood = "UPPER KIRBY"
 state = "TX"
 street_address = "2622 + 2624 GREENBRIAR DR"
-zip_code = 77007
+zip_code = "77007"
 
 +++
