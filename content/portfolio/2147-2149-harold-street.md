@@ -10,7 +10,7 @@ page_kind = "home"
 price = ""
 progress_images = ["/v1572277964/OnPoint%20Custom%20Homes/0N8A3458_frt_le1bdz.jpg", "/v1572277965/OnPoint%20Custom%20Homes/0N8A3341_lx0doo.jpg", "/v1572277967/OnPoint%20Custom%20Homes/0N8A3338_gyqr5a.jpg", "/v1572277963/OnPoint%20Custom%20Homes/0N8A3482_hwzwfs.jpg", "/v1572277966/OnPoint%20Custom%20Homes/0N8A3476_hffkrx.jpg", "/v1572277967/OnPoint%20Custom%20Homes/0N8A3479_yclbzn.jpg", "/v1572277968/OnPoint%20Custom%20Homes/0N8A3320_xbrekb.jpg", "/v1572277964/OnPoint%20Custom%20Homes/0N8A3344_ryucjt.jpg", "/v1572277962/OnPoint%20Custom%20Homes/0N8A3485_cuuvdk.jpg", "/v1572277964/OnPoint%20Custom%20Homes/0N8A3293_tabbrw.jpg", "/v1572277964/OnPoint%20Custom%20Homes/0N8A3299_vo07ly.jpg", "/v1572277963/OnPoint%20Custom%20Homes/0N8A3305_dmutlv.jpg", "/v1572277963/OnPoint%20Custom%20Homes/0N8A3311_cxhuaq.jpg", "/v1572277962/OnPoint%20Custom%20Homes/0N8A3275_zhk85s.jpg", "/v1572277961/OnPoint%20Custom%20Homes/0N8A3413_p9oycx.jpg", "/v1572277966/OnPoint%20Custom%20Homes/0N8A3491_nurtzw.jpg", "/v1572277964/OnPoint%20Custom%20Homes/0N8A3389_r1kw7t.jpg", "/v1572277961/OnPoint%20Custom%20Homes/0N8A3404_ebxora.jpg", "/v1572277960/OnPoint%20Custom%20Homes/0N8A3398_a9jnmk.jpg", "/v1572277960/OnPoint%20Custom%20Homes/0N8A3395_avyw6h.jpg", "/v1572277962/OnPoint%20Custom%20Homes/0N8A3407_yo7gpr.jpg", "/v1572277963/OnPoint%20Custom%20Homes/0N8A3416_n6qkyw.jpg", "/v1572277966/OnPoint%20Custom%20Homes/0N8A3506_fhoqk6.jpg", "/v1572277968/OnPoint%20Custom%20Homes/0N8A3473_u97cue.jpg", "/v1572277969/OnPoint%20Custom%20Homes/0N8A3354_dwooky.jpg"]
 slug = "/2149-harold-st"
-title = "2149 HAROLD STREET"
+title = "2147 + 2149 HAROLD STREET"
 type = "page"
 video_tour_link = ""
 [featured_image]
@@ -27,7 +27,7 @@ square_feet = "3,634"
 city = "Houston"
 neighboorhood = "UPPER KIRBY"
 state = "TX"
-street_address = "2149 HAROLD STREET"
+street_address = "2147 + 2149 HAROLD STREET"
 zip_code = "77098"
 
 +++
