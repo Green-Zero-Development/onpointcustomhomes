@@ -1,6 +1,6 @@
 +++
 date = 2020-01-13T01:00:17Z
-floor_plans = ["/v1556032069/OnPoint%20Custom%20Homes/4219%20Alba_Sales%20Plan_1st%20FLoor.jpg", "/v1556032069/OnPoint%20Custom%20Homes/4219%20Alba_Sales%20Plan_2nd%20Floor.jpg", "/v1560814640/OnPoint%20Custom%20Homes/4219%20Alba%20-%20Front%20Rendering%204x3PHOTORESIZERCROPRESIZEANDSHAREIMAGESINBATCH617201963445PM.jpg", "/v1553284727/OnPoint%20Custom%20Homes/4219-Alba_Backyard.jpg", "/v1553284725/OnPoint%20Custom%20Homes/4219-Alba_Site-View.jpg"]
+floor_plans = ["/v1556032069/OnPoint%20Custom%20Homes/4219%20Alba_Sales%20Plan_1st%20FLoor.jpg", "/v1556032069/OnPoint%20Custom%20Homes/4219%20Alba_Sales%20Plan_2nd%20Floor.jpg"]
 gallery_images = []
 is_on_sale = true
 is_pending = false
@@ -8,14 +8,14 @@ is_sold = false
 layout = "home-single"
 page_kind = "home"
 price = "1,299,999"
-progress_images = ["/v1580225859/OnPoint%20Custom%20Homes/P1280095_snvday.jpg", "/v1580225860/OnPoint%20Custom%20Homes/P1280083_kf3pdu.jpg", "/v1580225859/OnPoint%20Custom%20Homes/P1280076_w2uwgj.jpg", "/v1580225859/OnPoint%20Custom%20Homes/P1280072_q7jnnv.jpg", "/v1580225859/OnPoint%20Custom%20Homes/P1280071_urj7q4.jpg", "/v1580225860/OnPoint%20Custom%20Homes/P1280053_tt5dl1.jpg", "/v1580225859/OnPoint%20Custom%20Homes/P1280052_lfnnp8.jpg", "/v1580225859/OnPoint%20Custom%20Homes/P1280039_bai0u4.jpg", "/v1580225860/OnPoint%20Custom%20Homes/P1280038_omwjuw.jpg", "/v1580225859/OnPoint%20Custom%20Homes/P1280032_tuotn4.jpg", "/v1580225859/OnPoint%20Custom%20Homes/P1280013_qx3gou.jpg", "/v1580225860/OnPoint%20Custom%20Homes/P1280001_irgv8h.jpg"]
+progress_images = ["/v1583182730/OnPoint%20Custom%20Homes/Alba_4219_IMG_32_nprc8v.jpg", "/v1583182721/OnPoint%20Custom%20Homes/Alba_4219_IMG_31_pdg1px.jpg", "/v1583182730/OnPoint%20Custom%20Homes/Alba_4219_IMG_30_qifrks.jpg", "/v1583182704/OnPoint%20Custom%20Homes/Alba_4219_IMG_29_tzyyds.jpg", "/v1583182705/OnPoint%20Custom%20Homes/Alba_4219_IMG_28_pdbfqx.jpg", "/v1583182704/OnPoint%20Custom%20Homes/Alba_4219_IMG_27_najz2i.jpg", "/v1583182711/OnPoint%20Custom%20Homes/Alba_4219_IMG_26_zahh80.jpg", "/v1583182713/OnPoint%20Custom%20Homes/Alba_4219_IMG_25_eswe3h.jpg", "/v1583182709/OnPoint%20Custom%20Homes/Alba_4219_IMG_19_outimz.jpg", "/v1583182707/OnPoint%20Custom%20Homes/Alba_4219_IMG_18_e7qirn.jpg", "/v1583182712/OnPoint%20Custom%20Homes/Alba_4219_IMG_17_tv0eds.jpg", "/v1583182700/OnPoint%20Custom%20Homes/Alba_4219_IMG_15_vkfp2r.jpg", "/v1583182705/OnPoint%20Custom%20Homes/Alba_4219_IMG_12_cjuczy.jpg", "/v1583182709/OnPoint%20Custom%20Homes/Alba_4219_IMG_11_yzdbyh.jpg", "/v1583182710/OnPoint%20Custom%20Homes/Alba_4219_IMG_09b_jsa88z.jpg", "/v1583182709/OnPoint%20Custom%20Homes/Alba_4219_IMG_08_dtugh6.jpg", "/v1583182710/OnPoint%20Custom%20Homes/Alba_4219_IMG_07_sx2zik.jpg", "/v1583182701/OnPoint%20Custom%20Homes/Alba_4219_IMG_06_xg6ijo.jpg", "/v1583182709/OnPoint%20Custom%20Homes/Alba_4219_IMG_05_lbnqoi.jpg", "/v1583182709/OnPoint%20Custom%20Homes/Alba_4219_IMG_04_honh6m.jpg", "/v1583182703/OnPoint%20Custom%20Homes/Alba_4219_IMG_03_qm0bnf.jpg", "/v1583182725/OnPoint%20Custom%20Homes/Alba_4219_IMG_02z_e1ewjw.jpg", "/v1583182725/OnPoint%20Custom%20Homes/Alba_4219_IMG_02_s8abiv.jpg", "/v1583182725/OnPoint%20Custom%20Homes/Alba_4219_IMG_01_ritfip.jpg"]
 slug = "/4219-alba-rd"
 title = "4219 ALBA RD"
 type = "page"
 video_tour_link = ""
 [featured_image]
 alt_text = ""
-home_featured_image = "/v1560814640/OnPoint%20Custom%20Homes/4219%20Alba%20-%20Front%20Rendering%204x3PHOTORESIZERCROPRESIZEANDSHAREIMAGESINBATCH617201963445PM.jpg"
+home_featured_image = "/v1583190529/OnPoint%20Custom%20Homes/Alba_4219_IMG_01_jslyzh.jpg"
 [home_specifics]
 bathrooms = 3.5
 bedrooms = 4
