@@ -3,7 +3,7 @@ date = 2019-03-20T04:00:00Z
 layout = "team-single"
 page_kind = "team"
 slug = "/le"
-title = "Le Tran"
+title = "LE TRAN"
 type = "page"
 [featured_image]
 team_featured_image = "/v1579819985/OnPoint%20Custom%20Homes/LT_bshij0.jpg"
