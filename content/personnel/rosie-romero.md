@@ -1,9 +1,9 @@
 +++
-date = 2019-03-26T04:00:00Z
+date = 1999-03-21T06:00:00Z
 layout = "team-single"
 page_kind = "team"
 slug = "/rosie"
-title = "Rosie Romero"
+title = "ROSIE ROMERO"
 type = "page"
 [featured_image]
 team_featured_image = "/v1583271981/OnPoint%20Custom%20Homes/IMG_1987_njvp9n.jpg"
