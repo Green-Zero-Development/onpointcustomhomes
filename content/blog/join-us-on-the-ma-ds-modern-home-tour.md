@@ -2,7 +2,6 @@
 "blog/category" = []
 "blog/tag" = []
 date = 2020-03-04T06:00:00Z
-draft = true
 excerpt = ""
 layout = "blog"
 slug = "/madshometour"
