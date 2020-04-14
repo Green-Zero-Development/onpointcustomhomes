@@ -20,7 +20,7 @@ home_featured_image = "/v1553041076/OnPoint%20Custom%20Homes/exterior-02.jpg"
 bathrooms = 4.5
 bedrooms = 5
 description_of_home = ""
-how_many_cars_garage = nil
+how_many_cars_garage = ""
 lot_square_feet = "9,828"
 square_feet = "5,360"
 [location]
