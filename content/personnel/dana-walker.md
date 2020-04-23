@@ -1,5 +1,6 @@
 +++
 date = 2019-03-31T02:00:17Z
+draft = true
 layout = "team-single"
 pageImage = "/v1552861317/OnPoint%20Custom%20Homes/vbg_8.jpg"
 page_kind = "team"
