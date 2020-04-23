@@ -15,12 +15,12 @@ type = "page"
 video_tour_link = "https://www.youtube.com/embed/GzCUANkf5gQ?rel=0"
 [featured_image]
 alt_text = ""
-home_featured_image = "/v1553041076/OnPoint%20Custom%20Homes/exterior-02.jpg"
+home_featured_image = "/v1587678619/OnPoint%20Custom%20Homes/DSC_7074_htuxfw.jpg"
 [home_specifics]
 bathrooms = 4.5
 bedrooms = 5
 description_of_home = ""
-how_many_cars_garage = ""
+how_many_cars_garage = nil
 lot_square_feet = "9,828"
 square_feet = "5,360"
 [location]
