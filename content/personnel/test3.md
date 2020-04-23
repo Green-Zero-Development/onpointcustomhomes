@@ -1,10 +1,10 @@
 +++
-date = "2019-05-01T07:00:17-05:00"
+date = 2019-05-01T12:00:17Z
 layout = "team-single"
 pageImage = "/v1552861317/OnPoint%20Custom%20Homes/vbg_8.jpg"
 page_kind = "team"
 slug = "/john-leggett"
-title = "John Leggett"
+title = "JOHN LEGGETT"
 type = "page"
 [featured_image]
 team_featured_image = "/v1552863292/OnPoint%20Custom%20Homes/john.jpg"
