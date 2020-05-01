@@ -1,5 +1,4 @@
 +++
-draft = true
 name_of_publication = "Texas Association of Builders"
 page_kind = "press"
 press_link = "https://www.texasbuilders.org/site/publisher/files/Star%20Awards%20Finalists%20List%20for%20Press%20Release.pdf"
