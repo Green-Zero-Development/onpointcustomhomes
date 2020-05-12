@@ -80,10 +80,12 @@ fields:
   - type: text
     label: Lot Square Feet
     name: lot_square_feet
-  - type: number
-    name: how_many_cars_garage
+  - name: how_many_cars_garage
+    type: text
+    config:
+      required: false
     label: Size of Garage
-    description: How many cars can the garage hold?
+    description: How many cars can the garage fit? (please input a number)
   - type: textarea
     name: description_of_home
     label: Description of Home
