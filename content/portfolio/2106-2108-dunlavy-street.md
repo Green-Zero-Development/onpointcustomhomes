@@ -9,8 +9,8 @@ layout = "home-single"
 page_kind = "home"
 price = "679,999"
 progress_images = []
-slug = "/2108-dunlavy-st"
-title = "2106 +2108 DUNLAVY STREET"
+slug = "/2106-dunlavy-st"
+title = "2106 DUNLAVY STREET"
 type = "page"
 video_tour_link = "https://www.youtube.com/embed/lpZrNwQUZ9c"
 [featured_image]
@@ -27,7 +27,7 @@ square_feet = "2,913"
 city = "Houston"
 neighboorhood = "HYDE PARK"
 state = "TX"
-street_address = "2106 +2108 DUNLAVY STREET"
+street_address = "2106 DUNLAVY STREET"
 zip_code = "77006"
 
 +++
