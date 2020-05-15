@@ -130,9 +130,9 @@ mobile_menu_logo = "https://res.cloudinary.com/onpointcustomhomes/image/upload/v
 [params.address]
 city = "Houston"
 state = "TX"
-street = "3939 Essex Lane"
+street = "940 Corbindale Rd"
 suite = "100"
-zip = 77027
+zip = 77024
 [params.email]
 email = "sales@onpointcustomhomes.com"
 [params.tracking]
@@ -168,6 +168,11 @@ filename = "sitepages.xml"
         isPlainText = false
         mediaType = "application/xml"
         path = "/"
+    [outputFormats.sitepostListing]
+        baseName = "sitepostListing"
+        isPlainText = true
+        mediaType = "application/json"
+        notAlternative = true
 
 [outputs]
-  home = ["HTML", "sitemapindex", "sitepages", "siteposts", "RSS"]
+  home = ["HTML", "sitemapindex", "sitepages", "siteposts", "RSS", "sitepostListing"]

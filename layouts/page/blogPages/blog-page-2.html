@@ -14,6 +14,7 @@
 
 <section id="page-details" class="flex flex-wrap text-center">
     <div class="container bg-white flex flex-wrap w-5/6 lg:w-3/4 mx-auto">
+        {{ partial "scripts/search-script.html" . }}
         <div class="flex flex-wrap w-full mx-auto relative border-8 border-white hover:opacity-95 hover:cursor-pointer">
             {{ range after 25 (where .Site.Pages "Layout" "blog") }}
             <div class="w-5/6 lg:w-2/3 mx-auto text-left py-5 lg:py-16 lg:px-12 border-b-4">
