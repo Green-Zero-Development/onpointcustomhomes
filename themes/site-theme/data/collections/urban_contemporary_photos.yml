@@ -1,114 +1,134 @@
 ---
 urban_contemporary_photos:
 - photo:
-    photo_image: "/v1552965530/OnPoint%20Custom%20Homes/emomedia.net-37.jpg"
-  photo_label: emomedia.net-37
-- photo:
-    photo_image: "/v1552965490/OnPoint%20Custom%20Homes/emomedia.net-13-1.jpg"
-  photo_label: emomedia.net-13-1
-- photo:
-    photo_image: "/v1552965464/OnPoint%20Custom%20Homes/emomedia.net-31.jpg"
-  photo_label: emomedia.net-31
-- photo:
-    photo_image: "/v1552965419/OnPoint%20Custom%20Homes/emomedia.net-19-2.jpg"
-  photo_label: emomedia.net-19-2
-- photo:
-    photo_image: "/v1552965356/OnPoint%20Custom%20Homes/emomedia.net-17-2.jpg"
-  photo_label: emomedia.net-17-2
-- photo:
-    photo_image: "/v1552965326/OnPoint%20Custom%20Homes/DSC_2178.jpg"
-  photo_label: DSC_2178
-- photo:
-    photo_image: "/v1552965273/OnPoint%20Custom%20Homes/DSC_0115.jpg"
-  photo_label: DSC_0115
-- photo:
-    photo_image: "/v1552965244/OnPoint%20Custom%20Homes/DSC_3805.jpg"
-  photo_label: DSC_3805
-- photo:
-    photo_image: "/v1552965217/OnPoint%20Custom%20Homes/emomedia.net-14-2.jpg"
-  photo_label: emomedia.net-14-2
-- photo:
-    photo_image: "/v1552965165/OnPoint%20Custom%20Homes/DSC_1722.jpg"
-  photo_label: DSC_1722
-- photo:
-    photo_image: "/v1552965138/OnPoint%20Custom%20Homes/DSC_1684.jpg"
-  photo_label: DSC_1684
-- photo:
-    photo_image: "/v1552965114/OnPoint%20Custom%20Homes/emomedia.net-6.jpg"
-  photo_label: emomedia.net-6
-- photo:
-    photo_image: "/v1552965088/OnPoint%20Custom%20Homes/DSC_0131.jpg"
-  photo_label: DSC_0131
-- photo:
-    photo_image: "/v1552965065/OnPoint%20Custom%20Homes/DSC_0135.jpg"
-  photo_label: DSC_0135
-- photo:
-    photo_image: "/v1552965040/OnPoint%20Custom%20Homes/DSC_3892.jpg"
-  photo_label: DSC_3892
-- photo:
-    photo_image: "/v1552965005/OnPoint%20Custom%20Homes/DSC_7372.jpg"
-  photo_label: DSC_7372
-- photo:
-    photo_image: "/v1552964974/OnPoint%20Custom%20Homes/DSC_3862.jpg"
-  photo_label: DSC_3862
-- photo:
-    photo_image: "/v1552964949/OnPoint%20Custom%20Homes/DSC_1683.jpg"
-  photo_label: DSC_1683
-- photo:
-    photo_image: "/v1552959236/OnPoint%20Custom%20Homes/DSC_1672.jpg"
-  photo_label: DSC_1672
-- photo:
-    photo_image: "/v1552964888/OnPoint%20Custom%20Homes/DSC_2102.jpg"
-  photo_label: DSC_2102
-- photo:
-    photo_image: "/v1552964860/OnPoint%20Custom%20Homes/emomedia.net-2.jpg"
-  photo_label: emomedia.net-2
-- photo:
-    photo_image: "/v1552964828/OnPoint%20Custom%20Homes/emomedia.net-4-2.jpg"
-  photo_label: emomedia.net-4-2
-- photo:
-    photo_image: "/v1552964797/OnPoint%20Custom%20Homes/DSC_0136.jpg"
-  photo_label: DSC_0136
-- photo:
-    photo_image: "/v1552964756/OnPoint%20Custom%20Homes/DSC_1670.jpg"
-  photo_label: DSC_1670
-- photo:
-    photo_image: "/v1552964730/OnPoint%20Custom%20Homes/DSC_1663.jpg"
-  photo_label: DSC_1663
-- photo:
     photo_image: "/v1552964704/OnPoint%20Custom%20Homes/DSC_1764.jpg"
-  photo_label: DSC_1764
-- photo:
-    photo_image: "/v1552964674/OnPoint%20Custom%20Homes/emomedia.net-20.jpg"
-  photo_label: emomedia.net-20
-- photo:
-    photo_image: "/v1552964636/OnPoint%20Custom%20Homes/Knox2LG.jpg"
-  photo_label: Knox2LG
-- photo:
-    photo_image: "/v1552964608/OnPoint%20Custom%20Homes/DSC_8897-Copy.jpg"
-  photo_label: DSC_8897-Copy
-- photo:
-    photo_image: "/v1552964552/OnPoint%20Custom%20Homes/DSC_3812.jpg"
-  photo_label: DSC_3812
-- photo:
-    photo_image: "/v1552964520/OnPoint%20Custom%20Homes/DSC_1728.jpg"
-  photo_label: DSC_1728
-- photo:
-    photo_image: "/v1552964487/OnPoint%20Custom%20Homes/DSC_2245.jpg"
-  photo_label: DSC_2245
-- photo:
-    photo_image: "/v1552964459/OnPoint%20Custom%20Homes/emomedia.net-171.jpg"
-  photo_label: emomedia.net-171
+    alt_text: ''
+  photo_label: Ext
 - photo:
     photo_image: "/v1552959023/OnPoint%20Custom%20Homes/Front.jpg"
     alt_text: Urban contemporary
   photo_label: Front
 - photo:
+    photo_image: "/v1552965005/OnPoint%20Custom%20Homes/DSC_7372.jpg"
+    alt_text: ''
+  photo_label: living
+- photo:
+    photo_image: "/v1552965530/OnPoint%20Custom%20Homes/emomedia.net-37.jpg"
+    alt_text: ''
+  photo_label: patio living
+- photo:
+    photo_image: "/v1552965490/OnPoint%20Custom%20Homes/emomedia.net-13-1.jpg"
+    alt_text: ''
+  photo_label: migh bed
+- photo:
+    photo_image: "/v1552965464/OnPoint%20Custom%20Homes/emomedia.net-31.jpg"
+    alt_text: ''
+  photo_label: mich kitch
+- photo:
+    photo_image: "/v1552965419/OnPoint%20Custom%20Homes/emomedia.net-19-2.jpg"
+    alt_text: ''
+  photo_label: closet
+- photo:
+    photo_image: "/v1552965356/OnPoint%20Custom%20Homes/emomedia.net-17-2.jpg"
+    alt_text: ''
+  photo_label: bath
+- photo:
+    photo_image: "/v1552965273/OnPoint%20Custom%20Homes/DSC_0115.jpg"
+    alt_text: ''
+  photo_label: bath
+- photo:
+    photo_image: "/v1552965244/OnPoint%20Custom%20Homes/DSC_3805.jpg"
+    alt_text: ''
+  photo_label: bath old
+- photo:
+    photo_image: "/v1552965217/OnPoint%20Custom%20Homes/emomedia.net-14-2.jpg"
+    alt_text: ''
+  photo_label: master
+- photo:
+    photo_image: "/v1552965165/OnPoint%20Custom%20Homes/DSC_1722.jpg"
+    alt_text: ''
+  photo_label: master
+- photo:
+    photo_image: "/v1552965138/OnPoint%20Custom%20Homes/DSC_1684.jpg"
+    alt_text: ''
+  photo_label: living patio
+- photo:
+    photo_image: "/v1552965114/OnPoint%20Custom%20Homes/emomedia.net-6.jpg"
+    alt_text: ''
+  photo_label: living
+- photo:
+    photo_image: "/v1552965088/OnPoint%20Custom%20Homes/DSC_0131.jpg"
+    alt_text: ''
+  photo_label: living
+- photo:
+    photo_image: "/v1552965040/OnPoint%20Custom%20Homes/DSC_3892.jpg"
+    alt_text: ''
+  photo_label: living old
+- photo:
+    photo_image: "/v1552964974/OnPoint%20Custom%20Homes/DSC_3862.jpg"
+    alt_text: ''
+  photo_label: breakfast
+- photo:
+    photo_image: "/v1552964949/OnPoint%20Custom%20Homes/DSC_1683.jpg"
+    alt_text: ''
+  photo_label: living
+- photo:
+    photo_image: "/v1552959236/OnPoint%20Custom%20Homes/DSC_1672.jpg"
+    alt_text: ''
+  photo_label: living
+- photo:
+    photo_image: "/v1552964888/OnPoint%20Custom%20Homes/DSC_2102.jpg"
+    alt_text: ''
+  photo_label: dining
+- photo:
+    photo_image: "/v1552964860/OnPoint%20Custom%20Homes/emomedia.net-2.jpg"
+    alt_text: ''
+  photo_label: dining
+- photo:
+    photo_image: "/v1552964828/OnPoint%20Custom%20Homes/emomedia.net-4-2.jpg"
+    alt_text: ''
+  photo_label: dinign
+- photo:
+    photo_image: "/v1552964797/OnPoint%20Custom%20Homes/DSC_0136.jpg"
+    alt_text: ''
+  photo_label: kitch
+- photo:
+    photo_image: "/v1552964756/OnPoint%20Custom%20Homes/DSC_1670.jpg"
+    alt_text: ''
+  photo_label: kit
+- photo:
+    photo_image: "/v1552964730/OnPoint%20Custom%20Homes/DSC_1663.jpg"
+    alt_text: ''
+  photo_label: kitc
+- photo:
+    photo_image: "/v1552964459/OnPoint%20Custom%20Homes/emomedia.net-171.jpg"
+    alt_text: ''
+  photo_label: kitchen
+- photo:
+    photo_image: "/v1552964636/OnPoint%20Custom%20Homes/Knox2LG.jpg"
+    alt_text: ''
+  photo_label: Knox2LG
+- photo:
+    photo_image: "/v1552964608/OnPoint%20Custom%20Homes/DSC_8897-Copy.jpg"
+    alt_text: ''
+  photo_label: ext old
+- photo:
+    photo_image: "/v1552964520/OnPoint%20Custom%20Homes/DSC_1728.jpg"
+    alt_text: ''
+  photo_label: bath
+- photo:
+    photo_image: "/v1552964487/OnPoint%20Custom%20Homes/DSC_2245.jpg"
+    alt_text: ''
+  photo_label: living old
+- photo:
     photo_image: "/v1552964578/OnPoint%20Custom%20Homes/300_8839.jpg"
-  photo_label: '300_8839'
+    alt_text: ''
+  photo_label: ext
 - photo:
     photo_image: "/v1552965391/OnPoint%20Custom%20Homes/DSC_7473.jpg"
-  photo_label: DSC_7473
+    alt_text: ''
+  photo_label: bar
 - photo:
     photo_image: "/v1552965299/OnPoint%20Custom%20Homes/DSC_2147.jpg"
-  photo_label: DSC_2147
+    alt_text: ''
+  photo_label: bath
