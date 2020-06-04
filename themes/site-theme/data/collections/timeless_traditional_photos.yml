@@ -1,126 +1,162 @@
 ---
 timeless_traditional_photos:
 - photo:
-    photo_image: "/v1552971518/OnPoint%20Custom%20Homes/Stairs5.jpg"
-  photo_label: Stairs5
+    photo_image: "/v1552970834/OnPoint%20Custom%20Homes/DSC_0763.jpg"
+    alt_text: ''
+  photo_label: kitchen white
 - photo:
-    photo_image: "/v1552971494/OnPoint%20Custom%20Homes/300_6328.jpg"
-  photo_label: '300_6328'
+    photo_image: "/v1552970613/OnPoint%20Custom%20Homes/DSC_0764.jpg"
+    alt_text: ''
+  photo_label: kithcne white
 - photo:
-    photo_image: "/v1552971467/OnPoint%20Custom%20Homes/300_6403.jpg"
-  photo_label: '300_6403'
-- photo:
-    photo_image: "/v1552971441/OnPoint%20Custom%20Homes/300_7919.jpg"
-  photo_label: '300_7919'
-- photo:
-    photo_image: "/v1552971414/OnPoint%20Custom%20Homes/300_7925.jpg"
-  photo_label: '300_7925'
-- photo:
-    photo_image: "/v1552971390/OnPoint%20Custom%20Homes/300_8035.jpg"
-  photo_label: '300_8035'
-- photo:
-    photo_image: "/v1552971336/OnPoint%20Custom%20Homes/300_6436.jpg"
-  photo_label: '300_6436'
-- photo:
-    photo_image: "/v1552971143/OnPoint%20Custom%20Homes/300_6418.jpg"
-  photo_label: '300_6418'
+    photo_image: "/v1552970807/OnPoint%20Custom%20Homes/DSC_0768.jpg"
+    alt_text: ''
+  photo_label: kitch
 - photo:
     photo_image: "/v1552971122/OnPoint%20Custom%20Homes/DSC_0730.jpg"
-  photo_label: DSC_0730
+    alt_text: ''
+  photo_label: wine
 - photo:
     photo_image: "/v1552971096/OnPoint%20Custom%20Homes/Winery.jpg"
+    alt_text: ''
   photo_label: Winery
 - photo:
+    photo_image: "/v1552970722/OnPoint%20Custom%20Homes/DSC_0491.jpg"
+    alt_text: ''
+  photo_label: chevy etx
+- photo:
+    photo_image: "/v1552971518/OnPoint%20Custom%20Homes/Stairs5.jpg"
+    alt_text: ''
+  photo_label: Stairs5 old
+- photo:
+    photo_image: "/v1552971494/OnPoint%20Custom%20Homes/300_6328.jpg"
+    alt_text: ''
+  photo_label: stairs old
+- photo:
+    photo_image: "/v1552971467/OnPoint%20Custom%20Homes/300_6403.jpg"
+    alt_text: ''
+  photo_label: stairs old
+- photo:
+    photo_image: "/v1552971414/OnPoint%20Custom%20Homes/300_7925.jpg"
+    alt_text: ''
+  photo_label: bath old
+- photo:
+    photo_image: "/v1552971390/OnPoint%20Custom%20Homes/300_8035.jpg"
+    alt_text: ''
+  photo_label: bath old
+- photo:
+    photo_image: "/v1552971336/OnPoint%20Custom%20Homes/300_6436.jpg"
+    alt_text: ''
+  photo_label: bath old
+- photo:
+    photo_image: "/v1552971143/OnPoint%20Custom%20Homes/300_6418.jpg"
+    alt_text: ''
+  photo_label: master old
+- photo:
     photo_image: "/v1552971068/OnPoint%20Custom%20Homes/300_7931.jpg"
-  photo_label: '300_7931'
+    alt_text: ''
+  photo_label: study
 - photo:
     photo_image: "/v1552971036/OnPoint%20Custom%20Homes/Den3.jpg"
+    alt_text: ''
   photo_label: Den3
 - photo:
     photo_image: "/v1552971009/OnPoint%20Custom%20Homes/Maple-5201-fam-1.jpg"
-  photo_label: Maple-5201-fam-1
+    alt_text: ''
+  photo_label: living old
 - photo:
     photo_image: "/v1552970966/OnPoint%20Custom%20Homes/300_6361.jpg"
-  photo_label: '300_6361'
+    alt_text: ''
+  photo_label: living old
 - photo:
     photo_image: "/v1552970940/OnPoint%20Custom%20Homes/300_6387.jpg"
-  photo_label: '300_6387'
+    alt_text: ''
+  photo_label: break
 - photo:
     photo_image: "/v1552970915/OnPoint%20Custom%20Homes/Dining4.jpg"
+    alt_text: ''
   photo_label: Dining4
 - photo:
     photo_image: "/v1552970888/OnPoint%20Custom%20Homes/Maple-5201-din.jpg"
+    alt_text: ''
   photo_label: Maple-5201-din
 - photo:
     photo_image: "/v1552970861/OnPoint%20Custom%20Homes/300_7991.jpg"
-  photo_label: '300_7991'
-- photo:
-    photo_image: "/v1552970834/OnPoint%20Custom%20Homes/DSC_0763.jpg"
-  photo_label: DSC_0763
-- photo:
-    photo_image: "/v1552970807/OnPoint%20Custom%20Homes/DSC_0768.jpg"
-  photo_label: DSC_0768
+    alt_text: ''
+  photo_label: kitchen old
 - photo:
     photo_image: "/v1552970781/OnPoint%20Custom%20Homes/Kitchen2.jpg"
+    alt_text: ''
   photo_label: Kitchen2
 - photo:
     photo_image: "/v1552970749/OnPoint%20Custom%20Homes/Kitchen.jpg"
+    alt_text: ''
   photo_label: Kitchen
 - photo:
-    photo_image: "/v1552970722/OnPoint%20Custom%20Homes/DSC_0491.jpg"
-  photo_label: DSC_0491
-- photo:
     photo_image: "/v1552970697/OnPoint%20Custom%20Homes/DSC_0705.jpg"
-  photo_label: DSC_0705
+    alt_text: ''
+  photo_label: bath
 - photo:
     photo_image: "/v1552970672/OnPoint%20Custom%20Homes/MasterBed3.jpg"
+    alt_text: ''
   photo_label: MasterBed3
 - photo:
     photo_image: "/v1552970645/OnPoint%20Custom%20Homes/DSC_0758.jpg"
-  photo_label: DSC_0758
-- photo:
-    photo_image: "/v1552970613/OnPoint%20Custom%20Homes/DSC_0764.jpg"
-  photo_label: DSC_0764
+    alt_text: ''
+  photo_label: living
 - photo:
     photo_image: "/v1552970574/OnPoint%20Custom%20Homes/Maple-5201-frt.jpg"
+    alt_text: ''
   photo_label: Maple-5201-frt
 - photo:
     photo_image: "/v1552970548/OnPoint%20Custom%20Homes/DSC0153.jpg"
-  photo_label: DSC0153
+    alt_text: ''
+  photo_label: ext
 - photo:
     photo_image: "/v1552970508/OnPoint%20Custom%20Homes/MasterBath3.jpg"
+    alt_text: ''
   photo_label: MasterBath3
 - photo:
     photo_image: "/v1552970478/OnPoint%20Custom%20Homes/DSC_0698.jpg"
-  photo_label: DSC_0698
+    alt_text: ''
+  photo_label: bed
 - photo:
     photo_image: "/v1552970445/OnPoint%20Custom%20Homes/300_6323.jpg"
-  photo_label: '300_6323'
+    alt_text: ''
+  photo_label: den
 - photo:
     photo_image: "/v1552970417/OnPoint%20Custom%20Homes/300_6311.jpg"
-  photo_label: '300_6311'
+    alt_text: ''
+  photo_label: dining
 - photo:
     photo_image: "/v1552970390/OnPoint%20Custom%20Homes/300_6371.jpg"
-  photo_label: '300_6371'
+    alt_text: ''
+  photo_label: kitche
 - photo:
     photo_image: "/v1552970361/OnPoint%20Custom%20Homes/Dusk2.jpg"
-  photo_label: Dusk2
-- photo:
-    photo_image: "/v1552970327/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00060.jpg"
-  photo_label: OnPoint-Custom-Homes-00060
-- photo:
-    photo_image: "/v1552970279/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00038.jpg"
-  photo_label: OnPoint-Custom-Homes-00038
-- photo:
-    photo_image: "/v1552441075/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00065-1400x1080.jpg"
-  photo_label: OnPoint-Custom-Homes-00065
-- photo:
-    photo_image: "/v1552617704/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00071.jpg"
-  photo_label: OnPoint-Custom-Homes-00071
-- photo:
-    photo_image: "/v1552617704/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00074.jpg"
-  photo_label: OnPoint-Custom-Homes-00074
+    alt_text: ''
+  photo_label: Ext
 - photo:
     photo_image: "/v1552617263/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00062.jpg"
     alt_text: Timeless Traditional
-  photo_label: on-point-custom-home
+  photo_label: del ext
+- photo:
+    photo_image: "/v1552970327/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00060.jpg"
+    alt_text: ''
+  photo_label: del monte master
+- photo:
+    photo_image: "/v1552970279/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00038.jpg"
+    alt_text: ''
+  photo_label: del monte bath
+- photo:
+    photo_image: "/v1552441075/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00065-1400x1080.jpg"
+    alt_text: ''
+  photo_label: del monte study
+- photo:
+    photo_image: "/v1552617704/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00071.jpg"
+    alt_text: ''
+  photo_label: del monte iving
+- photo:
+    photo_image: "/v1552617704/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00074.jpg"
+    alt_text: ''
+  photo_label: del kitchen
