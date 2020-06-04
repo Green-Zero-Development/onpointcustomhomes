@@ -1,6 +1,30 @@
 ---
 timeless_traditional_photos:
 - photo:
+    photo_image: "/v1552617263/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00062.jpg"
+    alt_text: Timeless Traditional
+  photo_label: del ext
+- photo:
+    photo_image: "/v1552617704/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00071.jpg"
+    alt_text: ''
+  photo_label: del monte iving
+- photo:
+    photo_image: "/v1552441075/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00065-1400x1080.jpg"
+    alt_text: ''
+  photo_label: del monte study
+- photo:
+    photo_image: "/v1552617704/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00074.jpg"
+    alt_text: ''
+  photo_label: del kitchen
+- photo:
+    photo_image: "/v1552970327/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00060.jpg"
+    alt_text: ''
+  photo_label: del monte master
+- photo:
+    photo_image: "/v1552970279/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00038.jpg"
+    alt_text: ''
+  photo_label: del monte bath
+- photo:
     photo_image: "/v1552970834/OnPoint%20Custom%20Homes/DSC_0763.jpg"
     alt_text: ''
   photo_label: kitchen white
@@ -136,27 +160,3 @@ timeless_traditional_photos:
     photo_image: "/v1552970361/OnPoint%20Custom%20Homes/Dusk2.jpg"
     alt_text: ''
   photo_label: Ext
-- photo:
-    photo_image: "/v1552617263/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00062.jpg"
-    alt_text: Timeless Traditional
-  photo_label: del ext
-- photo:
-    photo_image: "/v1552970327/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00060.jpg"
-    alt_text: ''
-  photo_label: del monte master
-- photo:
-    photo_image: "/v1552970279/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00038.jpg"
-    alt_text: ''
-  photo_label: del monte bath
-- photo:
-    photo_image: "/v1552441075/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00065-1400x1080.jpg"
-    alt_text: ''
-  photo_label: del monte study
-- photo:
-    photo_image: "/v1552617704/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00071.jpg"
-    alt_text: ''
-  photo_label: del monte iving
-- photo:
-    photo_image: "/v1552617704/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00074.jpg"
-    alt_text: ''
-  photo_label: del kitchen
