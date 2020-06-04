@@ -1,6 +1,22 @@
 ---
 modern_luxury_photos:
 - photo:
+    alt_text: Modern Luxury designs for my home
+    photo_image: "/v1591294399/OnPoint%20Custom%20Homes/DSC_4660_huwmo4.jpg"
+  photo_label: 4020 ML
+- photo:
+    alt_text: Modern Luxury designs for my home
+    photo_image: "/v1591294367/OnPoint%20Custom%20Homes/DSC_4670_idxo9a.jpg"
+  photo_label: 4020 ML
+- photo:
+    alt_text: Modern Luxury designs for my home
+    photo_image: "/v1591294347/OnPoint%20Custom%20Homes/DSC_4638_oo4g2h.jpg"
+  photo_label: 4020 ML
+- photo:
+    alt_text: Modern Luxury designs for my home
+    photo_image: "/v1591294307/OnPoint%20Custom%20Homes/DSC_4945_agg1do.jpg"
+  photo_label: 4020 meadow lake
+- photo:
     photo_image: "/v1561735132/OnPoint%20Custom%20Homes/DSC_7723.jpg"
     alt_text: ''
   photo_label: New Photo
