@@ -181,18 +181,6 @@ urban_contemporary_photos:
     alt_text: ''
   photo_label: bath
 - photo:
-    photo_image: "/v1552965273/OnPoint%20Custom%20Homes/DSC_0115.jpg"
-    alt_text: ''
-  photo_label: bath
-- photo:
-    photo_image: "/v1552965217/OnPoint%20Custom%20Homes/emomedia.net-14-2.jpg"
-    alt_text: ''
-  photo_label: master
-- photo:
-    photo_image: "/v1552965165/OnPoint%20Custom%20Homes/DSC_1722.jpg"
-    alt_text: ''
-  photo_label: master
-- photo:
     photo_image: "/v1552965138/OnPoint%20Custom%20Homes/DSC_1684.jpg"
     alt_text: ''
   photo_label: living patio
@@ -200,14 +188,6 @@ urban_contemporary_photos:
     photo_image: "/v1552965114/OnPoint%20Custom%20Homes/emomedia.net-6.jpg"
     alt_text: ''
   photo_label: living
-- photo:
-    photo_image: "/v1552965088/OnPoint%20Custom%20Homes/DSC_0131.jpg"
-    alt_text: ''
-  photo_label: living
-- photo:
-    photo_image: "/v1552964974/OnPoint%20Custom%20Homes/DSC_3862.jpg"
-    alt_text: ''
-  photo_label: breakfast
 - photo:
     photo_image: "/v1552964949/OnPoint%20Custom%20Homes/DSC_1683.jpg"
     alt_text: ''
@@ -217,10 +197,6 @@ urban_contemporary_photos:
     alt_text: ''
   photo_label: living
 - photo:
-    photo_image: "/v1552964888/OnPoint%20Custom%20Homes/DSC_2102.jpg"
-    alt_text: ''
-  photo_label: dining
-- photo:
     photo_image: "/v1552964860/OnPoint%20Custom%20Homes/emomedia.net-2.jpg"
     alt_text: ''
   photo_label: dining
@@ -228,10 +204,6 @@ urban_contemporary_photos:
     photo_image: "/v1552964828/OnPoint%20Custom%20Homes/emomedia.net-4-2.jpg"
     alt_text: ''
   photo_label: dinign
-- photo:
-    photo_image: "/v1552964797/OnPoint%20Custom%20Homes/DSC_0136.jpg"
-    alt_text: ''
-  photo_label: kitch
 - photo:
     photo_image: "/v1552964756/OnPoint%20Custom%20Homes/DSC_1670.jpg"
     alt_text: ''
@@ -246,17 +218,5 @@ urban_contemporary_photos:
   photo_label: kitchen
 - photo:
     photo_image: "/v1552964520/OnPoint%20Custom%20Homes/DSC_1728.jpg"
-    alt_text: ''
-  photo_label: bath
-- photo:
-    photo_image: "/v1552964578/OnPoint%20Custom%20Homes/300_8839.jpg"
-    alt_text: ''
-  photo_label: ext
-- photo:
-    photo_image: "/v1552965391/OnPoint%20Custom%20Homes/DSC_7473.jpg"
-    alt_text: ''
-  photo_label: bar
-- photo:
-    photo_image: "/v1552965299/OnPoint%20Custom%20Homes/DSC_2147.jpg"
     alt_text: ''
   photo_label: bath
