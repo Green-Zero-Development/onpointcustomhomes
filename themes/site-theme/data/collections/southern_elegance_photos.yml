@@ -1,6 +1,18 @@
 ---
 southern_elegance_photos:
 - photo:
+    photo_image: "/v1591370776/OnPoint%20Custom%20Homes/1219_Richelieu_3_h9fp44.jpg"
+    alt_text: rich ext
+  photo_label: rich ext
+- photo:
+    photo_image: "/v1591370797/OnPoint%20Custom%20Homes/1219_Richelieu_8_mvq2ep.jpg"
+    alt_text: ''
+  photo_label: rich abck
+- photo:
+    photo_image: "/v1591370852/OnPoint%20Custom%20Homes/1219_Richelieu_40_zc1vf1.jpg"
+    alt_text: ''
+  photo_label: rich entr
+- photo:
     photo_image: "/v1591370597/OnPoint%20Custom%20Homes/DSC_6126_hagzqi.jpg"
     alt_text: ''
   photo_label: ROn ext
