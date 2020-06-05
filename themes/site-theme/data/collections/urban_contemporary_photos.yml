@@ -37,10 +37,6 @@ urban_contemporary_photos:
     alt_text: ''
   photo_label: bath
 - photo:
-    photo_image: "/v1552965244/OnPoint%20Custom%20Homes/DSC_3805.jpg"
-    alt_text: ''
-  photo_label: bath old
-- photo:
     photo_image: "/v1552965217/OnPoint%20Custom%20Homes/emomedia.net-14-2.jpg"
     alt_text: ''
   photo_label: master
@@ -60,10 +56,6 @@ urban_contemporary_photos:
     photo_image: "/v1552965088/OnPoint%20Custom%20Homes/DSC_0131.jpg"
     alt_text: ''
   photo_label: living
-- photo:
-    photo_image: "/v1552965040/OnPoint%20Custom%20Homes/DSC_3892.jpg"
-    alt_text: ''
-  photo_label: living old
 - photo:
     photo_image: "/v1552964974/OnPoint%20Custom%20Homes/DSC_3862.jpg"
     alt_text: ''
@@ -105,21 +97,9 @@ urban_contemporary_photos:
     alt_text: ''
   photo_label: kitchen
 - photo:
-    photo_image: "/v1552964636/OnPoint%20Custom%20Homes/Knox2LG.jpg"
-    alt_text: ''
-  photo_label: Knox2LG
-- photo:
-    photo_image: "/v1552964608/OnPoint%20Custom%20Homes/DSC_8897-Copy.jpg"
-    alt_text: ''
-  photo_label: ext old
-- photo:
     photo_image: "/v1552964520/OnPoint%20Custom%20Homes/DSC_1728.jpg"
     alt_text: ''
   photo_label: bath
-- photo:
-    photo_image: "/v1552964487/OnPoint%20Custom%20Homes/DSC_2245.jpg"
-    alt_text: ''
-  photo_label: living old
 - photo:
     photo_image: "/v1552964578/OnPoint%20Custom%20Homes/300_8839.jpg"
     alt_text: ''
