@@ -9,9 +9,25 @@ timeless_traditional_photos:
     alt_text: ''
   photo_label: lavin entry
 - photo:
+    photo_image: "/v1591369380/OnPoint%20Custom%20Homes/DSC_6912_ggoojv.jpg"
+    alt_text: ''
+  photo_label: lavin kitch
+- photo:
+    photo_image: "/v1591369425/OnPoint%20Custom%20Homes/DSC_6907_esvrb2.jpg"
+    alt_text: ''
+  photo_label: lavin kitch
+- photo:
     photo_image: "/v1591369267/OnPoint%20Custom%20Homes/DSC_6788_x4j9ry.jpg"
     alt_text: ''
   photo_label: lavin master
+- photo:
+    photo_image: "/v1591369300/OnPoint%20Custom%20Homes/DSC_6794_cpmupz.jpg"
+    alt_text: ''
+  photo_label: lavin bath
+- photo:
+    photo_image: "/v1591369323/OnPoint%20Custom%20Homes/DSC_6793_avq2uq.jpg"
+    alt_text: ''
+  photo_label: lavin bath
 - photo:
     photo_image: "/v1552617263/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00062.jpg"
     alt_text: Timeless Traditional
