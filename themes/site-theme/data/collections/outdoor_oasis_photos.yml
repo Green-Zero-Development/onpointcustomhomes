@@ -1,6 +1,10 @@
 ---
 outdoor_oasis_photos:
 - photo:
+    photo_image: "/v1591377615/OnPoint%20Custom%20Homes/Alba_4219_IMG_31_p5x6t7.jpg"
+    alt_text: ''
+  photo_label: alba back
+- photo:
     photo_image: "/v1591373996/OnPoint%20Custom%20Homes/DSC_0146_ckks7b.jpg"
     alt_text: ''
   photo_label: south back
