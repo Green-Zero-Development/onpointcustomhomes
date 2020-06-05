@@ -101,6 +101,10 @@ modern_luxury_photos:
     alt_text: Modern Entry Way
   photo_label: pine en
 - photo:
+    alt_text: Modern Luxury designs for my home
+    photo_image: "/v1591379255/OnPoint%20Custom%20Homes/Dining_2_b4mvua.jpg"
+  photo_label: pinegaven ding
+- photo:
     photo_image: "/v1552527332/OnPoint%20Custom%20Homes/emomedia.net-107.jpg"
     alt_text: Modern Living Room
   photo_label: pine liv
@@ -108,6 +112,10 @@ modern_luxury_photos:
     photo_image: "/v1552527338/OnPoint%20Custom%20Homes/emomedia.net-9.jpg"
     alt_text: Modern Kitchen of the Year
   photo_label: pine  lkit
+- photo:
+    alt_text: Modern Luxury designs for my home
+    photo_image: "/v1591379309/OnPoint%20Custom%20Homes/Kitchen_5_bbyegm.jpg"
+  photo_label: pine kitche
 - photo:
     photo_image: "/v1552527339/OnPoint%20Custom%20Homes/emomedia.net-45.jpg"
     alt_text: Modern Bathroom of the Year
