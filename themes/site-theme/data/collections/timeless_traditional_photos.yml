@@ -1,10 +1,6 @@
 ---
 timeless_traditional_photos:
 - photo:
-    photo_image: "/v1591369267/OnPoint%20Custom%20Homes/DSC_6788_x4j9ry.jpg"
-    alt_text: ''
-  photo_label: lavin master
-- photo:
     photo_image: "/v1591369202/OnPoint%20Custom%20Homes/DSC_7074_t7iwcf.jpg"
     alt_text: ''
   photo_label: inwood ext
@@ -12,6 +8,10 @@ timeless_traditional_photos:
     photo_image: "/v1591369242/OnPoint%20Custom%20Homes/DSC_6765_hzeude.jpg"
     alt_text: ''
   photo_label: lavin entry
+- photo:
+    photo_image: "/v1591369267/OnPoint%20Custom%20Homes/DSC_6788_x4j9ry.jpg"
+    alt_text: ''
+  photo_label: lavin master
 - photo:
     photo_image: "/v1552617263/OnPoint%20Custom%20Homes/OnPoint-Custom-Homes-00062.jpg"
     alt_text: Timeless Traditional
