@@ -81,6 +81,14 @@ southern_elegance_photos:
     alt_text: ''
   photo_label: ron bat
 - photo:
+    photo_image: "/v1552959717/OnPoint%20Custom%20Homes/DSCF9770.jpg"
+    alt_text: ''
+  photo_label: for liv
+- photo:
+    photo_image: "/v1552969381/OnPoint%20Custom%20Homes/DSCF7215.jpg"
+    alt_text: ''
+  photo_label: for break
+- photo:
     photo_image: "/v1591371760/OnPoint%20Custom%20Homes/DSC_7925_rtohua.jpg"
     alt_text: ''
   photo_label: blair ext
@@ -121,41 +129,29 @@ southern_elegance_photos:
     alt_text: ''
   photo_label: bra kit
 - photo:
-    photo_image: "/v1552969678/OnPoint%20Custom%20Homes/DSCF7326.jpg"
+    photo_image: "/v1552966825/OnPoint%20Custom%20Homes/DSC_1782.jpg"
     alt_text: ''
-  photo_label: bath
+  photo_label: cham ext
 - photo:
-    photo_image: "/v1552969634/OnPoint%20Custom%20Homes/DSC_9815.jpg"
+    photo_image: "/v1552966928/OnPoint%20Custom%20Homes/DSC_1571.jpg"
     alt_text: ''
-  photo_label: bed
+  photo_label: ccham kitch
 - photo:
-    photo_image: "/v1552969609/OnPoint%20Custom%20Homes/DSCF7355.jpg"
+    photo_image: "/v1552966903/OnPoint%20Custom%20Homes/DSC_1485.jpg"
     alt_text: ''
-  photo_label: bed
+  photo_label: cahm ent
 - photo:
-    photo_image: "/v1552969579/OnPoint%20Custom%20Homes/DSC_9836.jpg"
+    photo_image: "/v1552966950/OnPoint%20Custom%20Homes/DSC_1725.jpg"
     alt_text: ''
-  photo_label: study
-- photo:
-    photo_image: "/v1552969554/OnPoint%20Custom%20Homes/DSCF7278.jpg"
-    alt_text: ''
-  photo_label: living
-- photo:
-    photo_image: "/v1552959717/OnPoint%20Custom%20Homes/DSCF9770.jpg"
-    alt_text: ''
-  photo_label: for liv
-- photo:
-    photo_image: "/v1552969381/OnPoint%20Custom%20Homes/DSCF7215.jpg"
-    alt_text: ''
-  photo_label: for break
-- photo:
-    photo_image: "/v1552969123/OnPoint%20Custom%20Homes/DSC_3584.jpg"
-    alt_text: ''
-  photo_label: piping dine
+  photo_label: chambath
 - photo:
     photo_image: "/v1552969091/OnPoint%20Custom%20Homes/DSC_3538.jpg"
     alt_text: ''
   photo_label: pip kitch
+- photo:
+    photo_image: "/v1552969123/OnPoint%20Custom%20Homes/DSC_3584.jpg"
+    alt_text: ''
+  photo_label: piping dine
 - photo:
     photo_image: "/v1552969062/OnPoint%20Custom%20Homes/DSC_3533.jpg"
     alt_text: ''
@@ -173,29 +169,21 @@ southern_elegance_photos:
     alt_text: ''
   photo_label: pipe bath
 - photo:
-    photo_image: "/v1552966825/OnPoint%20Custom%20Homes/DSC_1782.jpg"
-    alt_text: ''
-  photo_label: cham ext
-- photo:
-    photo_image: "/v1552966903/OnPoint%20Custom%20Homes/DSC_1485.jpg"
-    alt_text: ''
-  photo_label: cahm ent
-- photo:
-    photo_image: "/v1552966928/OnPoint%20Custom%20Homes/DSC_1571.jpg"
-    alt_text: ''
-  photo_label: ccham kitch
-- photo:
-    photo_image: "/v1552966950/OnPoint%20Custom%20Homes/DSC_1725.jpg"
-    alt_text: ''
-  photo_label: chambath
-- photo:
     photo_image: "/v1552969419/OnPoint%20Custom%20Homes/DSCF9731.jpg"
     alt_text: ''
   photo_label: living
 - photo:
-    photo_image: "/v1552969354/OnPoint%20Custom%20Homes/DSCF7268.jpg"
+    photo_image: "/v1552969579/OnPoint%20Custom%20Homes/DSC_9836.jpg"
     alt_text: ''
-  photo_label: kith
+  photo_label: study
+- photo:
+    photo_image: "/v1552969554/OnPoint%20Custom%20Homes/DSCF7278.jpg"
+    alt_text: ''
+  photo_label: living
+- photo:
+    photo_image: "/v1552969678/OnPoint%20Custom%20Homes/DSCF7326.jpg"
+    alt_text: ''
+  photo_label: bath
 - photo:
     photo_image: "/v1552969291/OnPoint%20Custom%20Homes/DSCF9699.jpg"
     alt_text: ''
