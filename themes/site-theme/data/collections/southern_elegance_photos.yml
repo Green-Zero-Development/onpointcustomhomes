@@ -1,6 +1,10 @@
 ---
 southern_elegance_photos:
 - photo:
+    photo_image: "/v1591373395/OnPoint%20Custom%20Homes/VALLEY_FORGE_62_jvx1w9.jpg"
+    alt_text: ''
+  photo_label: vf ext
+- photo:
     photo_image: "/v1591373415/OnPoint%20Custom%20Homes/VALLEY_FORGE_58_cfblw4.jpg"
     alt_text: ''
   photo_label: vf entr
@@ -20,10 +24,6 @@ southern_elegance_photos:
     photo_image: "/v1591373515/OnPoint%20Custom%20Homes/VALLEY_FORGE_56_jqfwbn.jpg"
     alt_text: ''
   photo_label: vf 2 bath
-- photo:
-    photo_image: "/v1591373395/OnPoint%20Custom%20Homes/VALLEY_FORGE_62_jvx1w9.jpg"
-    alt_text: ''
-  photo_label: vf ext
 - photo:
     photo_image: "/v1591370776/OnPoint%20Custom%20Homes/1219_Richelieu_3_h9fp44.jpg"
     alt_text: rich ext
