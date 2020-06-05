@@ -1,6 +1,34 @@
 ---
 timeless_traditional_photos:
 - photo:
+    photo_image: "/v1591369513/OnPoint%20Custom%20Homes/DSC_3151_auypay.jpg"
+    alt_text: ''
+  photo_label: chung ext
+- photo:
+    photo_image: "/v1591369550/OnPoint%20Custom%20Homes/DSC_2849_wx9sok.jpg"
+    alt_text: ''
+  photo_label: chung ent
+- photo:
+    photo_image: "/v1591369575/OnPoint%20Custom%20Homes/DSC_2860_qtbmkv.jpg"
+    alt_text: ''
+  photo_label: chung stud
+- photo:
+    photo_image: "/v1591369658/OnPoint%20Custom%20Homes/DSC_2883_rauh6o.jpg"
+    alt_text: ''
+  photo_label: chung liv
+- photo:
+    photo_image: "/v1591369685/OnPoint%20Custom%20Homes/DSC_2892_kpgx8m.jpg"
+    alt_text: ''
+  photo_label: chung ktich
+- photo:
+    photo_image: "/v1591369711/OnPoint%20Custom%20Homes/DSC_2903_tmunlv.jpg"
+    alt_text: ''
+  photo_label: chun kith
+- photo:
+    photo_image: "/v1591369750/OnPoint%20Custom%20Homes/DSC_3037_x32cnr.jpg"
+    alt_text: ''
+  photo_label: chung bath
+- photo:
     photo_image: "/v1591369202/OnPoint%20Custom%20Homes/DSC_7074_t7iwcf.jpg"
     alt_text: ''
   photo_label: inwood ext
