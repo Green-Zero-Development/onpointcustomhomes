@@ -1,6 +1,50 @@
 ---
 outdoor_oasis_photos:
 - photo:
+    photo_image: ''
+    alt_text: ''
+  photo_label: hazrd
+- photo:
+    photo_image: "/v1591373996/OnPoint%20Custom%20Homes/DSC_0146_ckks7b.jpg"
+    alt_text: ''
+  photo_label: south back
+- photo:
+    photo_image: "/v1591374022/OnPoint%20Custom%20Homes/DSC_0144_puci08.jpg"
+    alt_text: ''
+  photo_label: south pool
+- photo:
+    photo_image: "/v1591374049/OnPoint%20Custom%20Homes/DSC_0136_or7jda.jpg"
+    alt_text: ''
+  photo_label: 'south '
+- photo:
+    photo_image: "/v1591373935/OnPoint%20Custom%20Homes/DSC_3410_x5a9ec.jpg"
+    alt_text: ''
+  photo_label: wig bac
+- photo:
+    photo_image: "/v1591373919/OnPoint%20Custom%20Homes/DSC_3412_dcbhgs.jpg"
+    alt_text: ''
+  photo_label: wig abck
+- photo:
+    photo_image: "/v1591373961/OnPoint%20Custom%20Homes/DSC_3688_kn8twi.jpg"
+    alt_text: ''
+  photo_label: wig pool
+- photo:
+    photo_image: "/v1591373876/OnPoint%20Custom%20Homes/DSC_3389_fefnrr.jpg"
+    alt_text: ''
+  photo_label: wig sum kit
+- photo:
+    photo_image: "/v1591373849/OnPoint%20Custom%20Homes/DSC_7047_nv3isi.jpg"
+    alt_text: ''
+  photo_label: lavin back
+- photo:
+    photo_image: "/v1591373815/OnPoint%20Custom%20Homes/DSC_6842_ci6k7y.jpg"
+    alt_text: ''
+  photo_label: lav pool
+- photo:
+    photo_image: "/v1591373801/OnPoint%20Custom%20Homes/DSC_6834_flnoie.jpg"
+    alt_text: ''
+  photo_label: lav pool
+- photo:
     photo_image: "/v1591373591/OnPoint%20Custom%20Homes/VALLEY_FORGE_23_hveqqb.jpg"
     alt_text: ''
   photo_label: vf 2
