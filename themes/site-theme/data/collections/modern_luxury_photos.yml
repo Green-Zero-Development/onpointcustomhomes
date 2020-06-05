@@ -117,6 +117,14 @@ modern_luxury_photos:
     photo_image: "/v1591379309/OnPoint%20Custom%20Homes/Kitchen_5_bbyegm.jpg"
   photo_label: pine kitche
 - photo:
+    alt_text: Modern Luxury designs for my home
+    photo_image: "/v1591379340/OnPoint%20Custom%20Homes/Master_Suite_2_xo6zeb.jpg"
+  photo_label: pine sitting
+- photo:
+    alt_text: Modern Luxury designs for my home
+    photo_image: "/v1591379368/OnPoint%20Custom%20Homes/Master_Suite_3_yow08m.jpg"
+  photo_label: pine master
+- photo:
     photo_image: "/v1552527339/OnPoint%20Custom%20Homes/emomedia.net-45.jpg"
     alt_text: Modern Bathroom of the Year
   photo_label: pine bat
@@ -128,6 +136,10 @@ modern_luxury_photos:
     photo_image: "/v1552527339/OnPoint%20Custom%20Homes/emomedia.net-22.jpg"
     alt_text: Modern Bathroom
   photo_label: pine powd
+- photo:
+    alt_text: Modern Luxury designs for my home
+    photo_image: "/v1591379425/OnPoint%20Custom%20Homes/emomedia.net-12_dgvubr.jpg"
+  photo_label: pine backyard
 - photo:
     photo_image: "/v1552527339/OnPoint%20Custom%20Homes/emomedia.net-40.jpg"
     alt_text: ''
