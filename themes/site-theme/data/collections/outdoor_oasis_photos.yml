@@ -105,10 +105,6 @@ outdoor_oasis_photos:
     alt_text: ''
   photo_label: pool
 - photo:
-    photo_image: "/v1552972181/OnPoint%20Custom%20Homes/Picture-020.jpg"
-    alt_text: ''
-  photo_label: pool old
-- photo:
     photo_image: "/v1552972148/OnPoint%20Custom%20Homes/DSCF1745-1.jpg"
     alt_text: ''
   photo_label: pool
@@ -119,39 +115,31 @@ outdoor_oasis_photos:
 - photo:
     photo_image: "/v1552972084/OnPoint%20Custom%20Homes/DSC_8518-Copy.jpg"
     alt_text: ''
-  photo_label: DSC_8518-Copy
+  photo_label: poil
 - photo:
     photo_image: "/v1552972037/OnPoint%20Custom%20Homes/DSC_7692.jpg"
     alt_text: ''
-  photo_label: DSC_7692
-- photo:
-    photo_image: "/v1552972002/OnPoint%20Custom%20Homes/DSCF7683.jpg"
-    alt_text: ''
-  photo_label: DSCF7683
+  photo_label: pool
 - photo:
     photo_image: "/v1552971976/OnPoint%20Custom%20Homes/DSC_7032.jpg"
     alt_text: ''
-  photo_label: DSC_7032
+  photo_label: leg
 - photo:
     photo_image: "/v1552971946/OnPoint%20Custom%20Homes/300_6352.jpg"
     alt_text: ''
-  photo_label: '300_6352'
+  photo_label: pool
 - photo:
     photo_image: "/v1552971901/OnPoint%20Custom%20Homes/DSC_1132.jpg"
     alt_text: ''
-  photo_label: DSC_1132
+  photo_label: fire
 - photo:
     photo_image: "/v1552971876/OnPoint%20Custom%20Homes/DSC_8594.jpg"
     alt_text: ''
-  photo_label: DSC_8594
+  photo_label: ec
 - photo:
     photo_image: "/v1552971844/OnPoint%20Custom%20Homes/DSC_8581.jpg"
     alt_text: ''
-  photo_label: DSC_8581
-- photo:
-    photo_image: "/v1552971808/OnPoint%20Custom%20Homes/DSC_3944.jpg"
-    alt_text: ''
-  photo_label: DSC_3944
+  photo_label: ec
 - photo:
     photo_image: "/v1552971730/OnPoint%20Custom%20Homes/6243-Chevy-Chase-Pool-view.jpg"
     alt_text: ''
