@@ -1,6 +1,38 @@
 ---
 upscale_blend_photos:
 - photo:
+    photo_image: "/v1591375348/OnPoint%20Custom%20Homes/DSC_8791_cunscl.jpg"
+    alt_text: ''
+  photo_label: pinerock
+- photo:
+    photo_image: "/v1591375377/OnPoint%20Custom%20Homes/DSC_8680_mpaob5.jpg"
+    alt_text: ''
+  photo_label: pinerock kit
+- photo:
+    photo_image: "/v1591375498/OnPoint%20Custom%20Homes/DSC_8676_yni06i.jpg"
+    alt_text: ''
+  photo_label: pr kit
+- photo:
+    photo_image: "/v1591375481/OnPoint%20Custom%20Homes/DSC_8648_oczm8b.jpg"
+    alt_text: ''
+  photo_label: PR living
+- photo:
+    photo_image: "/v1591375528/OnPoint%20Custom%20Homes/DSC_8684_ioe3jn.jpg"
+    alt_text: ''
+  photo_label: pr wine
+- photo:
+    photo_image: "/v1591375462/OnPoint%20Custom%20Homes/DSC_8577_tbx7vn.jpg"
+    alt_text: ''
+  photo_label: PR bath 2
+- photo:
+    photo_image: "/v1591375441/OnPoint%20Custom%20Homes/DSC_8560_vubsti.jpg"
+    alt_text: ''
+  photo_label: PR bath
+- photo:
+    photo_image: "/v1591375419/OnPoint%20Custom%20Homes/DSC_8504_qckjr2.jpg"
+    alt_text: ''
+  photo_label: PR closet
+- photo:
     photo_image: "/v1552962836/OnPoint%20Custom%20Homes/DSC_3727.jpg"
     alt_text: ''
   photo_label: piping ext
