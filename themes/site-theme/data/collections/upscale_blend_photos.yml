@@ -93,18 +93,6 @@ upscale_blend_photos:
     alt_text: ''
   photo_label: piping master
 - photo:
-    photo_image: "/v1552962618/OnPoint%20Custom%20Homes/emomedia.net-431.jpg"
-    alt_text: ''
-  photo_label: colq ext
-- photo:
-    photo_image: "/v1552963836/OnPoint%20Custom%20Homes/DSCF1457.jpg"
-    alt_text: ''
-  photo_label: master
-- photo:
-    photo_image: "/v1552963862/OnPoint%20Custom%20Homes/DSC_5360.jpg"
-    alt_text: ''
-  photo_label: legget master
-- photo:
     photo_image: "/v1552964108/OnPoint%20Custom%20Homes/DSCF1379.jpg"
     alt_text: ''
   photo_label: bath
@@ -117,21 +105,17 @@ upscale_blend_photos:
     alt_text: ''
   photo_label: bath
 - photo:
-    photo_image: "/v1552964238/OnPoint%20Custom%20Homes/emomedia.net-50.jpg"
-    alt_text: ''
-  photo_label: banks kitchen
-- photo:
     photo_image: "/v1552964017/OnPoint%20Custom%20Homes/emomedia.net-496.jpg"
     alt_text: ''
   photo_label: banks bath
 - photo:
-    photo_image: "/v1552964204/OnPoint%20Custom%20Homes/emomedia.net-72.jpg"
-    alt_text: ''
-  photo_label: Schu Ext
-- photo:
     photo_image: "/v1552963990/OnPoint%20Custom%20Homes/emomedia.net-481.jpg"
     alt_text: ''
   photo_label: bath
+- photo:
+    photo_image: "/v1552964238/OnPoint%20Custom%20Homes/emomedia.net-50.jpg"
+    alt_text: ''
+  photo_label: banks kitchen
 - photo:
     photo_image: "/v1552958709/OnPoint%20Custom%20Homes/DSC_7432.jpg"
     alt_text: ''
@@ -145,6 +129,10 @@ upscale_blend_photos:
     alt_text: ''
   photo_label: living
 - photo:
+    photo_image: "/v1552964204/OnPoint%20Custom%20Homes/emomedia.net-72.jpg"
+    alt_text: ''
+  photo_label: Schu Ext
+- photo:
     photo_image: "/v1552963207/OnPoint%20Custom%20Homes/DSC_7627.jpg"
     alt_text: ''
   photo_label: living
@@ -153,13 +141,13 @@ upscale_blend_photos:
     alt_text: ''
   photo_label: living
 - photo:
-    photo_image: "/v1552963145/OnPoint%20Custom%20Homes/DSC_8484.jpg"
-    alt_text: ''
-  photo_label: living
-- photo:
     photo_image: "/v1552963115/OnPoint%20Custom%20Homes/DSC_5256.jpg"
     alt_text: ''
   photo_label: legg living
+- photo:
+    photo_image: "/v1552962618/OnPoint%20Custom%20Homes/emomedia.net-431.jpg"
+    alt_text: ''
+  photo_label: colq ext
 - photo:
     photo_image: "/v1552962509/OnPoint%20Custom%20Homes/emomedia.net-428.jpg"
     alt_text: ''
@@ -181,14 +169,6 @@ upscale_blend_photos:
     alt_text: ''
   photo_label: colq kitch
 - photo:
-    photo_image: "/v1552962956/OnPoint%20Custom%20Homes/DSC_5407.jpg"
-    alt_text: ''
-  photo_label: break
-- photo:
-    photo_image: "/v1552962922/OnPoint%20Custom%20Homes/DSC_7403.jpg"
-    alt_text: ''
-  photo_label: dining
-- photo:
     photo_image: "/v1552962896/OnPoint%20Custom%20Homes/DSC_5237.jpg"
     alt_text: ''
   photo_label: dining
@@ -196,14 +176,6 @@ upscale_blend_photos:
     photo_image: "/v1552962648/OnPoint%20Custom%20Homes/DSC_7463.jpg"
     alt_text: ''
   photo_label: kitch
-- photo:
-    photo_image: "/v1552958355/OnPoint%20Custom%20Homes/DSCF1813.jpg"
-    alt_text: Automate And Maintain Your House
-  photo_label: ext
-- photo:
-    photo_image: "/v1552962587/OnPoint%20Custom%20Homes/DSC_5439.jpg"
-    alt_text: ''
-  photo_label: leg ext
 - photo:
     photo_image: "/v1552962479/OnPoint%20Custom%20Homes/emomedia.net-492.jpg"
     alt_text: ''
