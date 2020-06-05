@@ -1,6 +1,26 @@
 ---
 upscale_blend_photos:
 - photo:
+    photo_image: "/v1591377460/OnPoint%20Custom%20Homes/Alba_4219_IMG_18_a8hzae.jpg"
+    alt_text: ''
+  photo_label: alb game
+- photo:
+    photo_image: "/v1591377444/OnPoint%20Custom%20Homes/Alba_4219_IMG_25_db6xse.jpg"
+    alt_text: ''
+  photo_label: alba bed
+- photo:
+    photo_image: "/v1591377418/OnPoint%20Custom%20Homes/Alba_4219_IMG_07_rgvkfy.jpg"
+    alt_text: ''
+  photo_label: alb din
+- photo:
+    photo_image: "/v1591377403/OnPoint%20Custom%20Homes/Alba_4219_IMG_04_dn8lnj.jpg"
+    alt_text: ''
+  photo_label: alb st
+- photo:
+    photo_image: "/v1591377378/OnPoint%20Custom%20Homes/Alba_4219_IMG_02z_ugonn9.jpg"
+    alt_text: ''
+  photo_label: alba ex
+- photo:
     photo_image: "/v1591377035/OnPoint%20Custom%20Homes/0N8A0055_200605120540_mnzqv5.jpg"
     alt_text: ''
   photo_label: hazard ext
