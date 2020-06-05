@@ -1,18 +1,6 @@
 ---
 outdoor_oasis_photos:
 - photo:
-    photo_image: "/v1591373996/OnPoint%20Custom%20Homes/DSC_0146_ckks7b.jpg"
-    alt_text: ''
-  photo_label: south back
-- photo:
-    photo_image: "/v1591374022/OnPoint%20Custom%20Homes/DSC_0144_puci08.jpg"
-    alt_text: ''
-  photo_label: south pool
-- photo:
-    photo_image: "/v1591374049/OnPoint%20Custom%20Homes/DSC_0136_or7jda.jpg"
-    alt_text: ''
-  photo_label: 'south '
-- photo:
     photo_image: "/v1591373935/OnPoint%20Custom%20Homes/DSC_3410_x5a9ec.jpg"
     alt_text: ''
   photo_label: wig bac
@@ -28,6 +16,18 @@ outdoor_oasis_photos:
     photo_image: "/v1591373876/OnPoint%20Custom%20Homes/DSC_3389_fefnrr.jpg"
     alt_text: ''
   photo_label: wig sum kit
+- photo:
+    photo_image: "/v1591373996/OnPoint%20Custom%20Homes/DSC_0146_ckks7b.jpg"
+    alt_text: ''
+  photo_label: south back
+- photo:
+    photo_image: "/v1591374022/OnPoint%20Custom%20Homes/DSC_0144_puci08.jpg"
+    alt_text: ''
+  photo_label: south pool
+- photo:
+    photo_image: "/v1591374049/OnPoint%20Custom%20Homes/DSC_0136_or7jda.jpg"
+    alt_text: ''
+  photo_label: 'south '
 - photo:
     photo_image: "/v1591377188/OnPoint%20Custom%20Homes/0N8A0102_200605120559_uthpzc.jpg"
     alt_text: ''
