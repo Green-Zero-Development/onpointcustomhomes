@@ -1,6 +1,10 @@
 ---
 upscale_blend_photos:
 - photo:
+    photo_image: "/v1591376391/OnPoint%20Custom%20Homes/DSC_3922_200605115924_rr2ymr.jpg"
+    alt_text: ''
+  photo_label: Dum ex
+- photo:
     photo_image: "/v1591375348/OnPoint%20Custom%20Homes/DSC_8791_cunscl.jpg"
     alt_text: ''
   photo_label: pinerock
