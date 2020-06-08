@@ -12,7 +12,7 @@ progress_images = ["/v1590178810/OnPoint%20Custom%20Homes/hazard_yd74bm.jpg", "/
 slug = "/1609-hazard-st"
 title = "1609 HAZARD ST"
 type = "page"
-video_tour_link = "https://www.youtube.com/watch?v=BFMa7FBoAx0"
+video_tour_link = "https://www.youtube.com/watch?v=BFMa7FBoAx0&t=5s"
 [featured_image]
 alt_text = ""
 home_featured_image = "/v1590178945/OnPoint%20Custom%20Homes/hazard_zhlfiv.jpg"
