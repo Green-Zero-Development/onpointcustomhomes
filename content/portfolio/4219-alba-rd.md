@@ -12,7 +12,7 @@ progress_images = ["/v1583182725/OnPoint%20Custom%20Homes/Alba_4219_IMG_02z_e1ew
 slug = "/4219-alba-rd"
 title = "4219 ALBA RD"
 type = "page"
-video_tour_link = "https://youtu.be/TUgxn7CGK0c"
+video_tour_link = "https://www.youtube.com/embed/rFAB8rQCbtU"
 [featured_image]
 alt_text = ""
 home_featured_image = "/v1583190529/OnPoint%20Custom%20Homes/Alba_4219_IMG_01_jslyzh.jpg"
