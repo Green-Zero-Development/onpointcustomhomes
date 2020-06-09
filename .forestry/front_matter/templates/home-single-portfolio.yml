@@ -105,7 +105,7 @@ fields:
 - type: text
   name: video_tour_link
   label: Video Tour Link
-  description: 'NOTE: This must be a Youtube link.'
+  description: 'NOTE: This must be a Youtube EMBED Link.<br><br>NOT the share link!'
 - type: image_gallery
   label: Floor Plans
   name: floor_plans
