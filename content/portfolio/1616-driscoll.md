@@ -15,7 +15,7 @@ type = "page"
 video_tour_link = ""
 [featured_image]
 alt_text = ""
-home_featured_image = "/v1592577686/OnPoint%20Custom%20Homes/Design_soming_soon_1_jdq8xx.png"
+home_featured_image = "/v1592578040/OnPoint%20Custom%20Homes/Copy_of_Design_soming_soon_hk2wjl.png"
 [home_specifics]
 bathrooms = ""
 bedrooms = ""
