@@ -1,0 +1,53 @@
+<style>
+    #map {
+        height: 600px;
+    }
+</style>
+
+<script async defer
+  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBgH3zEBPEQrtoRWbN4y4Hb3n26q1Nv47M&callback=initMap">
+</script>
+
+<script>
+
+
+var geocoder;
+var map;
+{{ range (where .Site.Pages "Params.page_kind" "home") }}
+ var address{{ .File.UniqueID | safeJS }} = "{{ .Params.Location.Street_address | safeJS }} {{ .Params.Location.city | safeJS }}, {{ .Params.Location.zip_code | safeJS }}"
+{{ end }}
+
+function initMap() {
+    geocoder = new google.maps.Geocoder();
+
+    var houston = { lat: 29.783504, lng: -95.411648 };
+    map = new google.maps.Map(document.getElementById('map'), {
+        zoom: 12,
+        center: houston
+    });
+    {{ range (where .Site.Pages "Params.page_kind" "home") }}
+        codeAddress{{ .File.UniqueID | safeJS }}(address{{ .File.UniqueID | safeJS }});
+    function codeAddress{{ .File.UniqueID | safeJS }}(address) {
+
+    geocoder.geocode({ 'address': address }, function (results, status) {
+        var latLng = {lat: results[0].geometry.location.lat (), lng: results[0].geometry.location.lng ()};
+        console.log (latLng);
+        if (status == 'OK') {
+            var marker = new google.maps.Marker({
+                position: latLng,
+                map: map
+            });
+            google.maps.event.addDomListener(marker, 'click', function() {
+                window.location.href = {{ .Permalink }};
+            });
+        } else {
+            alert('Geocode was not successful for the following reason: ' + status);
+        }
+    });
+}
+    {{ end }}
+}
+
+</script>
+
+<div id="map" class="w-full"></div>
