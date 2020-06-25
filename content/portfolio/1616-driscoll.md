@@ -2,8 +2,8 @@
 date = 2020-06-19T04:00:00Z
 floor_plans = []
 gallery_images = []
-is_on_sale = true
-is_pending = false
+is_on_sale = false
+is_pending = true
 is_sold = false
 layout = "home-single"
 page_kind = "home"
