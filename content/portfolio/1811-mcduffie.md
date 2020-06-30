@@ -1,6 +1,5 @@
 +++
 date = 2020-06-19T04:00:00Z
-draft = true
 floor_plans = []
 gallery_images = []
 is_on_sale = false
@@ -10,7 +9,7 @@ layout = "home-single"
 page_kind = "home"
 price = "TBD"
 progress_images = []
-slug = "/1616-driscoll"
+slug = "/1811-mcduffie"
 title = "1811 McDuffie"
 type = "page"
 video_tour_link = ""
@@ -26,9 +25,9 @@ lot_square_feet = ""
 square_feet = ""
 [location]
 city = "Houston"
-neighboorhood = "River Oaks Shopping District"
+neighboorhood = "Hyde Park"
 state = "TX"
-street_address = "1616 Drsicoll "
+street_address = "1811 McDuffie"
 zip_code = "77019"
 
 +++
