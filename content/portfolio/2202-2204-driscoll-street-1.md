@@ -10,7 +10,7 @@ page_kind = "home"
 price = ""
 progress_images = []
 slug = "/2202-driscoll"
-title = "2202 DRISCOLL STREET"
+title = "2202 + 2204 DRISCOLL STREET"
 type = "page"
 video_tour_link = "https://www.youtube.com/embed/JQ7n23IQ6g0"
 [featured_image]
@@ -27,7 +27,7 @@ square_feet = "3,330"
 city = "Houston"
 neighboorhood = "HYDE PARK"
 state = "TX"
-street_address = "2202 DRISCOLL STREET"
+street_address = "2202 + 2204 DRISCOLL STREET"
 zip_code = "77019"
 
 +++
