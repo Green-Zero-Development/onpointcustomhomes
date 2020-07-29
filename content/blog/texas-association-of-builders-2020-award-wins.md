@@ -9,7 +9,7 @@ title = "Texas Association of Builders 2020 Award Wins!"
 type = "post"
 [featured_image]
 alt_text = ""
-blog_featured_image = "/v1596029385/OnPoint%20Custom%20Homes/1_hyjp23.jpg"
+blog_featured_image = "/v1596051958/OnPoint%20Custom%20Homes/awards_zh6kmb.jpg"
 
 +++
 ![](https://res.cloudinary.com/onpointcustomhomes/image/upload/v1596029385/OnPoint%20Custom%20Homes/1_hyjp23.jpg)
