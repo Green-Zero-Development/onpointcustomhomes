@@ -1,5 +1,5 @@
 +++
-date = 2020-08-05T04:00:00Z
+date = 2020-08-03T05:00:00Z
 floor_plans = []
 gallery_images = []
 is_on_sale = true
