@@ -1,16 +1,15 @@
 +++
-date = 2020-06-19T04:00:00Z
-draft = true
+date = 2020-08-05T04:00:00Z
 floor_plans = []
 gallery_images = []
-is_on_sale = false
+is_on_sale = true
 is_pending = false
-is_sold = true
+is_sold = false
 layout = "home-single"
 page_kind = "home"
 price = ""
 progress_images = []
-slug = "/1616-driscoll"
+slug = "/1603-driscoll"
 title = "1603 Driscoll"
 type = "page"
 video_tour_link = ""
@@ -28,7 +27,7 @@ square_feet = ""
 city = "Houston"
 neighboorhood = "River Oaks Shopping District"
 state = "TX"
-street_address = "1616 Drsicoll "
+street_address = "1603 Drsicoll "
 zip_code = "77019"
 
 +++
