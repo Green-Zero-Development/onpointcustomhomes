@@ -1,5 +1,5 @@
 +++
-date = 2020-01-06T07:00:17Z
+date = 2020-08-05T06:00:17Z
 floor_plans = ["/v1590178829/OnPoint%20Custom%20Homes/hazard_wghyyb.jpg", "/v1562186045/OnPoint%20Custom%20Homes/1609%20Hazard%20-%20FIRST%20FLOOR-1.jpg", "/v1562186045/OnPoint%20Custom%20Homes/1609%20Hazard%20-%20SECOND%20FLOOR-1.jpg"]
 gallery_images = []
 is_on_sale = true
