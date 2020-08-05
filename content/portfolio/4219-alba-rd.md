@@ -1,5 +1,5 @@
 +++
-date = 2020-01-13T01:00:17Z
+date = 2020-08-02T00:00:17Z
 floor_plans = ["/v1556032069/OnPoint%20Custom%20Homes/4219%20Alba_Sales%20Plan_1st%20FLoor.jpg", "/v1556032069/OnPoint%20Custom%20Homes/4219%20Alba_Sales%20Plan_2nd%20Floor.jpg"]
 gallery_images = []
 is_on_sale = true
