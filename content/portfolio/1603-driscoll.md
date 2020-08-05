@@ -27,7 +27,7 @@ square_feet = ""
 city = "Houston"
 neighboorhood = "River Oaks Shopping District"
 state = "TX"
-street_address = "1603 Drsicoll "
+street_address = "1603 Driscoll "
 zip_code = "77019"
 
 +++
