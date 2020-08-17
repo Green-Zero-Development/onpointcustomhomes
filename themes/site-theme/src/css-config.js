@@ -571,6 +571,7 @@ module.exports = {
     '32': '8rem',
     '48': '12rem',
     '64': '16rem',
+    'home-single-mobile': '20rem',
     'team': '20rem',
     'home': '23rem',
     'home-single': '30rem',
