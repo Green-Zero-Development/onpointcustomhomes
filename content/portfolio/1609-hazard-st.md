@@ -1,7 +1,7 @@
 +++
 date = 2020-08-15T06:00:17Z
 floor_plans = ["/v1590178829/OnPoint%20Custom%20Homes/hazard_wghyyb.jpg", "/v1562186045/OnPoint%20Custom%20Homes/1609%20Hazard%20-%20FIRST%20FLOOR-1.jpg", "/v1562186045/OnPoint%20Custom%20Homes/1609%20Hazard%20-%20SECOND%20FLOOR-1.jpg"]
-gallery_images = []
+gallery_images = ["/v1597777978/OnPoint%20Custom%20Homes/1609_Hazard_Pool_Rendering_aqjtce.png", "/v1597778012/OnPoint%20Custom%20Homes/1609_Hazard_Pool_Overhead_Rendering_evcnu8.png"]
 is_on_sale = true
 is_pending = false
 is_sold = false
