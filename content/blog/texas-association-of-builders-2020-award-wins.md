@@ -2,7 +2,7 @@
 "blog/category" = []
 "blog/tag" = []
 date = 2020-07-29T05:00:00Z
-excerpt = ""
+excerpt = "We look forward to the Texas Association of Builders STAR awards every year! Usually our team packs up and heads to the Sunbelt Builder Show for the trade show and award ceremony, but this year looked a bit different!"
 layout = "blog"
 slug = "/2020TABAwards"
 title = "Texas Association of Builders 2020 Award Wins!"
