@@ -2,7 +2,7 @@
 "blog/category" = []
 "blog/tag" = []
 date = 2020-08-04T05:00:00Z
-excerpt = ""
+excerpt = "Now more than ever, we are all hyper-aware of all things health and wellness. Due to the COVID-19 pandemic, there is a heightened awareness of and desire to remain as healthy and clean as possible, both inside and out. "
 layout = "blog"
 slug = "/hvacpurerair"
 title = "Upgrade your HVAC for purer air"
