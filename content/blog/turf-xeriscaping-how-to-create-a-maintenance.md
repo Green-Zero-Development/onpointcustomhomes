@@ -2,7 +2,7 @@
 "blog/category" = []
 "blog/tag" = ["on point custom homes", "on point", "yard care", "yard maintenance", "yard", "front yard", "back yard", "xeriscaping", "turf"]
 date = 2020-07-10T05:00:00Z
-excerpt = ""
+excerpt = "One thing all Texans can agree on is just how unpredictable the weather here can be. Knowing how to navigate these weather changes when it comes to maintaining a yard can become a huge hassle for homeowners. However, there are many landscaping options that can eliminate or reduce the need for serious maintenance in your yard."
 layout = "blog"
 slug = "/turf_xeriscaping"
 title = "Turf + Xeriscaping - How to Create a Maintenance "
