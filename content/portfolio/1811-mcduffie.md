@@ -20,7 +20,7 @@ home_featured_image = "/v1600447594/OnPoint%20Custom%20Homes/1809_1811_McDuffie_
 bathrooms = "3.5"
 bedrooms = "4"
 description_of_home = ""
-how_many_cars_garage = "2-Car"
+how_many_cars_garage = "2"
 lot_square_feet = "2,500"
 square_feet = "3,406"
 [location]
