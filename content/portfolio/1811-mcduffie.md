@@ -1,6 +1,6 @@
 +++
 date = 2020-06-30T04:00:00Z
-floor_plans = []
+floor_plans = ["/v1600446996/OnPoint%20Custom%20Homes/9.2_-_Sheet_-_SP01_-_FIRST_FLOOR_xqlo7u.jpg", "/v1600446995/OnPoint%20Custom%20Homes/9.2_-_Sheet_-_SP02_-_SECOND_FLOOR_boih50.jpg", "/v1600446995/OnPoint%20Custom%20Homes/9.2_-_Sheet_-_SP03_-_THIRD_FLOOR_onfmcb.jpg"]
 gallery_images = []
 is_on_sale = true
 is_pending = false
@@ -10,12 +10,12 @@ page_kind = "home"
 price = "TBD"
 progress_images = []
 slug = "/1811-mcduffie"
-title = "1811 McDuffie"
+title = "1809 +1811 McDuffie"
 type = "page"
 video_tour_link = ""
 [featured_image]
 alt_text = ""
-home_featured_image = "/v1592578040/OnPoint%20Custom%20Homes/Copy_of_Design_soming_soon_hk2wjl.png"
+home_featured_image = "/v1600447594/OnPoint%20Custom%20Homes/1809_1811_McDuffie_Front_Rendering_9.17.20_wgqn0g.png"
 [home_specifics]
 bathrooms = ""
 bedrooms = ""
@@ -27,7 +27,7 @@ square_feet = ""
 city = "Houston"
 neighboorhood = "Hyde Park"
 state = "TX"
-street_address = "1811 McDuffie"
+street_address = "1809 +1811 McDuffie"
 zip_code = "77019"
 
 +++
