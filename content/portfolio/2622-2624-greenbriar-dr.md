@@ -9,8 +9,8 @@ layout = "home-single"
 page_kind = "home"
 price = "829,000"
 progress_images = []
-slug = "/2622-greenbriar"
-title = "2622 + 2624 GREENBRIAR DR"
+slug = "/2624-greenbriar"
+title = "2624 GREENBRIAR DR"
 type = "page"
 video_tour_link = ""
 [featured_image]
@@ -27,7 +27,7 @@ square_feet = "3,215"
 city = "Houston"
 neighboorhood = "UPPER KIRBY"
 state = "TX"
-street_address = "2622 + 2624 GREENBRIAR DR"
+street_address = "2624 GREENBRIAR DR"
 zip_code = "77007"
 
 +++
