@@ -1,5 +1,6 @@
 +++
 date = 2020-06-19T04:00:00Z
+draft = true
 floor_plans = []
 gallery_images = []
 is_on_sale = false
