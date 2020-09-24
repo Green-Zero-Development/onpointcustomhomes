@@ -15,7 +15,7 @@ type = "page"
 video_tour_link = ""
 [featured_image]
 alt_text = ""
-home_featured_image = "/v1600956490/OnPoint%20Custom%20Homes/1601_1603_Driscoll_Render_-_Day_yl8rdx.png"
+home_featured_image = "/v1600977342/OnPoint%20Custom%20Homes/1601_1603_Driscoll_Render_-_Day_4-3_l8pkya.png"
 [home_specifics]
 bathrooms = "3.5"
 bedrooms = "4"
