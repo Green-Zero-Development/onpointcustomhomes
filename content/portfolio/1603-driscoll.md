@@ -1,6 +1,6 @@
 +++
 date = 2020-08-03T05:00:00Z
-floor_plans = ["/v1600956738/OnPoint%20Custom%20Homes/1601_Driscoll_-_1st_Floor_Sales_pvx6hr.jpg", "/v1600956737/OnPoint%20Custom%20Homes/1601_Driscoll_-_2nd_Floor_Sales_sgjt4b.jpg", "/v1600956737/OnPoint%20Custom%20Homes/1601_Driscoll_-_3rd_Floor_Sales_kobdn2.jpg"]
+floor_plans = ["/v1600956898/OnPoint%20Custom%20Homes/1_s7kley.jpg", "/v1600956899/OnPoint%20Custom%20Homes/2_e3ueqj.jpg", "/v1600956902/OnPoint%20Custom%20Homes/3_tguqt5.jpg"]
 gallery_images = []
 is_on_sale = true
 is_pending = false
