@@ -2,6 +2,17 @@
 label: Press Article
 hide_body: true
 fields:
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: true
+  hidden: true
+  default: now
 - type: text
   name: name_of_publication
   label: Name of Publication
