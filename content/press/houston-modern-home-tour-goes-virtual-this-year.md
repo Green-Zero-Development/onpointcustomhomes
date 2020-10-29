@@ -1,4 +1,5 @@
 +++
+date = "2020-08-19T18:59:57+00:00"
 name_of_publication = "Houston Chronicle"
 page_kind = "press"
 press_link = "https://www.houstonchronicle.com/life/home/design/article/Houston-Modern-Home-Tour-goes-virtual-this-year-15676403.php"
