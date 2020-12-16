@@ -8,30 +8,18 @@ responsive: [{breakpoint: 992,settings: {slidesToShow: 5,slidesToScroll: 4,arrow
 
 $(function() {
   $(".controls-image-gallery").click(function() {
-    $('.big-slide-gallery').addClass("w-100 h-full opacity-100 pin-t py-5 z-50");
-    $('.page-inner-container').addClass("lg:w-full");
-    $('body').addClass("overflow-hidden");
-    $('.page-inner-container').removeClass("container");
-    $('.big-slide-gallery').removeClass("h-px w-px opacity-0"); 
+    $('.big-slide-gallery').addClass("z-50");
+    $('.big-slide-gallery').removeClass("opacity-0 z-min1 no-point-events"); 
   });
   $(".close-this-gallery").click(function() {
-    $('.big-slide-gallery').removeClass("w-100 h-full opacity-100 py-5 pin-t");
-    $('.page-inner-container').removeClass("lg:w-full");
-    $('body').removeClass("overflow-hidden");
-    $('.page-inner-container').addClass("container");
-    $('.big-slide-gallery').addClass("h-px w-px opacity-0"); 
+    $('.big-slide-gallery').removeClass("z-50");
+    $('.big-slide-gallery').addClass("opacity-0 z-min1 no-point-events"); 
   });
 });
-
-$(".controls-image-gallery").click(function() {$('html,body').animate({
-scrollTop: $(".big-slide-gallery").offset().top},'slow');});
-
-$(".close-this-gallery").click(function() {$('html,body').animate({
-scrollTop: $(".slider-controls-gallery").offset().top},'slow');});
   
 </script>
 
-<script type="text/javascript">$('.slider-floor-plans').slick({arrows:true, dots: false,infinite:true, speed:1000, slidesToShow:1, slidesToScroll:1, lazyLoad: 'ondemand', fade: true, prevArrow: '<button class="hidden lg:flex-inline w-px lg:w-1/5 absolute pin-t pin-l text-5xl h-screen text-center lg:z-50 hover:opacity-50"><img src="https://res.cloudinary.com/onpointcustomhomes/image/upload/v1563994367/OnPoint%20Custom%20Homes/last-gallery-item.png"></button>', nextArrow: '<button class="hidden lg:flex-inline w-px lg:w-1/5 absolute pin-t pin-r text-5xl text-center h-screen lg:z-50 hover:opacity-50"><img src="https://res.cloudinary.com/onpointcustomhomes/image/upload/v1563994367/OnPoint%20Custom%20Homes/next-gallery-item.png"></button>'});
+<script type="text/javascript">$('.slider-floor-plans').slick({arrows:true, dots: false,infinite:true, speed:1000, slidesToShow:1, slidesToScroll:1, lazyLoad: 'ondemand', fade: true, prevArrow: '<button class="hidden lg:flex-inline w-px lg:w-1/6 absolute pin-t pin-l text-5xl h-screen text-center lg:z-50 hover:opacity-50"><img src="https://res.cloudinary.com/onpointcustomhomes/image/upload/v1563994367/OnPoint%20Custom%20Homes/last-gallery-item.png"></button>', nextArrow: '<button class="hidden lg:flex-inline w-px lg:w-1/6 absolute pin-t pin-r text-5xl text-center h-screen lg:z-50 hover:opacity-50"><img src="https://res.cloudinary.com/onpointcustomhomes/image/upload/v1563994367/OnPoint%20Custom%20Homes/next-gallery-item.png"></button>'});
 
 </script>
 
@@ -39,28 +27,16 @@ scrollTop: $(".slider-controls-gallery").offset().top},'slow');});
 
 responsive: [{breakpoint: 992,settings: {slidesToShow: 5,slidesToScroll: 4,arrows:false}},{breakpoint: 768,settings: {slidesToShow: 3,slidesToScroll: 3,arrows: false}},{breakpoint: 576,settings: {slidesToShow: 2,slidesToScroll: 2,arrows: false}}]});
 
-$(function() {
-  $(".controls-image-floor-plans").click(function() {
-    $('.big-slide-floor-plans').addClass("w-100 h-full opacity-100 py-5 pin-t z-50");
-    $('.page-inner-container').addClass("lg:w-full");
-    $('body').addClass("overflow-hidden");
-    $('.page-inner-container').removeClass("container");
-    $('.big-slide-floor-plans').removeClass("h-px w-px opacity-0"); 
-  });
-  $(".close-this-floor-plans").click(function() {
-    $('.big-slide-floor-plans').removeClass("w-100 h-full opacity-100 py-5 pin-t");
-    $('.page-inner-container').removeClass("lg:w-full");
-    $('body').removeClass("overflow-hidden");
-    $('.page-inner-container').addClass("container");
-    $('.big-slide-floor-plans').addClass("h-px w-px opacity-0"); 
-  });
-});
-
-$(".controls-image-floor-plans").click(function() {$('html,body').animate({
-scrollTop: $(".big-slide-floor-plans").offset().top},'slow');});
-
-$(".close-this-floor-plans").click(function() {$('html,body').animate({
-scrollTop: $(".slider-controls-floor-plans").offset().top},'slow');});
+// $(function() {
+//   $(".controls-image-floor-plans").click(function() {
+//     $('.big-slide-floor-plans').addClass("z-50");
+//     $('.big-slide-floor-plans').removeClass("opacity-0 z-min1 no-point-events"); 
+//   });
+//   $(".close-this-floor-plans").click(function() {
+//     $('.big-slide-floor-plans').removeClass("z-50");
+//     $('.big-slide-floor-plans').addClass("opacity-0 z-min1 no-point-events"); 
+//   });
+// });
   
 </script>
 
@@ -74,26 +50,14 @@ responsive: [{breakpoint: 992,settings: {slidesToShow: 5,slidesToScroll: 4,arrow
 
 $(function() {
   $(".controls-image-progress").click(function() {
-    $('.big-slide-progress').addClass("w-100 h-full opacity-100 py-5 pin-t z-50");
-    $('.page-inner-container').addClass("lg:w-full");
-    $('body').addClass("overflow-hidden");
-    $('.page-inner-container').removeClass("container");
-    $('.big-slide-progress').removeClass("h-px w-px opacity-0"); 
+    $('.big-slide-progress').addClass("z-50");
+    $('.big-slide-progress').removeClass("opacity-0 z-min1 no-point-events"); 
   });
   $(".close-this-progress").click(function() {
-    $('.big-slide-progress').removeClass("w-100 h-full opacity-100 py-5 pin-t");
-    $('.page-inner-container').removeClass("lg:w-full");
-    $('body').removeClass("overflow-hidden");
-    $('.page-inner-container').addClass("container");
-    $('.big-slide-progress').addClass("h-px w-px opacity-0"); 
+    $('.big-slide-progress').removeClass("z-50");
+    $('.big-slide-progress').addClass("opacity-0 z-min1 no-point-events"); 
   });
 });
-
-$(".controls-image-progress").click(function() {$('html,body').animate({
-scrollTop: $(".big-slide-progress").offset().top},'slow');});
-
-$(".close-this-progress").click(function() {$('html,body').animate({
-scrollTop: $(".slider-controls-progress").offset().top},'slow');});
   
 </script>
 

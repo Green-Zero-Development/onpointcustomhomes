@@ -1,5 +1,12 @@
 User-agent: *
-# robotstxt.org - if ENV production variable is false robots will be disallowed.
 
-  Disallow: /
 
+
+Disallow: /blog/page/3/
+
+Disallow: /blog/page/2/
+
+Disallow: /thank-you/
+
+
+Sitemap: https://onpointcustomhomes.com/sitemapindex.xml
