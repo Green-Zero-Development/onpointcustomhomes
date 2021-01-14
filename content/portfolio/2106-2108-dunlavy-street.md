@@ -10,7 +10,7 @@ page_kind = "home"
 price = "659,999"
 progress_images = ["/v1597778524/OnPoint%20Custom%20Homes/2106_DUNLAVY_POOL_RENDERING_AERIAL_1_8.3.20_mdeb58.png", "/v1597778516/OnPoint%20Custom%20Homes/2106_DUNLAVY_POOL_RENDERING_AERIAL_2_8.3.20_khj659.png", "/v1597778501/OnPoint%20Custom%20Homes/2106_DUNLAVY_POOL_RENDERING_7.31.20_pktybs.png"]
 slug = "/2106-dunlavy-st"
-title = "2106 DUNLAVY STREET"
+title = "2106 + 2108 DUNLAVY STREET"
 type = "page"
 video_tour_link = "https://www.youtube.com/embed/lpZrNwQUZ9c"
 [featured_image]
@@ -27,7 +27,7 @@ square_feet = "2,913"
 city = "Houston"
 neighboorhood = "HYDE PARK"
 state = "TX"
-street_address = "2106 DUNLAVY STREET"
+street_address = "2106 + 2108 DUNLAVY STREET"
 zip_code = "77006"
 
 +++
