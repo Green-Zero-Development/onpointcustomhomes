@@ -1,6 +1,6 @@
 +++
 date = 2020-08-14T04:00:00Z
-floor_plans = ["/v1612389865/OnPoint%20Custom%20Homes/1811_MCDUFFIE_SALES_PLAN_1ST_FLOOR_wckbys.jpg", "/v1612389844/OnPoint%20Custom%20Homes/1811_MCDUFFIE_SALES_PLAN_2ND_FLOOR_w5qe2l.jpg", "/v1612389848/OnPoint%20Custom%20Homes/1811_MCDUFFIE_SALES_PLAN_3RD_FLOOR_tx1zqk.jpg"]
+floor_plans = ["/v1612477702/OnPoint%20Custom%20Homes/1811_MCDUFFIE_MARKETING_-_Sheet_-_SP01_-_FIRST_FLOOR_gwzk8p.jpg", "/v1612477704/OnPoint%20Custom%20Homes/1811_MCDUFFIE_MARKETING_-_Sheet_-_SP02_-_SECOND_FLOOR_mvbsyq.jpg", "/v1612477706/OnPoint%20Custom%20Homes/1811_MCDUFFIE_MARKETING_-_Sheet_-_SP03_-_THIRD_FLOOR_xgu03a.jpg"]
 gallery_images = []
 is_on_sale = true
 is_pending = false
