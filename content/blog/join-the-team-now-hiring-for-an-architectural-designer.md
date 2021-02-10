@@ -9,7 +9,7 @@ title = "Join the Team - Now Hiring for an Architect"
 type = "post"
 [featured_image]
 alt_text = ""
-blog_featured_image = ""
+blog_featured_image = "/v1571628797/OnPoint%20Custom%20Homes/0N8A7709.jpg"
 
 +++
 **Position:** Architectural Designer  
