@@ -13,10 +13,12 @@ blog_featured_image = "/v1571628797/OnPoint%20Custom%20Homes/0N8A7709.jpg"
 
 +++
 **Position:** Architectural Designer  
-\**Location:**Houston, TX
+Location: Houston, TX
 
-\**Key Responsibilities  
-\**We are looking for an individual with a Bachelor’s of Architecture who is interested in residential construction and custom home building. This specific degree is preferred; however please note that favor may be given to those with a higher degree or level of accreditation. At least one year of formal work experience is preferred, and more than that is favored. This individual must be:
+![](https://res.cloudinary.com/onpointcustomhomes/image/upload/v1567200680/OnPoint%20Custom%20Homes/0N8A4557_vjkv1d.jpg)
+
+**Key Responsibilities**  
+We are looking for an individual with a Bachelor’s of Architecture who is interested in residential construction and custom home building. This specific degree is preferred; however please note that favor may be given to those with a higher degree or level of accreditation. At least one year of formal work experience is preferred, and more than that is favored. This individual must be:
 
 * Proficiency in Revit and CAD, and comfortable with a BIM environment and architectural documentation
 * Working knowledge of Enscape 3D rendering software
