@@ -13,7 +13,7 @@ blog_featured_image = "/v1591378582/OnPoint%20Custom%20Homes/0N8A4557_khaqym.jpg
 
 +++
 **Key Responsibilities:**  
-We are looking for an enthusiastic individual to join our team to support internal operations and client concierge services. Ideal candidate is overly organized, communicates well, has passion for learning, and thrives in a collaborative, fast-paced office environment. This position entails the following:
+We are looking for an enthusiastic individual to join our team to support internal operations and client concierge services. Ideal candidate is overly organized, communicates well, has a passion for learning, and thrives in a collaborative, fast-paced office environment. This position entails the following:
 
   
 **Job responsibilities include the following:**
