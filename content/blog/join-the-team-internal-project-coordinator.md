@@ -13,10 +13,11 @@ alt_text = ""
 blog_featured_image = "/v1591378582/OnPoint%20Custom%20Homes/0N8A4557_khaqym.jpg"
 
 +++
-**Key Responsibilities:  
-**We are looking for an enthusiastic individual to join our team to support internal operations and client concierge services. Ideal candidate is overly organized, communicates well, has passion for learning, and thrives in a collaborative, fast-paced office environment. This position entails the following:  
-  
-**Job responsibilities include the following:**
+**Key Responsibilities:**  
+We are looking for an enthusiastic individual to join our team to support internal operations and client concierge services. Ideal candidate is overly organized, communicates well, has passion for learning, and thrives in a collaborative, fast-paced office environment. This position entails the following:
+
+**  
+Job responsibilities include the following:**
 
 * Assist with requesting and gathering bids and managing all vendor receivables
 * Assist teams with specifications for spec and custom homes
@@ -33,8 +34,8 @@ blog_featured_image = "/v1591378582/OnPoint%20Custom%20Homes/0N8A4557_khaqym.jpg
 * Consult and coordinate with vendors on property photos, videos, staging, signage and other various marketing activities
 * Coordinate all client and vendor appreciation events and partnership opportunities
 
-**  
-Job requires the following skills:**
+  
+**Job requires the following skills:**
 
 * Passion for design and residential real estate and the desire to learn and grow within the industry
 * Strong organization skills with the ability to juggle and prioritize multiple projects
@@ -45,8 +46,8 @@ Job requires the following skills:**
 * Must be accustomed to owning their workload and handle multiple tasks with ease in a fast-paced environment
 * Tech Savvy, Process improver, idea maker, problem solver, innovative, with a good personality
 * Proficient with Microsoft Office (Excel, Word, Power Point & Outlook)
-* Driver’s license and reliable transportation required  
-    
+* Driver’s license and reliable transportation required
+
   Our team is in need of a creative individual to lead our selections and design efforts for all custom and spec home projects. We’re looking for someone with a positive and professional attitude who is eager to work with clients and lead them through the custom home design process. Job responsibilities require a high level of focus and attention to detail combined with an ability to prioritize and manage time efficiently. We expect this team member to have the drive and dedication to learn and continually grow within our fast-paced and expanding company.
 
 Send your resume to Ashley, at@opcustomhomes.com to apply!
