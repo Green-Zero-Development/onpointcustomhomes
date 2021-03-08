@@ -2,7 +2,6 @@
 "blog/category" = []
 "blog/tag" = ["sales", "marketing", "project management", "purchasing", "design", "new job", "on point custom homes", "job", "team", "hiring"]
 date = 2021-03-01T06:00:00Z
-draft = true
 excerpt = "We are looking for an enthusiastic individual to join our team to support internal operations and client concierge services. Ideal candidate is overly organized, communicates well, has passion for learning, and thrives in a collaborative, fast-paced office environment. "
 layout = "blog"
 slug = "/internalprojectcoordinator"
