@@ -34,7 +34,7 @@ Job responsibilities include the following:**
 * Consult and coordinate with vendors on property photos, videos, staging, signage and other various marketing activities
 * Coordinate all client and vendor appreciation events and partnership opportunities
 
-  
+![](https://res.cloudinary.com/onpointcustomhomes/image/upload/v1567200679/OnPoint%20Custom%20Homes/0N8A4551_sxz91w.jpg)  
 **Job requires the following skills:**
 
 * Passion for design and residential real estate and the desire to learn and grow within the industry
